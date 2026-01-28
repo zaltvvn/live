@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="epg.zaltv.gq" last-update="2026-01-28T08:13:13Z">
+<tv generator-info-name="epg.zaltv.gq" last-update="2026-01-28T08:16:21Z">
   <channel id="abcaustralia" source="EPGVN (PRIMARY)">
     <display-name>ABC Australia</display-name>
     <icon src="https://vnepg.site/logos/153.png" />
@@ -649,11 +649,6 @@
     <display-name>An Giang 1</display-name>
     <icon src="https://vnepg.site/logos/79.png" />
   </channel>
-  <programme channel="angiang1" start="20260128084500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH GIẢI TRÍ</title>
-    <desc lang="vi">Sức sống thanh xuân – Tập 20 – Hết</desc>
-    <icon src="https://vnepg.site/logos/79.png" />
-  </programme>
   <programme channel="angiang1" start="20260128091500 +0700" stop="20260128101500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
     <desc lang="vi">Ruby máu – Tập 26</desc>
@@ -1309,11 +1304,6 @@
   </programme>
   <programme channel="angiang3" start="20260129074500 +0700" stop="20260129074600 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THÔNG BÁO – NHẮN TIN – GIỚI THIỆU CHƯƠNG TRÌNH</title>
-    <icon src="https://vnepg.site/logos/81.png" />
-  </programme>
-  <programme channel="angiang3" start="20260129074500 +0700" stop="20260129081000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH GIẢI TRÍ</title>
-    <desc lang="vi">Bí ẩn Eva – Tập 22</desc>
     <icon src="https://vnepg.site/logos/81.png" />
   </programme>
   <programme channel="angiang3" start="20260129081000 +0700" stop="20260129081500 +0700" source="EPGVN (PRIMARY)">
@@ -5696,11 +5686,6 @@
     <desc lang="vi">NSND Đạt Tăng - Thầm lặng sau những vở diễn</desc>
     <icon src="https://vnepg.site/logos/89.png" />
   </programme>
-  <programme channel="camau" start="20260128164500 +0700" stop="20260128170000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYÊN ĐỀ NGƯỜI TỐT, VIỆC TỐT</title>
-    <desc lang="vi">Người trẻ học cách làm việc tốt</desc>
-    <icon src="https://vnepg.site/logos/89.png" />
-  </programme>
   <programme channel="camau" start="20260128170000 +0700" stop="20260128171500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TIN ĐÓ ĐÂY</title>
     <icon src="https://vnepg.site/logos/89.png" />
@@ -6298,10 +6283,6 @@
   </programme>
   <programme channel="camauradio" start="20260129213500 +0700" stop="20260129213600 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHUYỆN XÃ, PHƯỜNG</title>
-    <icon src="https://baocamau.vn/live/radio_online.jpg" />
-  </programme>
-  <programme channel="camauradio" start="20260129213500 +0700" stop="20260129221500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TRÍCH ĐOẠN CẢI LƯƠNG</title>
     <icon src="https://baocamau.vn/live/radio_online.jpg" />
   </programme>
   <programme channel="camauradio" start="20260129221500 +0700" stop="20260129235959 +0700" source="EPGVN (PRIMARY)">
@@ -6971,13 +6952,6 @@
     <display-name>Cartoon Network</display-name>
     <icon src="https://vnepg.site/logos/140.png" />
   </channel>
-  <programme channel="cartoonhd" start="20260128081500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM HOẠT HÌNH NHỮNG GIAI ĐIỆU NGỐC NGHẾCH</title>
-    <desc lang="vi">Porky và Daffy leo lên Mt. Neverest. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000391X542961.jpg" />
-    <category lang="vi">Trẻ em</category>
-    <category lang="vi">Hoạt hình</category>
-  </programme>
   <programme channel="cartoonhd" start="20260128091500 +0700" stop="20260128101500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH TOM VÀ JERRY</title>
     <desc lang="vi">Little Quaker lo sợ vận may của mình sẽ trở nên tồi tệ. Mô tả có sử dụng Google Translate.</desc>
@@ -7311,13 +7285,6 @@
     <display-name>BBC Cbeebies</display-name>
     <icon src="https://vnepg.site/logos/150.png" />
   </channel>
-  <programme channel="cbeebies" start="20260128090900 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHÀO DUGGEE</title>
-    <desc lang="vi">Norrie sắp đến Câu lạc bộ Sóc muộn nên Duggee dạy cho lũ sóc biết đường đi làm là gì - một hành trình có thể đưa bạn từ nhà đến học tập, làm việc hoặc vui chơi. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000572X692078.jpg" />
-    <category lang="vi">Trẻ em</category>
-    <category lang="vi">Mầm non</category>
-  </programme>
   <programme channel="cbeebies" start="20260128091500 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TIẾN LÊN PHI ĐỘI MÁY BAY</title>
     <desc lang="vi">Đội Go Jetters bắt đầu hành động khi Glitch sử dụng những địa danh có thật cho sân gôn điên rồ của mình. Mô tả có sử dụng Google Translate.</desc>
@@ -11276,11 +11243,6 @@
     <display-name>Đắk Lắk</display-name>
     <icon src="https://vnepg.site/logos/91.png" />
   </channel>
-  <programme channel="daklak" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI</title>
-    <desc lang="vi">Đất nước gấm hoa</desc>
-    <icon src="https://vnepg.site/logos/91.png" />
-  </programme>
   <programme channel="daklak" start="20260128091500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN ĐL</title>
     <desc lang="vi">Khoảng cách (tập 12)</desc>
@@ -11699,10 +11661,6 @@
     <display-name>Đà Nẵng 2</display-name>
     <icon src="https://vnepg.site/logos/94.png" />
   </channel>
-  <programme channel="danang2" start="20260128083000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHÀO NGÀY MỚI</title>
-    <icon src="https://vnepg.site/logos/94.png" />
-  </programme>
   <programme channel="danang2" start="20260128091500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Má ơi tỉnh mộng - Tập 16</desc>
@@ -14043,10 +14001,6 @@
     <display-name>Đồng Nai 1</display-name>
     <icon src="https://vnepg.site/logos/95.png" />
   </channel>
-  <programme channel="dongnai1" start="20260128085000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIẢI MÃ CUỘC SỐNG</title>
-    <icon src="https://vnepg.site/logos/95.png" />
-  </programme>
   <programme channel="dongnai1" start="20260128091500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TĐ TRÁI TIM NGƯỜI LÍNH</title>
     <icon src="https://vnepg.site/logos/95.png" />
@@ -14892,10 +14846,6 @@
     <display-name>Đồng Tháp 1</display-name>
     <icon src="https://vnepg.site/logos/97.png" />
   </channel>
-  <programme channel="dongthap1" start="20260128085000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THỜI SỰ</title>
-    <icon src="https://vnepg.site/logos/97.png" />
-  </programme>
   <programme channel="dongthap1" start="20260128091500 +0700" stop="20260128110000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM NN</title>
     <desc lang="vi">Ở rể - Tập 22, 23</desc>
@@ -15238,11 +15188,6 @@
     <display-name>Đồng Tháp 2</display-name>
     <icon src="https://vnepg.site/logos/98.png" />
   </channel>
-  <programme channel="dongthap2" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN THIẾU NHI</title>
-    <desc lang="vi">100% sói – Phần 1 – Tập 64</desc>
-    <icon src="https://vnepg.site/logos/98.png" />
-  </programme>
   <programme channel="dongthap2" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KÝ ỨC MIỀN TÂY</title>
     <icon src="https://vnepg.site/logos/98.png" />
@@ -16510,13 +16455,6 @@
     <display-name>DW</display-name>
     <icon src="https://vnepg.site/logos/158.png" />
   </channel>
-  <programme channel="dw" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DW NEWS</title>
-    <desc lang="vi">News, information and analysis of German and European topics.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000317X373472.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <programme channel="dw" start="20260128091500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">DOCFILM EP1154</title>
     <desc lang="vi">The Amish still live as they did in the 17th century: without electricity, phones or cars. While many continue to resist the temptations of the modern world, others are breaking away from the group.</desc>
@@ -17566,13 +17504,6 @@
     <display-name>France 24</display-name>
     <icon src="https://vnepg.site/logos/159.png" />
   </channel>
-  <programme channel="france24eng" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NEWS</title>
-    <desc lang="vi">An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000318X570314.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <programme channel="france24eng" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PERSPECTIVE</title>
     <desc lang="vi">France 24 hosts prestigious guests live in Paris or from around the world to talk about their work.</desc>
@@ -19170,11 +19101,6 @@
     <display-name>Hải Phòng 3</display-name>
     <icon src="https://vnepg.site/logos/105.png" />
   </channel>
-  <programme channel="haiphong3" start="20260128084500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC QUỐC TẾ</title>
-    <desc lang="vi">Ông vua nhạc Pop Latin Enrique Iglesias</desc>
-    <icon src="https://vnepg.site/logos/105.png" />
-  </programme>
   <programme channel="haiphong3" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KHÁM PHÁ THẾ GIỚI</title>
     <desc lang="vi">Công nghệ nhiệt hạch - Bước ngoặt nguy hiểm của lịch sử quân sự hiện đại</desc>
@@ -19312,10 +19238,6 @@
     <display-name>Hải Phòng FM 93.7</display-name>
     <icon src="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg" />
   </channel>
-  <programme channel="haiphong937" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THỜI SỰ HẢI PHÒNG 09H00</title>
-    <icon src="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg" />
-  </programme>
   <programme channel="haiphong937" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐOÀN KẾT LÀ SỨC MẠNH</title>
     <desc lang="vi">Phát huy vai trò của Mặt trận trong công tác bầu cử</desc>
@@ -19483,10 +19405,6 @@
     <display-name>Hà Nội 1</display-name>
     <icon src="https://vnepg.site/logos/100.png" />
   </channel>
-  <programme channel="hanoi1" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THỜI SỰ</title>
-    <icon src="https://vnepg.site/logos/100.png" />
-  </programme>
   <programme channel="hanoi1" start="20260128091500 +0700" stop="20260128101500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TỌA ĐÀM</title>
     <desc lang="vi">Big Data và tái định hình thị trường tài chính</desc>
@@ -19938,10 +19856,6 @@
     <display-name>Hà Nội FM96</display-name>
     <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/PVBHDT4A5DFI.jpg" />
   </channel>
-  <programme channel="hanoi96" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN THỜI SỰ TỔNG HỢP</title>
-    <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/PVBHDT4A5DFI.jpg" />
-  </programme>
   <programme channel="hanoi96" start="20260128091500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SÓNG NHẠC THẾ GIỚI</title>
     <desc lang="vi">Nữ danh ca người Ý Laura Pausini</desc>
@@ -23162,10 +23076,6 @@
     <display-name>HTV1</display-name>
     <icon src="https://vnepg.site/logos/32.png" />
   </channel>
-  <programme channel="htv1" start="20260128085500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">VƯỜN SAO MAI</title>
-    <icon src="https://vnepg.site/logos/32.png" />
-  </programme>
   <programme channel="htv1" start="20260128091500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">DU LỊCH VÀ CUỘC SỐNG</title>
     <icon src="https://vnepg.site/logos/32.png" />
@@ -28861,10 +28771,6 @@
     <display-name>Khánh Hòa 1</display-name>
     <icon src="https://vnepg.site/logos/109.png" />
   </channel>
-  <programme channel="khanhhoa1" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN THỜI SỰ TỔNG HỢP</title>
-    <icon src="https://vnepg.site/logos/109.png" />
-  </programme>
   <programme channel="khanhhoa1" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHUYÊN MỤC THỂ THAO</title>
     <icon src="https://vnepg.site/logos/109.png" />
@@ -29390,13 +29296,6 @@
     <display-name>K+</display-name>
     <icon src="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000315_IVP_LAND_586x330.jpg" />
   </channel>
-  <programme channel="kplushd" start="20260128075700 +0700" stop="20260128091400 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DON'T CALL ME MA'AM EP11</title>
-    <desc lang="vi">Na-jeong tries to fight back after receiving a notice that her internship is being terminated early. Il-ri rejects Sang-gyu's proposal.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X930625.jpg" />
-    <category lang="vi">TV Show</category>
-    <category lang="vi">Drama</category>
-  </programme>
   <programme channel="kplushd" start="20260128091400 +0700" stop="20260128102900 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">DON'T CALL ME MA'AM EP12</title>
     <desc lang="vi">Ju-young and Sang-min open up to each other about their true feelings. Na-jeong embarks on a new journey by starting her own online video channel.</desc>
@@ -29625,10 +29524,6 @@
     <display-name>Lai Châu</display-name>
     <icon src="https://vnepg.site/logos/110.png" />
   </channel>
-  <programme channel="laichau" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHÓNG SỰ CHUYÊN ĐỀ</title>
-    <icon src="https://vnepg.site/logos/110.png" />
-  </programme>
   <programme channel="laichau" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">HỎI ĐÁP PHÁP LUẬT</title>
     <icon src="https://vnepg.site/logos/110.png" />
@@ -30936,10 +30831,6 @@
     <display-name>Lạng Sơn</display-name>
     <icon src="https://vnepg.site/logos/114.png" />
   </channel>
-  <programme channel="langson" start="20260128091000 +0700" stop="20260128091400 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TUYÊN TRUYỀN VỀ BẦU CỬ</title>
-    <icon src="https://vnepg.site/logos/114.png" />
-  </programme>
   <programme channel="langson" start="20260128091400 +0700" stop="20260128094400 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TIẾNG TÀY</title>
     <icon src="https://vnepg.site/logos/114.png" />
@@ -31722,13 +31613,6 @@
     <display-name>Love Nature 4K</display-name>
     <icon src="https://linear-poster.astro.com.my/prod/poster/LoveNature4K_2025_IVP_LAND_1280x720.jpg" />
   </channel>
-  <programme channel="lovenature4k" start="20260128082000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">AMERICA'S WILD BORDER: NORTHERN EXPOSURE</title>
-    <desc lang="vi">Trail Atlantic puffins, Prairie rattlesnakes, Alaskan caribou and other animals as they travel across the international boundary between the U.S. and Canada.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000574X693748.jpg" />
-    <category lang="vi">Factual &amp;amp; Documentary</category>
-    <category lang="vi">Nature</category>
-  </programme>
   <programme channel="lovenature4k" start="20260128091500 +0700" stop="20260128101000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">INTO THE WILD INDIA S1 EP03</title>
     <desc lang="vi">The high altitude Ladakh plateau in northwest India is a land of extremes. The air is thin and the mountain landscape treacherous; winters are freezing, while summers are scorching hot.</desc>
@@ -34107,10 +33991,6 @@
     <display-name>ON BiBi</display-name>
     <icon src="https://vnepg.site/logos/19.png" />
   </channel>
-  <programme channel="onbibi" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH CA NHẠC (104T)(104T) BÉ YÊU TỎA SÁNG - TẬP 2</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBI_M.jpg" />
-  </programme>
   <programme channel="onbibi" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH CA NHẠC (104T)(104T) BÉ YÊU TỎA SÁNG - TẬP 2</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBI_M.jpg" />
@@ -35776,10 +35656,6 @@
     <display-name>ON Info TV</display-name>
     <icon src="https://vnepg.site/logos/20.png" />
   </channel>
-  <programme channel="oninfotv" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM NƯỚC NGOÀI</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/INFO_TV_M.jpg" />
-  </programme>
   <programme channel="oninfotv" start="20260128091500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">LÁ CHẮN CUỐI CÙNG (TL_22T) - TẬP 22</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/INFO_TV_M.jpg" />
@@ -36124,10 +36000,6 @@
     <display-name>ON Kids</display-name>
     <icon src="https://vnepg.site/logos/29.png" />
   </channel>
-  <programme channel="onkids" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CON YÊU ƠI ĐỪNG SỢ (100) - TẬP 54</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBIPLUS_HD_M.jpg" />
-  </programme>
   <programme channel="onkids" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TÀI BÁCH THÔNG (30) - TẬP 29+30</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBIPLUS_HD_M.jpg" />
@@ -36668,10 +36540,6 @@
     <display-name>ON Life</display-name>
     <icon src="https://vnepg.site/logos/30.png" />
   </channel>
-  <programme channel="onlife" start="20260128084500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TÀI LIỆU VĂN HÓA DÂN TỘC (39) TẬP 13</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/LIFE_TV_M.jpg" />
-  </programme>
   <programme channel="onlife" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KÝ ỨC MIỀN TÂY - SỐ 18</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/LIFE_TV_M.jpg" />
@@ -38435,10 +38303,6 @@
     <display-name>ON Sports+</display-name>
     <icon src="https://vnepg.site/logos/17.png" />
   </channel>
-  <programme channel="onsportsplus" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIẤC MƠ THỂ THAO - SỐ 11-25</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/HAY_TV_M.jpg" />
-  </programme>
   <programme channel="onsportsplus" start="20260128091500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TẠP CHÍ ATP TOUR THIS WEEK - SỐ 03-26</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/HAY_TV_M.jpg" />
@@ -38741,10 +38605,6 @@
     <display-name>ON Style TV</display-name>
     <icon src="https://vnepg.site/logos/22.png" />
   </channel>
-  <programme channel="onstyle" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/STYLE_TV_HD_M/phimtruyen.jpg" />
-  </programme>
   <programme channel="onstyle" start="20260128091500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SITCOM - CÔNG SỞ KỲ TRUYỆN ( 213 SỐ) - T190+191 + 192 + 193</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg" />
@@ -41387,10 +41247,6 @@
     <display-name>Quảng Ninh Radio 2</display-name>
     <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
   </channel>
-  <programme channel="quangninhradio2" start="20260128090500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ÂM NHẠC</title>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
-  </programme>
   <programme channel="quangninhradio2" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">QUẢNG NINH XƯA VÀ NAY</title>
     <desc lang="vi">Chùa Đồng - Yên Tử</desc>
@@ -41812,10 +41668,6 @@
     <display-name>Quảng Trị Radio</display-name>
     <icon src="https://vnepg.site/logos/122.png" />
   </channel>
-  <programme channel="quangtriradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN TRỰC TIẾP</title>
-    <icon src="https://vnepg.site/logos/122.png" />
-  </programme>
   <programme channel="quangtriradio" start="20260128091500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CA NHẠC QUỐC TẾ</title>
     <desc lang="vi">Bảng xếp hạng ca khúc KPOP</desc>
@@ -48032,10 +47884,6 @@
     <display-name>Tây Ninh Radio</display-name>
     <icon src="https://vnepg.site/logos/124.png" />
   </channel>
-  <programme channel="tayninhradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH THỜI SỰ 9H (PL TS 5G30)</title>
-    <icon src="https://vnepg.site/logos/124.png" />
-  </programme>
   <programme channel="tayninhradio" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BẢN TIN TIẾNG KHMER (PL)</title>
     <icon src="https://vnepg.site/logos/124.png" />
@@ -48426,10 +48274,6 @@
     <display-name>Thái Nguyên Radio</display-name>
     <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
   </channel>
-  <programme channel="thainguyenradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BT THỜI SỰ</title>
-    <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
-  </programme>
   <programme channel="thainguyenradio" start="20260128091500 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MỤC ĐIỂM BÁO</title>
     <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
@@ -48839,10 +48683,6 @@
     <display-name>Thanh Hoá Radio</display-name>
     <icon src="https://c.baothanhhoa.vn/static/ptth/bth-radio.webp" />
   </channel>
-  <programme channel="thanhhoaradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TIẾP SÓNG THỜI SỰ CỦA ĐÀI TNVN</title>
-    <icon src="https://c.baothanhhoa.vn/static/ptth/bth-radio.webp" />
-  </programme>
   <programme channel="thanhhoaradio" start="20260128091500 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">VĂN HÓA – NGHỆ THUẬT</title>
     <desc lang="vi">Tự hào Xứ Thanh” qua những giai điệu</desc>
@@ -49694,6 +49534,916 @@
     <display-name>TV360+9</display-name>
     <icon src="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png" />
   </channel>
+  <channel id="tv5.info" source="TV5MONDE API">
+    <display-name>TV5MONDE Info</display-name>
+  </channel>
+  <programme channel="tv5.info" start="20260128070000 +0700" stop="20260128072550 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128072550 +0700" stop="20260128072840 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128073000 +0700" stop="20260128075330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128075330 +0700" stop="20260128080151 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128080400 +0700" stop="20260128082950 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128083330 +0700" stop="20260128085700 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128090000 +0700" stop="20260128092600 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTS</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128093000 +0700" stop="20260128100000 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128100210 +0700" stop="20260128102810 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTS</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128103000 +0700" stop="20260128105600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128110000 +0700" stop="20260128112539 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128112500 +0700" stop="20260128112750 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128113000 +0700" stop="20260128115600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128120000 +0700" stop="20260128122550 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128123000 +0700" stop="20260128125330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128125330 +0700" stop="20260128125620 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128130000 +0700" stop="20260128133029 +0700" source="TV5MONDE API">
+    <title>L'actu</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128133200 +0700" stop="20260128135800 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128140000 +0700" stop="20260128145729 +0700" source="TV5MONDE API">
+    <title>Le 23h</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128150200 +0700" stop="20260128152800 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128153000 +0700" stop="20260128160000 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128160200 +0700" stop="20260128162750 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128163000 +0700" stop="20260128165330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128165330 +0700" stop="20260128165620 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128170000 +0700" stop="20260128172550 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128172750 +0700" stop="20260128175120 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128175120 +0700" stop="20260128175941 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128180200 +0700" stop="20260128182750 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128183000 +0700" stop="20260128185330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 27/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128185330 +0700" stop="20260128185620 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128190000 +0700" stop="20260128192600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128192600 +0700" stop="20260128192850 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128193000 +0700" stop="20260128195400 +0700" source="TV5MONDE API">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128195413 +0700" stop="20260128195703 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128200000 +0700" stop="20260128202544 +0700" source="TV5MONDE API">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128202800 +0700" stop="20260128204400 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128204600 +0700" stop="20260128211700 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128211900 +0700" stop="20260128213900 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128214100 +0700" stop="20260128222400 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128222422 +0700" stop="20260128222712 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128223000 +0700" stop="20260128225544 +0700" source="TV5MONDE API">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128230000 +0700" stop="20260128231600 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128231800 +0700" stop="20260128234900 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260128234922 +0700" stop="20260128235744 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129000000 +0700" stop="20260129002600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129003000 +0700" stop="20260129005400 +0700" source="TV5MONDE API">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129005413 +0700" stop="20260129005703 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129010000 +0700" stop="20260129012544 +0700" source="TV5MONDE API">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129013000 +0700" stop="20260129015600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129020000 +0700" stop="20260129022400 +0700" source="TV5MONDE API">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129022413 +0700" stop="20260129022703 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129023000 +0700" stop="20260129025900 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129030100 +0700" stop="20260129031000 +0700" source="TV5MONDE API">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129031200 +0700" stop="20260129034000 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129034000 +0700" stop="20260129034821 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129035000 +0700" stop="20260129035900 +0700" source="TV5MONDE API">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129040000 +0700" stop="20260129042900 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129043000 +0700" stop="20260129045800 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129050000 +0700" stop="20260129052900 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129053000 +0700" stop="20260129053900 +0700" source="TV5MONDE API">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129054100 +0700" stop="20260129060900 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129060900 +0700" stop="20260129061800 +0700" source="TV5MONDE API">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129062100 +0700" stop="20260129065000 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129065000 +0700" stop="20260129065821 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129070000 +0700" stop="20260129072550 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129072550 +0700" stop="20260129072840 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129073000 +0700" stop="20260129075330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129075330 +0700" stop="20260129080130 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129080400 +0700" stop="20260129082950 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129083330 +0700" stop="20260129085700 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129090000 +0700" stop="20260129092600 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTS</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129093000 +0700" stop="20260129100000 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129100200 +0700" stop="20260129102800 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTS</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129103000 +0700" stop="20260129105600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129110000 +0700" stop="20260129112500 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129112500 +0700" stop="20260129112750 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129113000 +0700" stop="20260129115600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129120000 +0700" stop="20260129122550 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129123000 +0700" stop="20260129125330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129125330 +0700" stop="20260129125620 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129130000 +0700" stop="20260129133000 +0700" source="TV5MONDE API">
+    <title>L'actu</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129133200 +0700" stop="20260129135800 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129140000 +0700" stop="20260129150000 +0700" source="TV5MONDE API">
+    <title>Le 23h</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129150200 +0700" stop="20260129152800 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129153000 +0700" stop="20260129160000 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129160200 +0700" stop="20260129162750 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129163000 +0700" stop="20260129165330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129165330 +0700" stop="20260129165620 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129170000 +0700" stop="20260129172550 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129172750 +0700" stop="20260129175120 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129175120 +0700" stop="20260129175920 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129180200 +0700" stop="20260129182750 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129183000 +0700" stop="20260129185330 +0700" source="TV5MONDE API">
+    <title>EDITION DU 28/01/26</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129185330 +0700" stop="20260129185620 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129190000 +0700" stop="20260129192600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129192400 +0700" stop="20260129192650 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129193000 +0700" stop="20260129195400 +0700" source="TV5MONDE API">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129195400 +0700" stop="20260129195650 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129200000 +0700" stop="20260129202600 +0700" source="TV5MONDE API">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129202800 +0700" stop="20260129204400 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129204600 +0700" stop="20260129211700 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129211900 +0700" stop="20260129213900 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129214100 +0700" stop="20260129222400 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129222400 +0700" stop="20260129222650 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129223000 +0700" stop="20260129225600 +0700" source="TV5MONDE API">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129230000 +0700" stop="20260129231600 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129231800 +0700" stop="20260129234900 +0700" source="TV5MONDE API">
+    <title>Télématin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260129234900 +0700" stop="20260129235700 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130000000 +0700" stop="20260130002600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130003000 +0700" stop="20260130005400 +0700" source="TV5MONDE API">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130005413 +0700" stop="20260130005703 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130010000 +0700" stop="20260130012600 +0700" source="TV5MONDE API">
+    <title>Le téléjournal de Radio-Canada</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130013000 +0700" stop="20260130015600 +0700" source="TV5MONDE API">
+    <title>Le journal Afrique</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130020000 +0700" stop="20260130022400 +0700" source="TV5MONDE API">
+    <title>6h info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130022413 +0700" stop="20260130022703 +0700" source="TV5MONDE API">
+    <title>Météo</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130023000 +0700" stop="20260130025900 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130030100 +0700" stop="20260130031000 +0700" source="TV5MONDE API">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130031200 +0700" stop="20260130034000 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130034000 +0700" stop="20260130034800 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130034800 +0700" stop="20260130035700 +0700" source="TV5MONDE API">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130040000 +0700" stop="20260130042900 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130043000 +0700" stop="20260130045800 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130050000 +0700" stop="20260130052900 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130053000 +0700" stop="20260130053900 +0700" source="TV5MONDE API">
+    <title>Outremer.l'info</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130054100 +0700" stop="20260130060900 +0700" source="TV5MONDE API">
+    <title>Le journal de France 2</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130062100 +0700" stop="20260130065000 +0700" source="TV5MONDE API">
+    <title>Le journal de la RTBF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130065000 +0700" stop="20260130065800 +0700" source="TV5MONDE API">
+    <title>L'invité</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.info" start="20260130070000 +0700" stop="20260130072550 +0700" source="TV5MONDE API">
+    <title>EDITION DU 29/01/26</title>
+    <desc />
+  </programme>
+  <channel id="tv5.style" source="TV5MONDE API">
+    <display-name>TV5MONDE Style</display-name>
+  </channel>
+  <programme channel="tv5.style" start="20260128070742 +0700" stop="20260128073105 +0700" source="TV5MONDE API">
+    <title>C'est plus qu'un jardin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128073117 +0700" stop="20260128083111 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128083118 +0700" stop="20260128085718 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128085728 +0700" stop="20260128090126 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128090138 +0700" stop="20260128094730 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128094737 +0700" stop="20260128101339 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128101349 +0700" stop="20260128103551 +0700" source="TV5MONDE API">
+    <title>Déconstruire</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128103558 +0700" stop="20260128110159 +0700" source="TV5MONDE API">
+    <title>Le goût des rencontres normandes</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128110211 +0700" stop="20260128112829 +0700" source="TV5MONDE API">
+    <title>Chroniques d'en haut</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128112841 +0700" stop="20260128122835 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128122845 +0700" stop="20260128125445 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128125452 +0700" stop="20260128125658 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128125658 +0700" stop="20260128125928 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128130000 +0700" stop="20260128134552 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128134602 +0700" stop="20260128141204 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128141216 +0700" stop="20260128143659 +0700" source="TV5MONDE API">
+    <title>Une brique dans le ventre</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128143706 +0700" stop="20260128150306 +0700" source="TV5MONDE API">
+    <title>Donner l'goût</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128150316 +0700" stop="20260128152716 +0700" source="TV5MONDE API">
+    <title>Partis skier</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128152728 +0700" stop="20260128162722 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128162729 +0700" stop="20260128165329 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128165339 +0700" stop="20260128165849 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128170012 +0700" stop="20260128174532 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128174539 +0700" stop="20260128181152 +0700" source="TV5MONDE API">
+    <title>Territoires de France </title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128181204 +0700" stop="20260128183749 +0700" source="TV5MONDE API">
+    <title>Une brique dans le ventre</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128183756 +0700" stop="20260128190356 +0700" source="TV5MONDE API">
+    <title>Donner l'goût</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128190403 +0700" stop="20260128192803 +0700" source="TV5MONDE API">
+    <title>Partis skier</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128192815 +0700" stop="20260128202641 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128202648 +0700" stop="20260128205252 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128205259 +0700" stop="20260128205747 +0700" source="TV5MONDE API">
+    <title>#VF</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128205759 +0700" stop="20260128214320 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128214327 +0700" stop="20260128220939 +0700" source="TV5MONDE API">
+    <title>Territoires de France </title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128220951 +0700" stop="20260128223616 +0700" source="TV5MONDE API">
+    <title>Tendance XXI</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128223623 +0700" stop="20260128230030 +0700" source="TV5MONDE API">
+    <title>Curieux Bégin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128230042 +0700" stop="20260128232524 +0700" source="TV5MONDE API">
+    <title>C'est du Belge</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260128232536 +0700" stop="20260129002402 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129002409 +0700" stop="20260129005013 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129005020 +0700" stop="20260129005857 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129005909 +0700" stop="20260129014429 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129014436 +0700" stop="20260129021049 +0700" source="TV5MONDE API">
+    <title>Territoires de France </title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129021101 +0700" stop="20260129023654 +0700" source="TV5MONDE API">
+    <title>Paname</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129023701 +0700" stop="20260129030320 +0700" source="TV5MONDE API">
+    <title>Le goût des rencontres en Nouvelle-Aquitaine</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129030332 +0700" stop="20260129032942 +0700" source="TV5MONDE API">
+    <title>Littoral</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129032954 +0700" stop="20260129042820 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129042827 +0700" stop="20260129045428 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129045435 +0700" stop="20260129045705 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129045705 +0700" stop="20260129045845 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129045857 +0700" stop="20260129054418 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129054425 +0700" stop="20260129061037 +0700" source="TV5MONDE API">
+    <title>Territoires de France </title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129061049 +0700" stop="20260129063705 +0700" source="TV5MONDE API">
+    <title>Version Française</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129063717 +0700" stop="20260129070152 +0700" source="TV5MONDE API">
+    <title> L'épicerie</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129070159 +0700" stop="20260129072421 +0700" source="TV5MONDE API">
+    <title>Comment ça va le Nord ?</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129072433 +0700" stop="20260129082300 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129082307 +0700" stop="20260129084907 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129084914 +0700" stop="20260129090032 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129090044 +0700" stop="20260129094605 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129094612 +0700" stop="20260129101224 +0700" source="TV5MONDE API">
+    <title>Territoires de France </title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129101231 +0700" stop="20260129103537 +0700" source="TV5MONDE API">
+    <title>Sérieux ?</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129103549 +0700" stop="20260129110550 +0700" source="TV5MONDE API">
+    <title>Cuisine ouverte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129110556 +0700" stop="20260129112919 +0700" source="TV5MONDE API">
+    <title>C'est plus qu'un jardin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129112931 +0700" stop="20260129122757 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129122804 +0700" stop="20260129125405 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129125412 +0700" stop="20260129130033 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129130045 +0700" stop="20260129134606 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129134613 +0700" stop="20260129141225 +0700" source="TV5MONDE API">
+    <title>Territoires de France </title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129141232 +0700" stop="20260129143434 +0700" source="TV5MONDE API">
+    <title>Déconstruire</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129143441 +0700" stop="20260129150042 +0700" source="TV5MONDE API">
+    <title>Le goût des rencontres normandes</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129150054 +0700" stop="20260129152712 +0700" source="TV5MONDE API">
+    <title>Chroniques d'en haut</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129152724 +0700" stop="20260129162550 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129162557 +0700" stop="20260129165158 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129165205 +0700" stop="20260129170149 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129170201 +0700" stop="20260129174725 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129174732 +0700" stop="20260129181336 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129181343 +0700" stop="20260129184107 +0700" source="TV5MONDE API">
+    <title>Histoire(s) de jardins</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129184114 +0700" stop="20260129190709 +0700" source="TV5MONDE API">
+    <title>Outremer.gourmand</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129190721 +0700" stop="20260129193339 +0700" source="TV5MONDE API">
+    <title>Chroniques d'en haut</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129193351 +0700" stop="20260129203258 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129203305 +0700" stop="20260129205908 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129205915 +0700" stop="20260129210129 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129210141 +0700" stop="20260129214706 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129214713 +0700" stop="20260129221317 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129221329 +0700" stop="20260129223914 +0700" source="TV5MONDE API">
+    <title>Une brique dans le ventre</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129223921 +0700" stop="20260129230521 +0700" source="TV5MONDE API">
+    <title>Donner l'goût</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129230528 +0700" stop="20260129232928 +0700" source="TV5MONDE API">
+    <title>Partis skier</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260129232940 +0700" stop="20260130002847 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130002854 +0700" stop="20260130005456 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130005503 +0700" stop="20260130005901 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130005913 +0700" stop="20260130014438 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130014444 +0700" stop="20260130021048 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130021100 +0700" stop="20260130023725 +0700" source="TV5MONDE API">
+    <title>Tendance XXI</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130023732 +0700" stop="20260130030139 +0700" source="TV5MONDE API">
+    <title>Curieux Bégin</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130030151 +0700" stop="20260130032633 +0700" source="TV5MONDE API">
+    <title>C'est du Belge</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130032645 +0700" stop="20260130042551 +0700" source="TV5MONDE API">
+    <title>Météo à la carte</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130042558 +0700" stop="20260130045159 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130045206 +0700" stop="20260130050056 +0700" source="TV5MONDE API">
+    <title>Tendance XXI express</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130050108 +0700" stop="20260130054632 +0700" source="TV5MONDE API">
+    <title>La course aux étoiles</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130054639 +0700" stop="20260130061243 +0700" source="TV5MONDE API">
+    <title>Chef pays</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130061255 +0700" stop="20260130063848 +0700" source="TV5MONDE API">
+    <title>Paname</title>
+    <desc />
+  </programme>
+  <programme channel="tv5.style" start="20260130063855 +0700" stop="20260130070514 +0700" source="TV5MONDE API">
+    <title>Le goût des rencontres en Nouvelle-Aquitaine</title>
+    <desc />
+  </programme>
   <channel id="tv5monde" source="EPGVN (PRIMARY)">
     <display-name>TV5MONDE</display-name>
     <icon src="https://vnepg.site/logos/162.png" />
@@ -51067,10 +51817,6 @@
     <display-name>Vietnam Today</display-name>
     <icon src="https://vnepg.site/logos/176.png" />
   </channel>
-  <programme channel="vietnamtoday" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NEWSLINE</title>
-    <icon src="https://vnepg.site/thumbnail/vietnamtoday/newsline.jpg" />
-  </programme>
   <programme channel="vietnamtoday" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">VIBES OF VIETNAM</title>
     <desc lang="vi">Hon Chong Island in the low-tide season</desc>
@@ -51950,10 +52696,6 @@
     <display-name>Vĩnh Long Radio</display-name>
     <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
   </channel>
-  <programme channel="vinhlongradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN 15 PHÚT</title>
-    <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
-  </programme>
   <programme channel="vinhlongradio" start="20260128091500 +0700" stop="20260128101500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TÌNH KHÚC BOLERO</title>
     <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
@@ -52246,10 +52988,6 @@
     <display-name>VOV1</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
   </channel>
-  <programme channel="vov1" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN THỜI SỰ</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
-  </programme>
   <programme channel="vov1" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">DÒNG CHẢY KINH TẾ</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
@@ -52475,10 +53213,6 @@
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
   </programme>
   <programme channel="vov1" start="20260128232500 +0700" stop="20260128232501 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH ĐỆM</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
-  </programme>
-  <programme channel="vov1" start="20260128232500 +0700" stop="20260128233000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH ĐỆM</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
   </programme>
@@ -53642,10 +54376,6 @@
     <display-name>VOV4 Miền Trung</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/ce4830ba7a38c1981c92340832703cd4.png" />
   </channel>
-  <programme channel="vov4mt" start="20260128083000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH TIẾNG CƠ TU</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/ce4830ba7a38c1981c92340832703cd4.png" />
-  </programme>
   <programme channel="vov4mt" start="20260128091500 +0700" stop="20260128110000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TIẾP SÓNG VOV1</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/ce4830ba7a38c1981c92340832703cd4.png" />
@@ -53706,10 +54436,6 @@
     <display-name>VOV4 Đồng bằng Sông Cửu Long</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
   </channel>
-  <programme channel="vov4scl" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">LÀN SÓNG NGHỆ THUẬT</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
-  </programme>
   <programme channel="vov4scl" start="20260128091500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">VĂN NGHỆ THIẾU NHI</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
@@ -54422,10 +55148,6 @@
     <display-name>VOV Giao thông Duyên Hải</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
   </channel>
-  <programme channel="vovgtduyenhai" start="20260128091000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ÂM NHẠC</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </programme>
   <programme channel="vovgtduyenhai" start="20260128091500 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TỔNG QUAN GIAO THÔNG DUYÊN HẢI</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
@@ -54640,10 +55362,6 @@
   </programme>
   <programme channel="vovgtduyenhai" start="20260129061000 +0700" stop="20260129061001 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ÂM NHẠC</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </programme>
-  <programme channel="vovgtduyenhai" start="20260129061000 +0700" stop="20260129062000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN ĐỜI SỐNG DUYÊN HẢI</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
   </programme>
   <programme channel="vovgtduyenhai" start="20260129062000 +0700" stop="20260129063000 +0700" source="EPGVN (PRIMARY)">
@@ -55094,10 +55812,6 @@
     <display-name>VOV Giao thông Hà Nội</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/941fd0c7483baf5d6c60e81cf7968eed.png" />
   </channel>
-  <programme channel="vovgthn" start="20260128083000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIỜ CAO ĐIỂM SÁNG</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/941fd0c7483baf5d6c60e81cf7968eed.png" />
-  </programme>
   <programme channel="vovgthn" start="20260128091500 +0700" stop="20260128103000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐỜI SỐNG THỊ THÀNH</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/941fd0c7483baf5d6c60e81cf7968eed.png" />
@@ -55338,10 +56052,6 @@
     <display-name>VTV1</display-name>
     <icon src="https://vnepg.site/logos/1.png" />
   </channel>
-  <programme channel="vtv1hd" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THỜI SỰ</title>
-    <icon src="https://vnepg.site/thumbnail/vtv1/thoisu.jpg" />
-  </programme>
   <programme channel="vtv1hd" start="20260128091500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TỌA ĐÀM</title>
     <desc lang="vi">Đại hội XIV của Đảng và mệnh lệnh hành động</desc>
@@ -58042,11 +58752,6 @@
     <display-name>VTV Cần Thơ</display-name>
     <icon src="https://vnepg.site/logos/8.png" />
   </channel>
-  <programme channel="vtvcantho" start="20260128090500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">1001 CHUYỆN TÁM</title>
-    <desc lang="vi">Số 141</desc>
-    <icon src="https://vnepg.site/thumbnail/vtvcantho/1001chuyentam.jpg" />
-  </programme>
   <programme channel="vtvcantho" start="20260128091500 +0700" stop="20260128101500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SỐNG KHỎE MỖI NGÀY</title>
     <icon src="https://vnepg.site/logos/8.png" />
