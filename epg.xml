@@ -1,16 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="epg.zaltv.gq" last-update="2026-01-28T07:45:48Z">
+<tv generator-info-name="epg.zaltv.gq" last-update="2026-01-28T08:13:13Z">
   <channel id="abcaustralia" source="EPGVN (PRIMARY)">
     <display-name>ABC Australia</display-name>
     <icon src="https://vnepg.site/logos/153.png" />
   </channel>
-  <programme channel="abcaustralia" start="20260128083200 +0700" stop="20260128090200 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">7.30</title>
-    <desc lang="vi">David Speers presents Australia's premier daily current affairs program, delivering agenda-setting journalism and interviews that hold the powerful to account.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X551838.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <programme channel="abcaustralia" start="20260128090200 +0700" stop="20260128100200 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GRAND DESIGNS AUSTRALIA</title>
     <desc lang="vi">Builder Nick is hoping to build his wife Rachel the ultimate house in the idyllic Blue Mountains; a place that for the first time in her life, she can finally call home.</desc>
@@ -344,10 +337,6 @@
     <display-name>Asian Food Network</display-name>
     <icon src="https://vnepg.site/logos/172.png" />
   </channel>
-  <programme channel="afnhd" start="20260128083500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">EVERYDAY GOURMET - (S12) - ĂN NGON MỖI NGÀY (MÙA 12)</title>
-    <icon src="https://vnepg.site/logos/172.png" />
-  </programme>
   <programme channel="afnhd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">EVERYDAY GOURMET - (S12) - ĂN NGON MỖI NGÀY (MÙA 12)</title>
     <icon src="https://vnepg.site/logos/172.png" />
@@ -991,11 +980,6 @@
     <display-name>An Giang 2</display-name>
     <icon src="https://vnepg.site/logos/80.png" />
   </channel>
-  <programme channel="angiang2" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHÔNG GIAN ĐẸP</title>
-    <desc lang="vi">Ngôi nhà nghỉ dưỡng kết hợp giữa ký ức và hiện đại</desc>
-    <icon src="https://vnepg.site/logos/80.png" />
-  </programme>
   <programme channel="angiang2" start="20260128090000 +0700" stop="20260128095000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
     <desc lang="vi">Gia đình sô bít - Tập 9</desc>
@@ -1456,10 +1440,6 @@
     <display-name>An Giang Radio 1</display-name>
     <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO99.4.png" />
   </channel>
-  <programme channel="angiangradio1" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC THEO DÒNG TIN NHẮN</title>
-    <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO99.4.png" />
-  </programme>
   <programme channel="angiangradio1" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CA NHẠC BẾN XƯA TÌM VỀ</title>
     <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO99.4.png" />
@@ -1749,10 +1729,6 @@
     <display-name>An Giang Radio 2</display-name>
     <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO-93.1.png" />
   </channel>
-  <programme channel="angiangradio2" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHẠC HÒA TẤU</title>
-    <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO-93.1.png" />
-  </programme>
   <programme channel="angiangradio2" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">RADIO NHẠC SỐ</title>
     <icon src="https://angiangtv.vn/wp-content/uploads/2025/07/ICON-RADIO-93.1.png" />
@@ -2038,11 +2014,6 @@
     <display-name>Animal Planet</display-name>
     <icon src="https://vnepg.site/logos/143.png" />
   </channel>
-  <programme channel="animalhd" start="20260128075500 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">MÊKÔNG: LINH HỒN CỦA MỘT CON SÔNG</title>
-    <desc lang="vi">Mekong: Soul Of A River (S1)</desc>
-    <icon src="https://vnepg.site/logos/143.png" />
-  </programme>
   <programme channel="animalhd" start="20260128085000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">FRANK HOANG DÃ Ở AUSTRALIA</title>
     <desc lang="vi">Wild Frank In Australia (S1)</desc>
@@ -2267,15 +2238,6 @@
     <display-name>ANTV</display-name>
     <icon src="https://vnepg.site/logos/71.png" />
   </channel>
-  <programme channel="antvhd" start="20260128084000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">AN NINH VĂN HÓA (20)</title>
-    <desc lang="vi">Chỉ sống khi ở trên mạng</desc>
-    <icon src="https://vnepg.site/logos/71.png" />
-  </programme>
-  <programme channel="antvhd" start="20260128090000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TIN NHANH</title>
-    <icon src="https://vnepg.site/logos/71.png" />
-  </programme>
   <programme channel="antvhd" start="20260128090500 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">XÂY DỰNG ĐẢNG (20)</title>
     <desc lang="vi">Đại hội XIV - Hành trình vững tin</desc>
@@ -2669,10 +2631,6 @@
     <display-name>Bình Dương 9</display-name>
     <icon src="https://vnepg.site/logos/85.png" />
   </channel>
-  <programme channel="anvienhd" start="20260128084000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KÝ SỰ VÙNG BIÊN - TẬP 80</title>
-    <icon src="https://vnepg.site/logos/85.png" />
-  </programme>
   <programme channel="anvienhd" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TÀI LIỆU - BARDO - MÀU NHIỆM CỦA SỰ SỐNG VÀ CÁI CHẾT - TẬP 3</title>
     <icon src="https://vnepg.site/logos/85.png" />
@@ -3039,12 +2997,6 @@
     <display-name>Arirang</display-name>
     <icon src="https://vnepg.site/logos/152.png" />
   </channel>
-  <programme channel="arirang" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NEWS GENERATION [L] #1</title>
-    <desc lang="vi">NEWs Generation is Arirang TV’s daily news program covering latest trends and current affairs affecting people in their twenties and thirties. It opens discussions with millennial and Gen Z panelists and experts who would like to share their insight and firsthand experience on various topics of interest.</desc>
-    <icon src="https://img.arirang.com/v1/AUTH_d52449c16d3b4bbca17d4fffd9fc44af/public/images/202601/3365103961643156333.jpg" />
-    <category lang="vi">Current Affairs</category>
-  </programme>
   <programme channel="arirang" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CULTURE CRUNCH [L] #1</title>
     <desc lang="vi">Want to know more about K-CULTURE? Crunch on a different flavour of K-CULTURE every day with me,&amp;amp;nbsp;Chi-hee&amp;amp;nbsp;on Culture Crunch! 'Culture Crunch' is a radio program broadcasted on both radio and TV. Go to the radio homepage</desc>
@@ -3547,10 +3499,6 @@
     <display-name>AXN</display-name>
     <icon src="https://vnepg.site/logos/163.png" />
   </channel>
-  <programme channel="axnhd" start="20260128082000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DANH SÁCH ĐEN (PHẦN 10) - THE BLACKLIST (SEASON 10)</title>
-    <icon src="https://vnepg.site/logos/163.png" />
-  </programme>
   <programme channel="axnhd" start="20260128091000 +0700" stop="20260128100500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ELSBETH (MÙA 1) - ELSBETH (SEASON 1)</title>
     <icon src="https://vnepg.site/logos/163.png" />
@@ -3668,11 +3616,6 @@
     <display-name>Bắc Ninh</display-name>
     <icon src="https://vnepg.site/logos/82.png" />
   </channel>
-  <programme channel="bacninh" start="20260128082000 +0700" stop="20260128085900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHÔNG GIAN VĂN HÓA BẮC NINH</title>
-    <desc lang="vi">Chùa Phật tích - Dấu xưa còn mãi</desc>
-    <icon src="https://vnepg.site/logos/82.png" />
-  </programme>
   <programme channel="bacninh" start="20260128085900 +0700" stop="20260128094300 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Tội ác sau màn sương - tập 11</desc>
@@ -3862,15 +3805,6 @@
     <display-name>Bắc Ninh Radio</display-name>
     <icon src="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg" />
   </channel>
-  <programme channel="bacninhradio" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DÂN CA VÀ NHẠC CỔ TRUYỀN</title>
-    <icon src="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg" />
-  </programme>
-  <programme channel="bacninhradio" start="20260128090000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐẠI ĐOÀN KẾT TOÀN DÂN</title>
-    <desc lang="vi">Phát huy vai trò gia đình, dòng họ trong xây dựng đời sống văn hóa</desc>
-    <icon src="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg" />
-  </programme>
   <programme channel="bacninhradio" start="20260128091000 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐBND VỚI CỬ TRI</title>
     <desc lang="vi">Giám sát công tác bầu cử đại biểu Quốc hội và HĐND các cấp trên địa bàn tỉnh Bắc Ninh</desc>
@@ -4382,13 +4316,6 @@
     <display-name>BBC Lifestyle</display-name>
     <icon src="https://vnepg.site/logos/149.png" />
   </channel>
-  <programme channel="bbclifestyle" start="20260128082000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHÁM PHÁ ẨM THỰC MALAYSIA CÙNG JUSTINE SCHOFIELD</title>
-    <desc lang="vi">Justine tới làng văn hóa Terengganu để trải nghiệm di sản văn hóa của Malaysia. Cô tìm hiểu về những món ăn thú vị và truyền thống âm nhạc trước khi bắt đầu cuộc phiêu lưu ẩm thực. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000541X832477.jpg" />
-    <category lang="vi">Phong cách sống, Giải trí, Sở thích</category>
-    <category lang="vi">Đồ ăn</category>
-  </programme>
   <programme channel="bbclifestyle" start="20260128085000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NHỮNG THIẾT KẾ HOÀNH TRÁNG</title>
     <desc lang="vi">Liệu kiến ​​trúc tốt có sức mạnh chữa lành? Kevin thăm lại Elinor và Born, hai người đã xây một ngôi nhà sạch sẽ, không gây dị ứng do hai cậu con trai của họ bị dị ứng nặng. Mô tả có sử dụng Google Translate.</desc>
@@ -4743,13 +4670,6 @@
     <display-name>Bloomberg</display-name>
     <icon src="https://vnepg.site/logos/154.png" />
   </channel>
-  <programme channel="bloomberg" start="20260128070200 +0700" stop="20260128090200 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BLOOMBERG: THE OPENING TRADE</title>
-    <desc lang="vi">Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000522X823832.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Discussion / Interview / Debate</category>
-  </programme>
   <programme channel="bloomberg" start="20260128090200 +0700" stop="20260128100200 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THE PULSE WITH FRANCINE LACQUA</title>
     <desc lang="vi">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
@@ -4957,11 +4877,6 @@
     <display-name>Cartoonito</display-name>
     <icon src="https://www.diversetechgeek.com/wp-content/uploads/2021/09/cartoonito_logo.jpeg" />
   </channel>
-  <programme channel="boomerang" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GẤU XÁM VÀ NHỮNG CHÚ CHUỘT LEMMUT</title>
-    <desc lang="vi">Grizzy And The Lemmings</desc>
-    <icon src="https://www.diversetechgeek.com/wp-content/uploads/2021/09/cartoonito_logo.jpeg" />
-  </programme>
   <programme channel="boomerang" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GẤU XÁM VÀ NHỮNG CHÚ CHUỘT LEMMUT</title>
     <desc lang="vi">Grizzy And The Lemmings</desc>
@@ -5694,11 +5609,6 @@
     <display-name>Cà Mau</display-name>
     <icon src="https://vnepg.site/logos/89.png" />
   </channel>
-  <programme channel="camau" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">SỐNG KHỎE MỖI NGÀY</title>
-    <desc lang="vi">Thời gian vàng của não</desc>
-    <icon src="https://vnepg.site/logos/89.png" />
-  </programme>
   <programme channel="camau" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
     <desc lang="vi">Những đóa Ngọc Lan Tập 25</desc>
@@ -6115,10 +6025,6 @@
     <display-name>Cà Mau Radio</display-name>
     <icon src="https://baocamau.vn/live/radio_online.jpg" />
   </channel>
-  <programme channel="camauradio" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH KHMER</title>
-    <icon src="https://baocamau.vn/live/radio_online.jpg" />
-  </programme>
   <programme channel="camauradio" start="20260128090000 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SỐNG KHỎE</title>
     <icon src="https://baocamau.vn/live/radio_online.jpg" />
@@ -6406,18 +6312,6 @@
     <display-name>Cần Thơ 1</display-name>
     <icon src="https://vnepg.site/logos/86.png" />
   </channel>
-  <programme channel="cantho1" start="20260128082500 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THƯƠNG CA QUÊ NHÀ</title>
-    <icon src="https://vnepg.site/logos/86.png" />
-  </programme>
-  <programme channel="cantho1" start="20260128085500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DỰ BÁO THỜI TIẾT</title>
-    <icon src="https://vnepg.site/logos/86.png" />
-  </programme>
-  <programme channel="cantho1" start="20260128090000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN 9H</title>
-    <icon src="https://vnepg.site/logos/86.png" />
-  </programme>
   <programme channel="cantho1" start="20260128091000 +0700" stop="20260128104500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN TQ</title>
     <desc lang="vi">NHỮNG ĐỨA CON NHÀ HỌ KIỀU – Tập 17 &amp;amp; 18/37</desc>
@@ -6670,10 +6564,6 @@
     <display-name>Cần Thơ 3</display-name>
     <icon src="https://vnepg.site/logos/88.png" />
   </channel>
-  <programme channel="cantho3" start="20260128084000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KÝ SỰ</title>
-    <icon src="https://vnepg.site/logos/88.png" />
-  </programme>
   <programme channel="cantho3" start="20260128085500 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CA NHẠC</title>
     <icon src="https://vnepg.site/logos/88.png" />
@@ -6766,15 +6656,6 @@
     <display-name>Cao Bằng</display-name>
     <icon src="https://vnepg.site/logos/90.png" />
   </channel>
-  <programme channel="caobang" start="20260128081500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN NƯỚC NGOÀI</title>
-    <desc lang="vi">Người điều tra thương nghiệp</desc>
-    <icon src="https://vnepg.site/logos/90.png" />
-  </programme>
-  <programme channel="caobang" start="20260128090000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DU LỊCH NON NƯỚC CAO BẰNG</title>
-    <icon src="https://vnepg.site/logos/90.png" />
-  </programme>
   <programme channel="caobang" start="20260128091000 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">VỀ CHỐN LINH THIÊNG</title>
     <icon src="https://vnepg.site/logos/90.png" />
@@ -7430,27 +7311,6 @@
     <display-name>BBC Cbeebies</display-name>
     <icon src="https://vnepg.site/logos/150.png" />
   </channel>
-  <programme channel="cbeebies" start="20260128083000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THÁP GIỜ CHƠI</title>
-    <desc lang="vi">Bella và Lift chơi với cây gậy để tạo nên chiếc đũa thần hoàn hảo. Họ đến thăm Patch, người có một công thức nấu ăn ngon - sinh vật dính dính! Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000572X933389.jpg" />
-    <category lang="vi">Trẻ em</category>
-    <category lang="vi">Mầm non</category>
-  </programme>
-  <programme channel="cbeebies" start="20260128085500 +0700" stop="20260128090200 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHÀO DUGGEE</title>
-    <desc lang="vi">Các chú Sóc bối rối khi thấy Duggee ngồi trên một quả bóng vì chúng đều có cách sử dụng bóng yêu thích riêng, dù là đá, ném hay bắt. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000572X692078.jpg" />
-    <category lang="vi">Trẻ em</category>
-    <category lang="vi">Mầm non</category>
-  </programme>
-  <programme channel="cbeebies" start="20260128090200 +0700" stop="20260128090900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHÀO DUGGEE</title>
-    <desc lang="vi">Các chú Sóc bối rối khi thấy Duggee ngồi trên một quả bóng vì chúng đều có cách sử dụng bóng yêu thích riêng, dù là đá, ném hay bắt. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000572X692078.jpg" />
-    <category lang="vi">Trẻ em</category>
-    <category lang="vi">Mầm non</category>
-  </programme>
   <programme channel="cbeebies" start="20260128090900 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHÀO DUGGEE</title>
     <desc lang="vi">Norrie sắp đến Câu lạc bộ Sóc muộn nên Duggee dạy cho lũ sóc biết đường đi làm là gì - một hành trình có thể đưa bạn từ nhà đến học tập, làm việc hoặc vui chơi. Mô tả có sử dụng Google Translate.</desc>
@@ -9178,13 +9038,6 @@
     <display-name>CGTN</display-name>
     <icon src="https://linear-poster.astro.com.my/prod/poster/ivp_default_1121_IVP_LAND_586x330.jpg" />
   </channel>
-  <programme channel="cgtn" start="20260128081800 +0700" stop="20260128090300 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GLOBAL BUSINESS EP806</title>
-    <desc lang="vi">Global Business brings you the latest economic data, business trends and policies, showing you what's moving markets in both developed and emerging economies.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1121X114816.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <programme channel="cgtn" start="20260128090300 +0700" stop="20260128093300 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THE WORLD TODAY EP95</title>
     <desc lang="vi">Catch up live coverage, in-depth reporting, expert analysis and sustained coverage as The World Today keeps viewers up-to-date with all the world's top stories as they happen.</desc>
@@ -9693,13 +9546,6 @@
     <display-name>CGTN Documentary</display-name>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/CGTN_DOC_IVP_LAND_917x516.jpg" />
   </channel>
-  <programme channel="cgtndocu" start="20260128081000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THE AMPHITRITE EP03</title>
-    <desc lang="vi">Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental affecting lives nationwide.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/CGTN_DOC_IVP_LAND_917x516.jpg" />
-    <category lang="vi">Factual &amp;amp; Documentary</category>
-    <category lang="vi">Documentary</category>
-  </programme>
   <programme channel="cgtndocu" start="20260128091000 +0700" stop="20260128094000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">POETRY SANS FRONTIERS I EP01</title>
     <desc lang="vi">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
@@ -10117,11 +9963,6 @@
     <display-name>Cinema World</display-name>
     <icon src="https://vnepg.site/logos/164.png" />
   </channel>
-  <programme channel="cinemaworldhd" start="20260128073000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">1976</title>
-    <desc lang="vi">1976</desc>
-    <icon src="https://vnepg.site/logos/164.png" />
-  </programme>
   <programme channel="cinemaworldhd" start="20260128090500 +0700" stop="20260128104000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐỘI ĐIỀU TRA ÁN MẠNG ISTANBUL: HAM MUỐN CHẾT NGƯỜI</title>
     <desc lang="vi">Homicide Unit Istanbul: Deadly Desire</desc>
@@ -10401,13 +10242,6 @@
     <display-name>CNA</display-name>
     <icon src="https://vnepg.site/logos/157.png" />
   </channel>
-  <programme channel="cna" start="20260128080200 +0700" stop="20260128090400 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">INSIGHT</title>
-    <desc lang="vi">Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000336X50616.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <programme channel="cna" start="20260128090400 +0700" stop="20260128100200 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ISEAS REGIONAL OUTLOOK FORUM</title>
     <desc lang="vi">Policy makers discuss challenges facing Southeast Asia at a critical juncture marked by global disruption, uncertainty and conflict.</desc>
@@ -10685,13 +10519,6 @@
     <display-name>CNBC</display-name>
     <icon src="https://vnepg.site/logos/155.png" />
   </channel>
-  <programme channel="cnbc" start="20260128083200 +0700" stop="20260128090200 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">SQUAWK BOX EUROPE</title>
-    <desc lang="vi">Steve Sedgwick, Karen Tso and Julianna Tatelbaum take on the most complex stories of the day with instant analysis on how you can make your money work around the news.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/980X147775.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Business</category>
-  </programme>
   <programme channel="cnbc" start="20260128090200 +0700" stop="20260128093200 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SQUAWK BOX EUROPE</title>
     <desc lang="vi">Steve Sedgwick, Karen Tso and Julianna Tatelbaum take on the most complex stories of the day with instant analysis on how you can make your money work around the news.</desc>
@@ -11165,13 +10992,6 @@
     <display-name>CNN</display-name>
     <icon src="https://vnepg.site/logos/156.png" />
   </channel>
-  <programme channel="cnn" start="20260128080200 +0700" stop="20260128090200 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CNN NEWSROOM</title>
-    <desc lang="vi">Live context and clarity to the day's top stories from around the world.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/981X154059.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Current Affairs / General</category>
-  </programme>
   <programme channel="cnn" start="20260128090200 +0700" stop="20260128100200 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">AMANPOUR</title>
     <desc lang="vi">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
@@ -11456,10 +11276,6 @@
     <display-name>Đắk Lắk</display-name>
     <icon src="https://vnepg.site/logos/91.png" />
   </channel>
-  <programme channel="daklak" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">QUÀ TẶNG ÂM NHẠC</title>
-    <icon src="https://vnepg.site/logos/91.png" />
-  </programme>
   <programme channel="daklak" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SÁCH HAY THAY ĐỔI CUỘC ĐỜI</title>
     <desc lang="vi">Đất nước gấm hoa</desc>
@@ -11709,11 +11525,6 @@
     <display-name>Đà Nẵng 1</display-name>
     <icon src="https://vnepg.site/logos/93.png" />
   </channel>
-  <programme channel="danang1" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM HOẠT HÌNH</title>
-    <desc lang="vi">Nhà tạo mẫu tóc siêu đẳng-Tập 7</desc>
-    <icon src="https://vnepg.site/logos/93.png" />
-  </programme>
   <programme channel="danang1" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHÀO NGÀY MỚI</title>
     <icon src="https://vnepg.site/logos/93.png" />
@@ -12282,21 +12093,6 @@
     <display-name>DaVinci</display-name>
     <icon src="https://vnepg.site/logos/142.png" />
   </channel>
-  <programme channel="davinci" start="20260128084200 +0700" stop="20260128085100 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ZOE VÀ MILO</title>
-    <desc lang="vi">Một Chuyến Đi Đến Louisiana</desc>
-    <icon src="https://vnepg.site/logos/142.png" />
-  </programme>
-  <programme channel="davinci" start="20260128085100 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ZOE VÀ MILO</title>
-    <desc lang="vi">Một Chuyến Đi Đến Úc</desc>
-    <icon src="https://vnepg.site/logos/142.png" />
-  </programme>
-  <programme channel="davinci" start="20260128090000 +0700" stop="20260128090900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">MILY HAM HỌC HỎI</title>
-    <desc lang="vi">Mình Vô Dụng Quá</desc>
-    <icon src="https://vnepg.site/logos/142.png" />
-  </programme>
   <programme channel="davinci" start="20260128090900 +0700" stop="20260128091800 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MILY HAM HỌC HỎI</title>
     <desc lang="vi">Chia Sẻ Là Yêu Thương</desc>
@@ -13136,10 +12932,6 @@
     <display-name>Điện Biên</display-name>
     <icon src="https://vnepg.site/logos/92.png" />
   </channel>
-  <programme channel="dienbien" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TẠP CHÍ THỂ THAO</title>
-    <icon src="https://vnepg.site/logos/92.png" />
-  </programme>
   <programme channel="dienbien" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ ĐTV</title>
     <icon src="https://vnepg.site/logos/92.png" />
@@ -14251,10 +14043,6 @@
     <display-name>Đồng Nai 1</display-name>
     <icon src="https://vnepg.site/logos/95.png" />
   </channel>
-  <programme channel="dongnai1" start="20260128084000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN THỂ THAO CẬP NHẬT (TRỰC TIẾP)</title>
-    <icon src="https://vnepg.site/logos/95.png" />
-  </programme>
   <programme channel="dongnai1" start="20260128085000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GIẢI MÃ CUỘC SỐNG</title>
     <icon src="https://vnepg.site/logos/95.png" />
@@ -14726,10 +14514,6 @@
     <display-name>Đồng Nai 2</display-name>
     <icon src="https://vnepg.site/logos/96.png" />
   </channel>
-  <programme channel="dongnai2" start="20260128083500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TT&amp;amp;GT</title>
-    <icon src="https://vnepg.site/logos/96.png" />
-  </programme>
   <programme channel="dongnai2" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN 65T</title>
     <desc lang="vi">NGƯỜI GIÀU CŨNG KHÓC - TẬP 27</desc>
@@ -15108,11 +14892,6 @@
     <display-name>Đồng Tháp 1</display-name>
     <icon src="https://vnepg.site/logos/97.png" />
   </channel>
-  <programme channel="dongthap1" start="20260128084500 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM THIẾU NHI</title>
-    <desc lang="vi">Woaluca</desc>
-    <icon src="https://vnepg.site/logos/97.png" />
-  </programme>
   <programme channel="dongthap1" start="20260128085000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ</title>
     <icon src="https://vnepg.site/logos/97.png" />
@@ -15459,10 +15238,6 @@
     <display-name>Đồng Tháp 2</display-name>
     <icon src="https://vnepg.site/logos/98.png" />
   </channel>
-  <programme channel="dongthap2" start="20260128081500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA CỔ</title>
-    <icon src="https://vnepg.site/logos/98.png" />
-  </programme>
   <programme channel="dongthap2" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN THIẾU NHI</title>
     <desc lang="vi">100% sói – Phần 1 – Tập 64</desc>
@@ -15754,10 +15529,6 @@
     <display-name>Đồng Tháp Radio</display-name>
     <icon src="https://quantri.thdt.vn/wp-content/uploads/2023/08/radio.jpg" />
   </channel>
-  <programme channel="dongthapradio" start="20260128083500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIAI ĐIỆU QUÊ HƯƠNG</title>
-    <icon src="https://quantri.thdt.vn/wp-content/uploads/2023/08/radio.jpg" />
-  </programme>
   <programme channel="dongthapradio" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">HÀNH TRÌNH KHÁM PHÁ</title>
     <icon src="https://quantri.thdt.vn/wp-content/uploads/2023/08/radio.jpg" />
@@ -16018,11 +15789,6 @@
     <display-name>Dreamworks</display-name>
     <icon src="https://vnepg.site/logos/141.png" />
   </channel>
-  <programme channel="dreamworks" start="20260128083000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">LŨ TRẺ PHỐ HARVEY</title>
-    <desc lang="vi">Harvey Girls Forever!</desc>
-    <icon src="https://vnepg.site/logos/141.png" />
-  </programme>
   <programme channel="dreamworks" start="20260128085500 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">LŨ TRẺ PHỐ HARVEY</title>
     <desc lang="vi">Harvey Girls Forever!</desc>
@@ -16744,13 +16510,6 @@
     <display-name>DW</display-name>
     <icon src="https://vnepg.site/logos/158.png" />
   </channel>
-  <programme channel="dw" start="20260128081500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DOCFILM EP1156</title>
-    <desc lang="vi">Palantir is considered one of the most opaque companies in the field of big data. The group's software is used by government agencies and intelligence services worldwide.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000317X572564.jpg" />
-    <category lang="vi">Factual &amp;amp; Documentary</category>
-    <category lang="vi">Documentary</category>
-  </programme>
   <programme channel="dw" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">DW NEWS</title>
     <desc lang="vi">News, information and analysis of German and European topics.</desc>
@@ -17413,11 +17172,6 @@
     <display-name>FashionTV</display-name>
     <icon src="https://vnepg.site/logos/165.png" />
   </channel>
-  <programme channel="fashionhd" start="20260128084000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DIOR</title>
-    <desc lang="vi">Dior</desc>
-    <icon src="https://vnepg.site/logos/165.png" />
-  </programme>
   <programme channel="fashionhd" start="20260128091000 +0700" stop="20260128094000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">XEM NHIỀU NHẤT</title>
     <desc lang="vi">Most Watched</desc>
@@ -17812,20 +17566,6 @@
     <display-name>France 24</display-name>
     <icon src="https://vnepg.site/logos/159.png" />
   </channel>
-  <programme channel="france24eng" start="20260128084500 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">FOCUS</title>
-    <desc lang="vi">Exclusive reports from the France 24 correspondents around the world.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000318X374413.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Magazine</category>
-  </programme>
-  <programme channel="france24eng" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">SPORTS</title>
-    <desc lang="vi">The sports recap of the day with France 24 journalists and a summary of world sports news, both on and off the field.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000318X374469.jpg" />
-    <category lang="vi">News</category>
-    <category lang="vi">Magazine</category>
-  </programme>
   <programme channel="france24eng" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NEWS</title>
     <desc lang="vi">An international news bulletin, presented live from the newsroom.</desc>
@@ -19027,14 +18767,6 @@
     <display-name>Gia Lai</display-name>
     <icon src="https://vnepg.site/logos/99.png" />
   </channel>
-  <programme channel="gialai" start="20260128083500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHỔ BIẾN KIẾN THỨC PHÁP LUẬT</title>
-    <icon src="https://vnepg.site/logos/99.png" />
-  </programme>
-  <programme channel="gialai" start="20260128090000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THỜI SỰ GTV</title>
-    <icon src="https://vnepg.site/logos/99.png" />
-  </programme>
   <programme channel="gialai" start="20260128090500 +0700" stop="20260128093500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH TỔNG HỢP BAHNAR</title>
     <icon src="https://vnepg.site/logos/99.png" />
@@ -19163,11 +18895,6 @@
     <display-name>Hải Phòng</display-name>
     <icon src="https://vnepg.site/logos/103.png" />
   </channel>
-  <programme channel="haiphong" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">VITAMIN TUỔI HỒNG</title>
-    <desc lang="vi">Sáng tạo cùng bé (Phần 1)</desc>
-    <icon src="https://vnepg.site/logos/103.png" />
-  </programme>
   <programme channel="haiphong" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN ĐÀI LOAN (TRUNG QUỐC)</title>
     <desc lang="vi">Vệ sĩ độc quyền (Tập 36)</desc>
@@ -19318,10 +19045,6 @@
     <display-name>Hải Phòng FM 102.2</display-name>
     <icon src="https://media.thhp.vn/upload/channel/f600e570fb8a372fd4000ce3a786975a.png" />
   </channel>
-  <programme channel="haiphong1022" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHOA HỌC VUI</title>
-    <icon src="https://media.thhp.vn/upload/channel/f600e570fb8a372fd4000ce3a786975a.png" />
-  </programme>
   <programme channel="haiphong1022" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KHÚC HÁT TRÊN ĐƯỜNG</title>
     <icon src="https://media.thhp.vn/upload/channel/f600e570fb8a372fd4000ce3a786975a.png" />
@@ -19589,11 +19312,6 @@
     <display-name>Hải Phòng FM 93.7</display-name>
     <icon src="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg" />
   </channel>
-  <programme channel="haiphong937" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CÁC VẤN ĐỀ XÃ HỘI</title>
-    <desc lang="vi">Giữ bình yên cho các tuyến đảo Tổ quốc</desc>
-    <icon src="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg" />
-  </programme>
   <programme channel="haiphong937" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ HẢI PHÒNG 09H00</title>
     <icon src="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg" />
@@ -19765,10 +19483,6 @@
     <display-name>Hà Nội 1</display-name>
     <icon src="https://vnepg.site/logos/100.png" />
   </channel>
-  <programme channel="hanoi1" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TÀU VÀ XE</title>
-    <icon src="https://vnepg.site/logos/100.png" />
-  </programme>
   <programme channel="hanoi1" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ</title>
     <icon src="https://vnepg.site/logos/100.png" />
@@ -20224,11 +19938,6 @@
     <display-name>Hà Nội FM96</display-name>
     <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/PVBHDT4A5DFI.jpg" />
   </channel>
-  <programme channel="hanoi96" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THANH ÂM HÀ NỘI</title>
-    <desc lang="vi">Thân thương Hà Nội</desc>
-    <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/PVBHDT4A5DFI.jpg" />
-  </programme>
   <programme channel="hanoi96" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BẢN TIN THỜI SỰ TỔNG HỢP</title>
     <icon src="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/PVBHDT4A5DFI.jpg" />
@@ -20376,10 +20085,6 @@
     <display-name>Happy Kids</display-name>
     <icon src="https://vnepg.site/logos/137.png" />
   </channel>
-  <programme channel="happykids" channel-number="97" start="20260128082900 +0700" stop="20260128085500 +0700" source="LICHPHATSONG">
-    <title lang="vi">BLAZE VÀ HỘI XE TẢI QUÁI VẬT - BLAZE AND THE MONSTER MACHINES S03</title>
-    <desc lang="vi">Chương trình này có thời lượng là 26 phút.</desc>
-  </programme>
   <programme channel="happykids" channel-number="97" start="20260128085500 +0700" stop="20260128092000 +0700" source="LICHPHATSONG">
     <title lang="vi">CUỘC PHIÊU LƯU CỦA CHÚ MÈO ĐI HIA - THE ADVENTURES OF PUSS IN BOOTS S03</title>
     <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
@@ -20742,16 +20447,6 @@
     <display-name>Hà Tĩnh</display-name>
     <icon src="https://vnepg.site/logos/102.png" />
   </channel>
-  <programme channel="hatinh" start="20260128081500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHÁM PHÁ THẾ GIỚI</title>
-    <desc lang="vi">Những Anh hùng đời thường – Tập 5&amp;amp;6</desc>
-    <icon src="https://vnepg.site/logos/102.png" />
-  </programme>
-  <programme channel="hatinh" start="20260128090000 +0700" stop="20260128090018 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Người tình bố già – Tập 14</desc>
-    <icon src="https://vnepg.site/logos/102.png" />
-  </programme>
   <programme channel="hatinh" start="20260128090018 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH</title>
     <desc lang="vi">Tiếp theo 9h</desc>
@@ -21347,20 +21042,6 @@
     <display-name>HBO Family</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Family_IVP_LAND_586x330.jpg" />
   </channel>
-  <programme channel="hbofamily" start="20260128084000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">UNCLE GRANDPA S3 EP23</title>
-    <desc lang="vi">Uncle Grandpa helps a boy get his head out of the clouds and focussed on his history test.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/982X17053.jpg" />
-    <category lang="vi">Kids</category>
-    <category lang="vi">Animation</category>
-  </programme>
-  <programme channel="hbofamily" start="20260128085500 +0700" stop="20260128090600 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">UNCLE GRANDPA S4 EP37</title>
-    <desc lang="vi">Uncle Grandpa goes to Italy to help a young girl who wants to be a great inventor.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/982X17053.jpg" />
-    <category lang="vi">Kids</category>
-    <category lang="vi">Animation</category>
-  </programme>
   <programme channel="hbofamily" start="20260128090600 +0700" stop="20260128091800 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">UNCLE GRANDPA S4 EP02</title>
     <desc lang="vi">Uncle Grandpa goes to great lengths to meet Pizza Steve's imaginary friend.</desc>
@@ -22340,13 +22021,6 @@
     <display-name>HGTV</display-name>
     <icon src="https://vnepg.site/logos/166.png" />
   </channel>
-  <programme channel="hgtv" start="20260128080500 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">FARMHOUSE FIXER S2 EP04</title>
-    <desc lang="vi">A family buys a 1798 farmhouse sight unseen in New Hampshire. Jon Knight and Kristina Crestin transform the dark home into a vibrant space.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000227X828474.jpg" />
-    <category lang="vi">Lifestyle, Leisure, Hobbies</category>
-    <category lang="vi">Home</category>
-  </programme>
   <programme channel="hgtv" start="20260128085500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHASING THE WEST S1 EP03</title>
     <desc lang="vi">Jonathan and Drew help a Hollywood makeup artist escape to the desert town of Agua Dulce. Plus, a family is looking to live on their own terms.</desc>
@@ -23097,15 +22771,6 @@
     <display-name>HiTV</display-name>
     <icon src="https://vnepg.site/logos/73.png" />
   </channel>
-  <programme channel="hitv" start="20260128082600 +0700" stop="20260128085300 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYỆN GIẢN DỊ</title>
-    <desc lang="vi">Kiếp Du Ca</desc>
-    <icon src="https://vnepg.site/logos/73.png" />
-  </programme>
-  <programme channel="hitv" start="20260128085300 +0700" stop="20260128090100 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC</title>
-    <icon src="https://vnepg.site/logos/73.png" />
-  </programme>
   <programme channel="hitv" start="20260128090100 +0700" stop="20260128092600 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHA CON HỢP SỨC - TẬP 12</title>
     <icon src="https://vnepg.site/logos/73.png" />
@@ -23497,10 +23162,6 @@
     <display-name>HTV1</display-name>
     <icon src="https://vnepg.site/logos/32.png" />
   </channel>
-  <programme channel="htv1" start="20260128083000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHOA HỌC CÔNG NGHỆ</title>
-    <icon src="https://vnepg.site/logos/32.png" />
-  </programme>
   <programme channel="htv1" start="20260128085500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">VƯỜN SAO MAI</title>
     <icon src="https://vnepg.site/logos/32.png" />
@@ -23845,11 +23506,6 @@
     <display-name>HTV2 - Vie Channel</display-name>
     <icon src="https://vnepg.site/logos/33.png" />
   </channel>
-  <programme channel="htv2hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIẢI TRÍ TỔNG HỢP VN</title>
-    <desc lang="vi">Vitamin cười 2018 - Tập 4</desc>
-    <icon src="https://vnepg.site/logos/33.png" />
-  </programme>
   <programme channel="htv2hd" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN TL (28T)</title>
     <desc lang="vi">Thiếu gia chân trần - Tập 28</desc>
@@ -24089,11 +23745,6 @@
     <display-name>HTV3</display-name>
     <icon src="https://vnepg.site/logos/34.png" />
   </channel>
-  <programme channel="htv3" start="20260128082500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM 2</title>
-    <desc lang="vi">Những ngôi sao lạc</desc>
-    <icon src="https://vnepg.site/logos/34.png" />
-  </programme>
   <programme channel="htv3" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM 3</title>
     <desc lang="vi">Nữ hoàng livestream</desc>
@@ -24239,10 +23890,6 @@
     <display-name>HTV7</display-name>
     <icon src="https://vnepg.site/logos/36.png" />
   </channel>
-  <programme channel="htv7hd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ỐNG KÍNH THỂ THAO</title>
-    <icon src="https://vnepg.site/logos/36.png" />
-  </programme>
   <programme channel="htv7hd" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TRÒ CHUYỆN VỚI TƯƠNG LAI</title>
     <icon src="https://vnepg.site/logos/36.png" />
@@ -24334,7 +23981,8 @@
     <icon src="https://vnepg.site/logos/36.png" />
   </programme>
   <programme channel="htv7hd" start="20260128193000 +0700" stop="20260128202000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM VIỆT ĐẶC SẮC 19G30 - MÊ CUNG ÁI TÌNH</title>
+    <title lang="vi">PHIM VIỆT ĐẶC SẮC</title>
+    <desc lang="vi">Mê cung ái tình</desc>
     <icon src="https://vnepg.site/logos/36.png" />
   </programme>
   <programme channel="htv7hd" start="20260128202000 +0700" stop="20260128211000 +0700" source="EPGVN (PRIMARY)">
@@ -25260,21 +24908,6 @@
     <display-name>HTVC Du Lịch và Cuộc Sống</display-name>
     <icon src="https://vnepg.site/logos/44.png" />
   </channel>
-  <programme channel="htvcdulichhd" start="20260128083500 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">VN ĐẤT NƯỚC TÔI YÊU</title>
-    <desc lang="vi">VN đất nước tôi yêu 254 - Bộ tứ ảo thuật</desc>
-    <icon src="https://vnepg.site/logos/44.png" />
-  </programme>
-  <programme channel="htvcdulichhd" start="20260128085000 +0700" stop="20260128085900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẾP NHÀ MÌNH</title>
-    <desc lang="vi">Sinh tố chuối táo thơm và bơ - KM Diễn viên Phương Hằng</desc>
-    <icon src="https://vnepg.site/logos/44.png" />
-  </programme>
-  <programme channel="htvcdulichhd" start="20260128085900 +0700" stop="20260128090900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DU LỊCH &amp;amp; CUỘC SỐNG</title>
-    <desc lang="vi">Thành phố Cao Hùng Đài Loan, nỗ lực thu hút khách Việt Nam</desc>
-    <icon src="https://vnepg.site/logos/44.png" />
-  </programme>
   <programme channel="htvcdulichhd" start="20260128090900 +0700" stop="20260128092800 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BÍ MẬT CÁC LOÀI HOA</title>
     <desc lang="vi">Quà tặng cho quý cô thích nấu ăn</desc>
@@ -25894,15 +25527,6 @@
     <display-name>HTVC Gia Đình</display-name>
     <icon src="https://vnepg.site/logos/40.png" />
   </channel>
-  <programme channel="htvcgiadinhhd" start="20260128083900 +0700" stop="20260128084600 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">VITAMIN XANH - NƯỚC ÉP BÍ ĐỎ TÁO CHANH DÂY</title>
-    <icon src="https://vnepg.site/logos/40.png" />
-  </programme>
-  <programme channel="htvcgiadinhhd" start="20260128084600 +0700" stop="20260128090100 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYÊN ĐỀ</title>
-    <desc lang="vi">Bữa cơm gia đình - Bao tử om ngũ vị (Sống trong thời trí tuệ nhân tạo)</desc>
-    <icon src="https://vnepg.site/logos/40.png" />
-  </programme>
   <programme channel="htvcgiadinhhd" start="20260128090100 +0700" stop="20260128093100 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
     <desc lang="vi">Xóm trọ vui nhộn - Tập 23</desc>
@@ -26432,16 +26056,6 @@
     <display-name>HTVC Phụ Nữ</display-name>
     <icon src="https://vnepg.site/logos/41.png" />
   </channel>
-  <programme channel="htvcphunuhd" start="20260128084000 +0700" stop="20260128085800 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYÊN ĐỀ</title>
-    <desc lang="vi">Hỏi bác sĩ chuyên khoa - Những điều cần biết về bệnh lao phổi</desc>
-    <icon src="https://vnepg.site/logos/41.png" />
-  </programme>
-  <programme channel="htvcphunuhd" start="20260128085800 +0700" stop="20260128091300 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
-    <desc lang="vi">Lần đầu làm mẹ - Tập 58</desc>
-    <icon src="https://vnepg.site/logos/41.png" />
-  </programme>
   <programme channel="htvcphunuhd" start="20260128091300 +0700" stop="20260128092900 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
     <desc lang="vi">Lần đầu làm mẹ - Tập 59</desc>
@@ -26823,10 +26437,6 @@
     <display-name>HTVC Plus</display-name>
     <icon src="https://vnepg.site/logos/45.png" />
   </channel>
-  <programme channel="htvcplushd" start="20260128083300 +0700" stop="20260128090900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC - DV ĐÌNH TOÀN</title>
-    <icon src="https://vnepg.site/logos/45.png" />
-  </programme>
   <programme channel="htvcplushd" start="20260128090900 +0700" stop="20260128093400 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
     <desc lang="vi">Về phía cầu vồng - Tập 82</desc>
@@ -27210,11 +26820,6 @@
     <display-name>HTVC Thuần Việt</display-name>
     <icon src="https://vnepg.site/logos/39.png" />
   </channel>
-  <programme channel="htvcthuanviet" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
-    <desc lang="vi">Lao công bí ẩn - Tập 28</desc>
-    <icon src="https://vnepg.site/logos/39.png" />
-  </programme>
   <programme channel="htvcthuanviet" start="20260128090000 +0700" stop="20260128095900 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM</title>
     <desc lang="vi">Cầu vồng sau mưa - Tập 8</desc>
@@ -27329,10 +26934,6 @@
     <display-name>HTV Key</display-name>
     <icon src="https://vnepg.site/logos/35.png" />
   </channel>
-  <programme channel="htvkey" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẠN MUỐN HẸN HÒ</title>
-    <icon src="https://vnepg.site/logos/35.png" />
-  </programme>
   <programme channel="htvkey" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SIÊU THỊ CƯỜI</title>
     <icon src="https://vnepg.site/logos/35.png" />
@@ -27620,26 +27221,107 @@
   </programme>
   <programme channel="htvthethaohd" start="20260129010000 +0700" stop="20260129020000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TƯỜNG THUẬT</title>
-    <desc lang="vi">Giải boxing Trigger Promotion 6</desc>
+    <desc lang="vi">Giải boxing Trigger - Promotion 6</desc>
     <icon src="https://vnepg.site/logos/38.png" />
   </programme>
   <programme channel="htvthethaohd" start="20260129020000 +0700" stop="20260129023000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TẠP CHÍ GOLF HTV</title>
     <icon src="https://vnepg.site/logos/38.png" />
   </programme>
-  <programme channel="htvthethaohd" start="20260129023000 +0700" stop="20260129235959 +0700" source="EPGVN (PRIMARY)">
+  <programme channel="htvthethaohd" start="20260129023000 +0700" stop="20260129050000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TƯỜNG THUẬT</title>
     <desc lang="vi">Khiêu vũ thể thao</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129050000 +0700" stop="20260129053000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">THỂ DỤC BUỔI SÁNG</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129053000 +0700" stop="20260129060000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">THỂ THAO LÀ CUỘC SỐNG</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129060000 +0700" stop="20260129081500 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TƯỜNG THUẬT</title>
+    <desc lang="vi">Giải bóng đá Futsal Châu Á</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129081500 +0700" stop="20260129083000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TẠP CHÍ PICKLEBALL VÀO BẾP CÙNG HTV</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129083000 +0700" stop="20260129100000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TƯỜNG THUẬT VÒNG LOẠI</title>
+    <desc lang="vi">Giải Lân Sư Rồng Cúp Chợ Lớn 2026</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129100000 +0700" stop="20260129103000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">ỐNG KÍNH THỂ THAO</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129103000 +0700" stop="20260129120000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TƯỜNG THUẬT</title>
+    <desc lang="vi">Giải võ thuật One Championship</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129120000 +0700" stop="20260129121500 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">BÀI TẬP YOGA</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129121500 +0700" stop="20260129123000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TẠP CHÍ GOLF HTV</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129123000 +0700" stop="20260129125000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TRỰC TIẾP BÌNH LUẬN KHÁCH MỜI</title>
+    <desc lang="vi">Giải bóng đá VCK Futsal Châu Á 2026</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129125000 +0700" stop="20260129150000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TRỰC TIẾP</title>
+    <desc lang="vi">Giải bóng đá VCK Futsal Châu Á 2026 - Lebanon vs Việt Nam</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129150000 +0700" stop="20260129170000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TRỰC TIẾP</title>
+    <desc lang="vi">Giải bóng đá VCK Futsal Châu Á 2026 - Hàn Quốc vs Iraq</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129170000 +0700" stop="20260129190000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TRỰC TIẾP</title>
+    <desc lang="vi">Giải bóng đá VCK Futsal Châu Á 2026 - Kuwait vs Thái Lan</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129190000 +0700" stop="20260129211500 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TRỰC TIẾP</title>
+    <desc lang="vi">Giải bóng đá VCK Futsal Châu Á 2026 - Cộng hòa Kyrgyz vs Indonesia</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129211500 +0700" stop="20260129213000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">BẢN TIN 365</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129213000 +0700" stop="20260129220000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">ĐI ĐỂ KHỎE</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129220000 +0700" stop="20260129233000 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TƯỜNG THUẬT VÒNG LOẠI</title>
+    <desc lang="vi">Giải Lân Sư Rồng Cúp Chợ Lớn 2026</desc>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129233000 +0700" stop="20260129234500 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">TẠP CHÍ PICKLEBALL VÀO BẾP CÙNG HTV</title>
+    <icon src="https://vnepg.site/logos/38.png" />
+  </programme>
+  <programme channel="htvthethaohd" start="20260129234500 +0700" stop="20260129235959 +0700" source="EPGVN (PRIMARY)">
+    <title lang="vi">BẢN TIN 365</title>
     <icon src="https://vnepg.site/logos/38.png" />
   </programme>
   <channel id="hue" source="EPGVN (PRIMARY)">
     <display-name>Huế</display-name>
     <icon src="https://vnepg.site/logos/106.png" />
   </channel>
-  <programme channel="hue" start="20260128084500 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYÊN MỤC HUẾ - ĐẤT &amp;amp; NGƯỜI</title>
-    <icon src="https://vnepg.site/logos/106.png" />
-  </programme>
   <programme channel="hue" start="20260128090500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CA NHẠC</title>
     <icon src="https://vnepg.site/logos/106.png" />
@@ -27953,11 +27635,6 @@
     <display-name>Hưng Yên</display-name>
     <icon src="https://vnepg.site/logos/107.png" />
   </channel>
-  <programme channel="hungyen" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KINH TẾ PHỐ HIẾN</title>
-    <desc lang="vi">Hộ kinh doanh bước vào kê khai thuế - Thuận lợi và khó khăn</desc>
-    <icon src="https://vnepg.site/logos/107.png" />
-  </programme>
   <programme channel="hungyen" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH</title>
     <desc lang="vi">Sức khỏe với mọi người</desc>
@@ -28357,14 +28034,6 @@
     <display-name>In The Box Channel</display-name>
     <icon src="https://vnepg.site/logos/133.png" />
   </channel>
-  <programme channel="inthebox" start="20260128075900 +0700" stop="20260128084800 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TRÍ LỰC SIÊU PHÀM (PHẦN 1) - LIMITLESS S01</title>
-    <desc lang="vi">Cuộc đời của Brian Finch có một bước ngoặt phi thường khi anh sử dụng NZT-48, một loại thuốc tăng cường thần kinh mà sự bí ẩn và hỗn loạn đã đưa anh đến làm việc cho FBI và một thượng nghị sĩ không giống như vẻ ngoài của anh.</desc>
-    <icon src="https://image.tmdb.org/t/p/original/5jrncO35yqeYjcv7GiCh27qxRR1.jpg" />
-    <category lang="vi">Phim Chính Kịch</category>
-    <category lang="vi">Phim Hài</category>
-    <category lang="vi">Action &amp;amp; Adventure</category>
-  </programme>
   <programme channel="inthebox" start="20260128084800 +0700" stop="20260128102300 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐIỀU CƠ BẢN - ELEMENTARY S05</title>
     <desc lang="vi">Một bộ phim truyền hình thời hiện đại kể về một bộ đôi giải quyết tội phạm phá vỡ những vụ án bất khả thi nhất của NYPD. Sau khi thất sủng ở London và phải vào trại cai nghiện, Sherlock lập dị trốn đến Manhattan, nơi người cha giàu có buộc anh phải sống với cơn ác mộng tồi tệ nhất - người bạn đồng hành tỉnh táo, bác sĩ Watson.</desc>
@@ -29192,11 +28861,6 @@
     <display-name>Khánh Hòa 1</display-name>
     <icon src="https://vnepg.site/logos/109.png" />
   </channel>
-  <programme channel="khanhhoa1" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NGHỀ VÀ LÀNG NGHỀ</title>
-    <desc lang="vi">Nghề chế tác trang sức của người Mông ở Lao Xa</desc>
-    <icon src="https://vnepg.site/logos/109.png" />
-  </programme>
   <programme channel="khanhhoa1" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BẢN TIN THỜI SỰ TỔNG HỢP</title>
     <icon src="https://vnepg.site/logos/109.png" />
@@ -29961,14 +29625,6 @@
     <display-name>Lai Châu</display-name>
     <icon src="https://vnepg.site/logos/110.png" />
   </channel>
-  <programme channel="laichau" start="20260128082000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TÀI LIỆU</title>
-    <icon src="https://vnepg.site/logos/110.png" />
-  </programme>
-  <programme channel="laichau" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIẢM NGHÈO BỀN VỮNG</title>
-    <icon src="https://vnepg.site/logos/110.png" />
-  </programme>
   <programme channel="laichau" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHÓNG SỰ CHUYÊN ĐỀ</title>
     <icon src="https://vnepg.site/logos/110.png" />
@@ -30353,10 +30009,6 @@
     <display-name>Lâm Đồng 1</display-name>
     <icon src="https://vnepg.site/logos/111.png" />
   </channel>
-  <programme channel="lamdong1" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐẠI BIỂU VỚI CỬ TRI</title>
-    <icon src="https://vnepg.site/logos/111.png" />
-  </programme>
   <programme channel="lamdong1" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN HÀN QUỐC</title>
     <desc lang="vi">Mặt Trái Sự Thật Tập 28/30</desc>
@@ -30758,10 +30410,6 @@
     <display-name>Lâm Đồng 2</display-name>
     <icon src="https://vnepg.site/logos/112.png" />
   </channel>
-  <programme channel="lamdong2" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐẠI BIỂU VỚI CỬ TRI</title>
-    <icon src="https://vnepg.site/logos/112.png" />
-  </programme>
   <programme channel="lamdong2" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN HÀN QUỐC</title>
     <desc lang="vi">Mặt Trái Sự Thật Tập 28/30</desc>
@@ -31111,10 +30759,6 @@
     <display-name>Lâm Đồng 3</display-name>
     <icon src="https://vnepg.site/logos/113.png" />
   </channel>
-  <programme channel="lamdong3" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐẠI BIỂU VỚI CỬ TRI</title>
-    <icon src="https://vnepg.site/logos/113.png" />
-  </programme>
   <programme channel="lamdong3" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN HÀN QUỐC</title>
     <desc lang="vi">Mặt trái sự thật (Tập 28/30)</desc>
@@ -31292,23 +30936,6 @@
     <display-name>Lạng Sơn</display-name>
     <icon src="https://vnepg.site/logos/114.png" />
   </channel>
-  <programme channel="langson" start="20260128083300 +0700" stop="20260128085900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHẠC VIỆT</title>
-    <icon src="https://vnepg.site/logos/114.png" />
-  </programme>
-  <programme channel="langson" start="20260128085900 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TRAILER GIỚI THIỆU</title>
-    <icon src="https://vnepg.site/logos/114.png" />
-  </programme>
-  <programme channel="langson" start="20260128090000 +0700" stop="20260128090600 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">LẠNG SƠN NGÀY MỚI</title>
-    <desc lang="vi">Ngày 28/01/2026</desc>
-    <icon src="https://vnepg.site/logos/114.png" />
-  </programme>
-  <programme channel="langson" start="20260128090600 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">QUỐC TẾ SÁNG</title>
-    <icon src="https://vnepg.site/logos/114.png" />
-  </programme>
   <programme channel="langson" start="20260128091000 +0700" stop="20260128091400 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TUYÊN TRUYỀN VỀ BẦU CỬ</title>
     <icon src="https://vnepg.site/logos/114.png" />
@@ -31559,18 +31186,6 @@
     <display-name>Lào Cai</display-name>
     <icon src="https://vnepg.site/logos/115.png" />
   </channel>
-  <programme channel="laocai" start="20260128080000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <icon src="https://vnepg.site/logos/115.png" />
-  </programme>
-  <programme channel="laocai" start="20260128085000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">VƯƠN TỚI ƯỚC MƠ</title>
-    <icon src="https://vnepg.site/logos/115.png" />
-  </programme>
-  <programme channel="laocai" start="20260128085500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CLIP QUẢNG BÁ LÀO CAI</title>
-    <icon src="https://vnepg.site/logos/115.png" />
-  </programme>
   <programme channel="laocai" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CÒN MÃI THANH XUÂN</title>
     <icon src="https://vnepg.site/logos/115.png" />
@@ -32426,10 +32041,6 @@
     <display-name>Man</display-name>
     <icon src="https://vnepg.site/logos/135.png" />
   </channel>
-  <programme channel="man" channel-number="101" start="20260128084400 +0700" stop="20260128091000 +0700" source="LICHPHATSONG">
-    <title lang="vi">TRIỂN LÃM THUYỀN - THE BOAT SHOW S01</title>
-    <desc lang="vi">Chương trình này có thời lượng là 26 phút.</desc>
-  </programme>
   <programme channel="man" channel-number="101" start="20260128091000 +0700" stop="20260128095700 +0700" source="LICHPHATSONG">
     <title lang="vi">VƯỢT CHƯỚNG NGẠI VẬT - WIPEOUT USA S08</title>
     <desc lang="vi">Chương trình này có thời lượng là 47 phút.</desc>
@@ -32643,10 +32254,6 @@
     <display-name>Music Box</display-name>
     <icon src="https://vnepg.site/logos/171.png" />
   </channel>
-  <programme channel="musicbox" start="20260128082900 +0700" stop="20260128085900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">EUROPE</title>
-    <icon src="https://vnepg.site/logos/171.png" />
-  </programme>
   <programme channel="musicbox" start="20260128085900 +0700" stop="20260128093100 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">LET'S DANCE</title>
     <icon src="https://vnepg.site/logos/171.png" />
@@ -32951,16 +32558,6 @@
     <display-name>Nghệ An</display-name>
     <icon src="https://vnepg.site/logos/116.png" />
   </channel>
-  <programme channel="nghean" start="20260128083000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">HUẾ MIỀN KÝ ỨC</title>
-    <desc lang="vi">Bánh canh xứ Huế</desc>
-    <icon src="https://vnepg.site/logos/116.png" />
-  </programme>
-  <programme channel="nghean" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHỊP SỐNG ĐÔ THỊ</title>
-    <desc lang="vi">Nhà ở xã hội - Nhìn lại mục tiêu năm 2025</desc>
-    <icon src="https://vnepg.site/logos/116.png" />
-  </programme>
   <programme channel="nghean" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Báu vật của cha - Tập 44</desc>
@@ -33359,15 +32956,6 @@
     <display-name>Nghệ An Radio</display-name>
     <icon src="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg" />
   </channel>
-  <programme channel="ngheanradio" start="20260128082000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">SỨC KHỎE CỦA BẠN</title>
-    <desc lang="vi">Bệnh về Mắt ở trẻ em</desc>
-    <icon src="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg" />
-  </programme>
-  <programme channel="ngheanradio" start="20260128090000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN SÁNG - ĐIỂM BÁO</title>
-    <icon src="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg" />
-  </programme>
   <programme channel="ngheanradio" start="20260128091000 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TIẾNG DÂN TỘC THÁI</title>
     <icon src="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg" />
@@ -33754,11 +33342,6 @@
     <display-name>NHK World</display-name>
     <icon src="https://vnepg.site/logos/161.png" />
   </channel>
-  <programme channel="nhkworld" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">JAPAN'S TOP INVENTIONS</title>
-    <desc lang="vi">Discover the stories behind renowned Japanese products alongside our reporter. This time: non-loosening bolts.</desc>
-    <icon src="https://www3.nhk.or.jp/nhkworld/en/shows/2091/images/wide_m_POniwD3BIRgCqNQxwb7DU0x1c5f8t7uLWGsGfRsu.jpg" />
-  </programme>
   <programme channel="nhkworld" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NHK NEWSLINE</title>
     <desc lang="vi">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
@@ -34203,16 +33786,6 @@
     <display-name>Ninh Bình</display-name>
     <icon src="https://vnepg.site/logos/117.png" />
   </channel>
-  <programme channel="ninhbinh" start="20260128083200 +0700" stop="20260128084700 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NGƯỜI VN ƯU TIÊN DÙNG HÀNG VN</title>
-    <desc lang="vi">Phát triển hệ thống bán lẻ: Cuộc đua hàng Việt chinh phục người tiêu dùng</desc>
-    <icon src="https://vnepg.site/logos/117.png" />
-  </programme>
-  <programme channel="ninhbinh" start="20260128084700 +0700" stop="20260128090200 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">HỌC TẬP VÀ LÀM THEO BÁC</title>
-    <desc lang="vi">Phát huy vai trò nêu gương của cán bộ, đảng viên</desc>
-    <icon src="https://vnepg.site/logos/117.png" />
-  </programme>
   <programme channel="ninhbinh" start="20260128090200 +0700" stop="20260128093200 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ TRONG NƯỚC &amp;amp; QUỐC TẾ</title>
     <icon src="https://vnepg.site/logos/117.png" />
@@ -34378,14 +33951,6 @@
     <display-name>Ninh Bình Radio</display-name>
     <icon src="https://nbtv.vn/upload/files/image/HINH_NEN_PT_SUA_3.gif" />
   </channel>
-  <programme channel="ninhbinhradio" start="20260128060000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TIẾP SÓNG HỆ THỜI SỰ CHÍNH TRỊ TỔNG HỢP VOV1- ĐÀI TNVN</title>
-    <icon src="https://nbtv.vn/upload/files/image/HINH_NEN_PT_SUA_3.gif" />
-  </programme>
-  <programme channel="ninhbinhradio" start="20260128090000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH PHÁT THANH TIẾP THEO</title>
-    <icon src="https://nbtv.vn/upload/files/image/HINH_NEN_PT_SUA_3.gif" />
-  </programme>
   <programme channel="ninhbinhradio" start="20260128090500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ NINH BÌNH</title>
     <icon src="https://nbtv.vn/upload/files/image/HINH_NEN_PT_SUA_3.gif" />
@@ -34542,10 +34107,6 @@
     <display-name>ON BiBi</display-name>
     <icon src="https://vnepg.site/logos/19.png" />
   </channel>
-  <programme channel="onbibi" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">(26T) TRUYỀN THUYẾT CỬU TRÙNG THIÊN - TẬP 21</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBI_M.jpg" />
-  </programme>
   <programme channel="onbibi" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH CA NHẠC (104T)(104T) BÉ YÊU TỎA SÁNG - TẬP 2</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBI_M.jpg" />
@@ -35126,10 +34687,6 @@
     <display-name>ON Cine</display-name>
     <icon src="https://vnepg.site/logos/21.png" />
   </channel>
-  <programme channel="oncine" start="20260128081500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHẬT KÝ CÔNG SỞ(ĐL_50T) - TẬP 48</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/FILM_TV_M.jpg" />
-  </programme>
   <programme channel="oncine" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">HỒN ĐÁ(VN_29T) - TẬP 24</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/FILM_TV_M.jpg" />
@@ -35330,13 +34887,6 @@
     <display-name>one</display-name>
     <icon src="https://linear-poster.astro.com.my/prod/poster/One_IVP_LAND_V2_IVP_LAND_586x330.jpg" />
   </channel>
-  <programme channel="oneasia" start="20260128081500 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THE WOMAN WHO SWALLOWED THE SUN EP102</title>
-    <desc lang="vi">Seol-hee vows to seek revenge on the powerful conglomerate family that is responsible for ruining her daughter's life and covering up the truths.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000042X908950.jpg" />
-    <category lang="vi">TV Show</category>
-    <category lang="vi">Drama</category>
-  </programme>
   <programme channel="oneasia" start="20260128090500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THE BRAVE YONGSUJUNG EP55</title>
     <desc lang="vi">Ui Joo accompanies Jae Rim to Japan for a business trip. Jang Won gives chase when he sees Hye Ra attempting to force Young Ae into her car.</desc>
@@ -35572,10 +35122,6 @@
     <display-name>ON E Channel</display-name>
     <icon src="https://vnepg.site/logos/16.png" />
   </channel>
-  <programme channel="onechannel" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẾP CHIẾN (12T) TẬP 5,6</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/E_CHANNEL_M.jpg" />
-  </programme>
   <programme channel="onechannel" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM HOA</title>
     <desc lang="vi">Định Mệnh Của Tôi (36t) Tập 13</desc>
@@ -35865,10 +35411,6 @@
     <display-name>ON Football</display-name>
     <icon src="https://vnepg.site/logos/24.png" />
   </channel>
-  <programme channel="onfootball" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN ON KẾT NỐI &amp;amp; ĐỆM + GTDS</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BONGDA_HD_M.jpg" />
-  </programme>
   <programme channel="onfootball" start="20260128090000 +0700" stop="20260128110000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">UEFA CHAMPIONS LEAGUE 25/26 LEAGUE PHASE - LƯỢT 7 - SLAVIA PRAGUE VS BARCELONA PHÁT LẠI</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BONGDA_HD_M.jpg" />
@@ -36234,10 +35776,6 @@
     <display-name>ON Info TV</display-name>
     <icon src="https://vnepg.site/logos/20.png" />
   </channel>
-  <programme channel="oninfotv" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DOANH NGHIỆP VÀ THƯƠNG HIỆU - SỐ 41</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/INFO_TV_M.jpg" />
-  </programme>
   <programme channel="oninfotv" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM NƯỚC NGOÀI</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/INFO_TV_M.jpg" />
@@ -36586,10 +36124,6 @@
     <display-name>ON Kids</display-name>
     <icon src="https://vnepg.site/logos/29.png" />
   </channel>
-  <programme channel="onkids" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">XIN CHÀO NGƯỜI HÀNH TINH NHO (26) - TẬP 18</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBIPLUS_HD_M.jpg" />
-  </programme>
   <programme channel="onkids" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CON YÊU ƠI ĐỪNG SỢ (100) - TẬP 54</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/BIBIPLUS_HD_M.jpg" />
@@ -37542,10 +37076,6 @@
     <display-name>ON Movies</display-name>
     <icon src="https://vnepg.site/logos/15.png" />
   </channel>
-  <programme channel="onmovies" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN ĐỘC THÂN TUỔI 30 TẬP 14 T16 CBCN</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/VAN_HOA_M.jpg" />
-  </programme>
   <programme channel="onmovies" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MUSIC LIKE TẬP 42</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/VAN_HOA_M.jpg" />
@@ -37694,10 +37224,6 @@
     <display-name>ON Music</display-name>
     <icon src="https://vnepg.site/logos/23.png" />
   </channel>
-  <programme channel="onmusic" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BOLERO (22) MỚI - SỐ 11 - MỚI</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/M_CHANNEL_M.jpg" />
-  </programme>
   <programme channel="onmusic" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MUSIC LIKE - NGÀY CHƯA GIÔNG BÃO</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/M_CHANNEL_M.jpg" />
@@ -37990,10 +37516,6 @@
     <display-name>ON O2TV</display-name>
     <icon src="https://vnepg.site/logos/18.png" />
   </channel>
-  <programme channel="ono2tv" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYỆN KHÓ NÓI - 0711 BAO CAO SU VÀ RỐI LOẠN CƯƠNG Ở NAM GIỚI</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/O2_TV_M.jpg" />
-  </programme>
   <programme channel="ono2tv" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TRUY VẾT - 0712 DI THỰC CÂY THUỐC VỀ THỦ ĐÔ</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/O2_TV_M.jpg" />
@@ -38311,10 +37833,6 @@
     <display-name>ON Phim Việt</display-name>
     <icon src="https://vnepg.site/logos/13.png" />
   </channel>
-  <programme channel="onphimviet" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHỮNG ĐÓA NGỌC LAN (VN_33T) - TẬP 15</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/PHIMVIET_M.jpg" />
-  </programme>
   <programme channel="onphimviet" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GẶP GỠ ĐỊNH MỆNH (VN_42T) - TẬP 6</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/PHIMVIET_M.jpg" />
@@ -38695,10 +38213,6 @@
     <display-name>ON Sports News</display-name>
     <icon src="https://vnepg.site/logos/26.png" />
   </channel>
-  <programme channel="onsportsnews" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">UEFA UEL HIGHLIGHTS SHOW 25/26 - LEAGUE PHASE - LƯỢT 7</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg" />
-  </programme>
   <programme channel="onsportsnews" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BẢN TIN THẾ GIỚI THỂ THAO 6H - BẢN TIN ON KẾT NỐI</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/THETHAO_TINTUC_HD_M.jpg" />
@@ -38921,10 +38435,6 @@
     <display-name>ON Sports+</display-name>
     <icon src="https://vnepg.site/logos/17.png" />
   </channel>
-  <programme channel="onsportsplus" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TỔNG HỢP LIGUE 1 25/26 - VÒNG 19</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/HAY_TV_M.jpg" />
-  </programme>
   <programme channel="onsportsplus" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GIẤC MƠ THỂ THAO - SỐ 11-25</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/HAY_TV_M.jpg" />
@@ -39231,10 +38741,6 @@
     <display-name>ON Style TV</display-name>
     <icon src="https://vnepg.site/logos/22.png" />
   </channel>
-  <programme channel="onstyle" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐIỂM HẸN CUỐI TUẦN - SỐ 04</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg" />
-  </programme>
   <programme channel="onstyle" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/STYLE_TV_HD_M/phimtruyen.jpg" />
@@ -39563,10 +39069,6 @@
     <display-name>ON Trending</display-name>
     <icon src="https://vnepg.site/logos/25.png" />
   </channel>
-  <programme channel="ontrending" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THƯƠNG NHỚ MIỀN TÂY - SỐ 12</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/YEAH1_TV_M.jpg" />
-  </programme>
   <programme channel="ontrending" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SITCOM CƯỜI TỪ NHÀ RA NGÕ (VN_100T) TẬP 54</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/YEAH1_TV_M.jpg" />
@@ -39799,10 +39301,6 @@
     <display-name>ON VFamily</display-name>
     <icon src="https://vnepg.site/logos/28.png" />
   </channel>
-  <programme channel="onvfamily" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHÚNG TÔI LÀ PHỤ NỮ_CÔNG NGHỆ GIA ĐÌNH - SỐ 10</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/VFAMILY_M.jpg" />
-  </programme>
   <programme channel="onvfamily" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM HOÀNG HÔN DỊU DÀNG (VN_52T_PM) - TẬP 33</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/VFAMILY_M.jpg" />
@@ -40075,10 +39573,6 @@
     <display-name>ON Vie Dramas</display-name>
     <icon src="https://vnepg.site/logos/27.png" />
   </channel>
-  <programme channel="onviedramas" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TRƯỜNG CA HÀNH - TẬP 3</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/D_DRAMAS_HD_M.jpg" />
-  </programme>
   <programme channel="onviedramas" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐỜI NÀY CÓ EM - TẬP 9</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/D_DRAMAS_HD_M.jpg" />
@@ -40251,10 +39745,6 @@
     <display-name>ON Vie Giải Trí</display-name>
     <icon src="https://vnepg.site/logos/12.png" />
   </channel>
-  <programme channel="onviegiaitri" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHÂN NGƯ TRUYỆN - TẬP 7</title>
-    <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/GIAITRI_TV_HD_M.jpg" />
-  </programme>
   <programme channel="onviegiaitri" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">AI LÀ SỐ 1? TẬP 13 P1</title>
     <icon src="http://img.static.vtvcab.vn/hq/tvshows/CBG2/GIAITRI_TV_HD_M.jpg" />
@@ -40431,10 +39921,6 @@
     <display-name>Outdoor Channel</display-name>
     <icon src="https://vnepg.site/logos/146.png" />
   </channel>
-  <programme channel="outdoorhd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIÁO DỤC BẢO TỒN ĐỘNG VẬT ÚC</title>
-    <icon src="https://vnepg.site/logos/146.png" />
-  </programme>
   <programme channel="outdoorhd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MỞ NHÀ HÀNG THỨ HAI Ở ẤN ĐỘ</title>
     <icon src="https://vnepg.site/logos/146.png" />
@@ -40663,16 +40149,6 @@
     <display-name>Phú Thọ</display-name>
     <icon src="https://vnepg.site/logos/118.png" />
   </channel>
-  <programme channel="phutho" start="20260128081000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN:</title>
-    <desc lang="vi">Mỹ vị nhân gian (Tập 31)</desc>
-    <icon src="https://vnepg.site/logos/118.png" />
-  </programme>
-  <programme channel="phutho" start="20260128085500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CON ĐƯỜNG MANG TÊN DANH NHÂN:</title>
-    <desc lang="vi">Đường Nguyễn Du</desc>
-    <icon src="https://vnepg.site/logos/118.png" />
-  </programme>
   <programme channel="phutho" start="20260128090000 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ PHÚ THỌ</title>
     <icon src="https://vnepg.site/logos/118.png" />
@@ -40873,10 +40349,6 @@
     <display-name>Planet Earth</display-name>
     <icon src="https://vnepg.site/logos/138.png" />
   </channel>
-  <programme channel="planetearthhd" channel-number="96" start="20260128080500 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
-    <title lang="vi">VĨ ĐẠI NHẤT MỌI THỜI ĐẠI CÙNG PEYTON MANNING - MÙA 1 - GREATEST OF ALL TIME WITH PEYTON MANNING S01</title>
-    <desc lang="vi">Chương trình này có thời lượng là 55 phút.</desc>
-  </programme>
   <programme channel="planetearthhd" channel-number="96" start="20260128090000 +0700" stop="20260128095400 +0700" source="LICHPHATSONG">
     <title lang="vi">THÁM HIỂM CHÂU Á - EXPEDITION ASIA S01</title>
     <desc lang="vi">Chương trình này có thời lượng là 54 phút.</desc>
@@ -41057,11 +40529,6 @@
     <display-name>QPVN</display-name>
     <icon src="https://vnepg.site/logos/72.png" />
   </channel>
-  <programme channel="qpvnhd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIẢI MÃ VŨ KHÍ</title>
-    <desc lang="vi">Người Phá Giải Mật Mã Của Đức Quốc Xã - Phần 2/2</desc>
-    <icon src="https://vnepg.site/logos/72.png" />
-  </programme>
   <programme channel="qpvnhd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NGÀY MỚI VỚI QPVN</title>
     <icon src="https://vnepg.site/logos/72.png" />
@@ -41224,20 +40691,6 @@
     <display-name>Quảng Ngãi 1</display-name>
     <icon src="https://vnepg.site/logos/119.png" />
   </channel>
-  <programme channel="quangngai" start="20260128082000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CÔNG NGHỆ KIẾN TẠO</title>
-    <desc lang="vi">Xây dựng chương trình quốc gia về AI</desc>
-    <icon src="https://vnepg.site/logos/119.png" />
-  </programme>
-  <programme channel="quangngai" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CẢI CÁCH HÀNH CHÍNH</title>
-    <desc lang="vi">Đẩy mạnh số hóa dữ liệu đất đai</desc>
-    <icon src="https://vnepg.site/logos/119.png" />
-  </programme>
-  <programme channel="quangngai" start="20260128090000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN 45 GIÂY 1 CHẠM</title>
-    <icon src="https://vnepg.site/logos/119.png" />
-  </programme>
   <programme channel="quangngai" start="20260128090500 +0700" stop="20260128095000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM HÀN QUỐC</title>
     <desc lang="vi">Sông đón trăng lên - Tập 13</desc>
@@ -41393,11 +40846,6 @@
     <display-name>Quảng Ninh 1</display-name>
     <icon src="https://vnepg.site/logos/120.png" />
   </channel>
-  <programme channel="quangninh1" start="20260128084400 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">HOẠT HÌNH</title>
-    <desc lang="vi">Đội lính cứu hỏa - Tập 43</desc>
-    <icon src="https://vnepg.site/logos/120.png" />
-  </programme>
   <programme channel="quangninh1" start="20260128090500 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KHOA GIÁO</title>
     <desc lang="vi">Giải pháp nâng cao hiệu quả công tác phòng chống hàng giả</desc>
@@ -41589,16 +41037,6 @@
     <display-name>Quảng Ninh 3</display-name>
     <icon src="https://vnepg.site/logos/121.png" />
   </channel>
-  <programme channel="quangninh3" start="20260128084500 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐẤT VÀ NGƯỜI QUẢNG NINH</title>
-    <desc lang="vi">Người “gieo” giấc mơ trên đỉnh Cao Ly</desc>
-    <icon src="https://vnepg.site/logos/121.png" />
-  </programme>
-  <programme channel="quangninh3" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ẨM THỰC QUẢNG NINH</title>
-    <desc lang="vi">Xôi cua – Đậm vị biển</desc>
-    <icon src="https://vnepg.site/logos/121.png" />
-  </programme>
   <programme channel="quangninh3" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Liệt hoả như ca - Tập 27</desc>
@@ -41781,11 +41219,6 @@
     <display-name>Quảng Ninh Radio 1</display-name>
     <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR1.jpg" />
   </channel>
-  <programme channel="quangninhradio1" start="20260128081000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYỆN CÙNG BÁC SĨ</title>
-    <desc lang="vi">Rối loạn lo âu trầm cảm ở thanh thiếu niên</desc>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR1.jpg" />
-  </programme>
   <programme channel="quangninhradio1" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SẮC MÀU ÂM NHẠC</title>
     <desc lang="vi">Âm nhạc tinh tế của Gracie Abrams</desc>
@@ -41954,15 +41387,6 @@
     <display-name>Quảng Ninh Radio 2</display-name>
     <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
   </channel>
-  <programme channel="quangninhradio2" start="20260128080500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH &amp;quot; TÔI YÊU DU LỊCH&amp;quot;</title>
-    <desc lang="vi">Sùng Tả - sắc màu miền biên viễn - Trung Quốc</desc>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
-  </programme>
-  <programme channel="quangninhradio2" start="20260128090000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN</title>
-    <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
-  </programme>
   <programme channel="quangninhradio2" start="20260128090500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ÂM NHẠC</title>
     <icon src="https://media.baoquangninh.vn/upload/files/logo/QNR2.jpg" />
@@ -42249,16 +41673,6 @@
     <display-name>Quảng Trị</display-name>
     <icon src="https://vnepg.site/logos/122.png" />
   </channel>
-  <programme channel="quangtri" start="20260128084500 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">MỖI TUẦN MỘT CHUYỆN</title>
-    <desc lang="vi">Chuyên án đặc biệt</desc>
-    <icon src="https://vnepg.site/logos/122.png" />
-  </programme>
-  <programme channel="quangtri" start="20260128085500 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHỊP CẦU NHÂN ÁI</title>
-    <desc lang="vi">Điểm tựa của cha và em</desc>
-    <icon src="https://vnepg.site/logos/122.png" />
-  </programme>
   <programme channel="quangtri" start="20260128090500 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHAT VỚI MẸ BỈM SỮA</title>
     <icon src="https://vnepg.site/logos/122.png" />
@@ -42398,10 +41812,6 @@
     <display-name>Quảng Trị Radio</display-name>
     <icon src="https://vnepg.site/logos/122.png" />
   </channel>
-  <programme channel="quangtriradio" start="20260128060000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TIẾP SÓNG CHƯƠNG TRÌNH VOV1</title>
-    <icon src="https://vnepg.site/logos/122.png" />
-  </programme>
   <programme channel="quangtriradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BẢN TIN TRỰC TIẾP</title>
     <icon src="https://vnepg.site/logos/122.png" />
@@ -42502,11 +41912,6 @@
     <display-name>SCTV11</display-name>
     <icon src="https://vnepg.site/logos/54.png" />
   </channel>
-  <programme channel="sctv11hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Nơi ngọn gió dừng chân - Tập 30</desc>
-    <icon src="https://vnepg.site/logos/54.png" />
-  </programme>
   <programme channel="sctv11hd" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KHÔNG GIAN TÌNH BẠN - TẬP 32</title>
     <icon src="https://vnepg.site/logos/54.png" />
@@ -42696,10 +42101,6 @@
     <display-name>SCTV12</display-name>
     <icon src="https://vnepg.site/logos/55.png" />
   </channel>
-  <programme channel="sctv12hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">AMAZON CỦA CHÂU Á - HÀNH TRÌNH VÀO VÙNG ĐẤT HUYỀN BÍ</title>
-    <icon src="https://vnepg.site/logos/55.png" />
-  </programme>
   <programme channel="sctv12hd" start="20260128090000 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MÊNH MANG ĐẠI NGÀN</title>
     <icon src="https://vnepg.site/logos/55.png" />
@@ -42989,10 +42390,6 @@
     <display-name>SCTV13</display-name>
     <icon src="https://vnepg.site/logos/56.png" />
   </channel>
-  <programme channel="sctv13hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TÌNH YÊU KHÔNG NGỜ ĐẾN – TẬP 4</title>
-    <icon src="https://vnepg.site/logos/56.png" />
-  </programme>
   <programme channel="sctv13hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MỸ NHÂN VÀO BẾP – TẬP 63 VỀ CHỐN LINH THIÊNG – TẬP 56</title>
     <icon src="https://vnepg.site/logos/56.png" />
@@ -43177,10 +42574,6 @@
     <display-name>SCTV14</display-name>
     <icon src="https://vnepg.site/logos/57.png" />
   </channel>
-  <programme channel="sctv14hd" start="20260128084500 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐAN MÂY DỆT MỘNG - TẬP 104</title>
-    <icon src="https://vnepg.site/logos/57.png" />
-  </programme>
   <programme channel="sctv14hd" start="20260128090500 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MỸ NHÂN VÀO BẾP - TẬP 1</title>
     <icon src="https://vnepg.site/logos/57.png" />
@@ -43661,10 +43054,6 @@
     <display-name>SCTV18</display-name>
     <icon src="https://vnepg.site/logos/61.png" />
   </channel>
-  <programme channel="sctv18hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BAY LÊN GIAI ĐIỆU SỐNG - TẬP 9SÁCH VÀ CUỘC SỐNG P3 - TẬP 310</title>
-    <icon src="https://vnepg.site/logos/61.png" />
-  </programme>
   <programme channel="sctv18hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIÊU LƯU CÙNG GULLIVER - TẬP 13</title>
     <icon src="https://vnepg.site/logos/61.png" />
@@ -43925,11 +43314,6 @@
     <display-name>SCTV19</display-name>
     <icon src="https://vnepg.site/logos/62.png" />
   </channel>
-  <programme channel="sctv19hd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHOA GIÁO</title>
-    <desc lang="vi">Khoa học cùng Brain Café - Tập 44</desc>
-    <icon src="https://vnepg.site/logos/62.png" />
-  </programme>
   <programme channel="sctv19hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GIẢI TRÍ</title>
     <desc lang="vi">Mỹ nhân vào bếp - Tập 61, 62</desc>
@@ -44324,10 +43708,6 @@
     <display-name>SCTV1</display-name>
     <icon src="https://vnepg.site/logos/46.png" />
   </channel>
-  <programme channel="sctv1hd" start="20260128083100 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHẤT GIA BÁCH TRUYỆN - TẬP 139,140</title>
-    <icon src="https://vnepg.site/logos/46.png" />
-  </programme>
   <programme channel="sctv1hd" start="20260128090000 +0700" stop="20260128091600 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SUI GIA NGÕ HẸP_TẬP 19</title>
     <icon src="https://vnepg.site/logos/46.png" />
@@ -44676,16 +44056,6 @@
     <display-name>SCTV20</display-name>
     <icon src="https://vnepg.site/logos/63.png" />
   </channel>
-  <programme channel="sctv20hd" start="20260128080000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC</title>
-    <desc lang="vi">Bức tranh âm nhạc - Duyên</desc>
-    <icon src="https://vnepg.site/logos/63.png" />
-  </programme>
-  <programme channel="sctv20hd" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC</title>
-    <desc lang="vi">MV đệm</desc>
-    <icon src="https://vnepg.site/logos/63.png" />
-  </programme>
   <programme channel="sctv20hd" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CA NHẠC</title>
     <desc lang="vi">Mộc - Số 13 - Giang Hồng Ngọc Bức tranh âm nhạc_018</desc>
@@ -45383,11 +44753,6 @@
     <display-name>SCTV2</display-name>
     <icon src="https://vnepg.site/logos/47.png" />
   </channel>
-  <programme channel="sctv2hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Đứa cháu nhà tài phiệt - Tập 96</desc>
-    <icon src="https://vnepg.site/logos/47.png" />
-  </programme>
   <programme channel="sctv2hd" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Nữ thần rắn báo thù - Tập 43</desc>
@@ -45587,11 +44952,6 @@
     <display-name>SCTV3</display-name>
     <icon src="https://vnepg.site/logos/48.png" />
   </channel>
-  <programme channel="sctv3hd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIẢI TRÍ</title>
-    <desc lang="vi">Doremi Dalimi - Tập 17, 18</desc>
-    <icon src="https://vnepg.site/logos/48.png" />
-  </programme>
   <programme channel="sctv3hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GIẢI TRÍ</title>
     <desc lang="vi">Nhân tài Đại Việt P2 - Tập 95, 96</desc>
@@ -45926,11 +45286,6 @@
     <display-name>SCTV4</display-name>
     <icon src="https://vnepg.site/logos/49.png" />
   </channel>
-  <programme channel="sctv4hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Không lối thoát - Tập 13</desc>
-    <icon src="https://vnepg.site/logos/49.png" />
-  </programme>
   <programme channel="sctv4hd" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Đi qua mùa mưa - Tập 21</desc>
@@ -46171,11 +45526,6 @@
     <display-name>SCTV4K</display-name>
     <icon src="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/logo-sctv4k_e0a24400.jpg" />
   </channel>
-  <programme channel="sctv4k" start="20260128083500 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DU LỊCH</title>
-    <desc lang="vi">Đắk Lắk mùa thu</desc>
-    <icon src="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/logo-sctv4k_e0a24400.jpg" />
-  </programme>
   <programme channel="sctv4k" start="20260128085500 +0700" stop="20260128092500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KHÁM PHÁ</title>
     <desc lang="vi">Thu hoạch khoảng cách Haiti - Phần 2</desc>
@@ -46545,11 +45895,6 @@
     <display-name>SCTV6</display-name>
     <icon src="https://vnepg.site/logos/50.png" />
   </channel>
-  <programme channel="sctv6hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM ẤN ĐỘ</title>
-    <desc lang="vi">Alibaba Truyền Kỳ - Tập 14</desc>
-    <icon src="https://vnepg.site/logos/50.png" />
-  </programme>
   <programme channel="sctv6hd" start="20260128090000 +0700" stop="20260128103000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM CHIẾU RẠP</title>
     <desc lang="vi">Mèo Béo Siêu Đẳng</desc>
@@ -46649,11 +45994,6 @@
     <display-name>SCTV7</display-name>
     <icon src="https://vnepg.site/logos/51.png" />
   </channel>
-  <programme channel="sctv7hd" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Ải mỹ nhân - Tập 25</desc>
-    <icon src="https://vnepg.site/logos/51.png" />
-  </programme>
   <programme channel="sctv7hd" start="20260128090000 +0700" stop="20260128103000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THUYỀN KHÔNG BẾN ĐỖ-PHẦN 1</title>
     <icon src="https://vnepg.site/logos/51.png" />
@@ -46819,11 +46159,6 @@
     <display-name>SCTV8</display-name>
     <icon src="https://vnepg.site/logos/52.png" />
   </channel>
-  <programme channel="sctv8hd" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">TẠP CHÍ NGÂN HÀNG</title>
-    <desc lang="vi">Tái cấu trúc chiến lược trong môi trường mới</desc>
-    <icon src="https://vnepg.site/logos/52.png" />
-  </programme>
   <programme channel="sctv8hd" start="20260128090000 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">XÂY DỰNG VÀ BẤT ĐỘNG SẢN</title>
     <desc lang="vi">Thị trường năm 2026: Sức ép từ đà tăng lãi suất</desc>
@@ -47733,10 +47068,6 @@
     <display-name>Sơn La</display-name>
     <icon src="https://vnepg.site/logos/123.png" />
   </channel>
-  <programme channel="sonla" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CM DIỄN ĐÀN CỬ TRI</title>
-    <icon src="https://vnepg.site/logos/123.png" />
-  </programme>
   <programme channel="sonla" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <icon src="https://vnepg.site/logos/123.png" />
@@ -48170,11 +47501,6 @@
     <display-name>SPOTV2</display-name>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2d880cSPOTV2_IVP_LAND_1280x720.jpg" />
   </channel>
-  <programme channel="spotv2" start="20260128080000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">SAILING</title>
-    <desc lang="vi">SailGP S6: Oracle Perth SailGP - Highlights</desc>
-    <icon src="https://datastore.vr.ctrp.sooka.my/content/images/2d880cSPOTV2_IVP_LAND_1280x720.jpg" />
-  </programme>
   <programme channel="spotv2" start="20260128090000 +0700" stop="20260128105500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">FOOTBALL</title>
     <desc lang="vi">25/26 A-League Men - Round 14 - Melbourne Victory vs Sydney FC</desc>
@@ -48329,14 +47655,6 @@
     <display-name>Tây Ninh</display-name>
     <icon src="https://vnepg.site/logos/124.png" />
   </channel>
-  <programme channel="tayninh1" start="20260128083000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC CHỌN LỌC</title>
-    <icon src="https://vnepg.site/logos/124.png" />
-  </programme>
-  <programme channel="tayninh1" start="20260128085500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DẤU ẤN THỜI GIAN</title>
-    <icon src="https://vnepg.site/logos/124.png" />
-  </programme>
   <programme channel="tayninh1" start="20260128090000 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SÔNG VÀM NGÀY MỚI (PHÁT LẠI 6G00)</title>
     <icon src="https://vnepg.site/logos/124.png" />
@@ -48714,10 +48032,6 @@
     <display-name>Tây Ninh Radio</display-name>
     <icon src="https://vnepg.site/logos/124.png" />
   </channel>
-  <programme channel="tayninhradio" start="20260128081500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CA NHẠC TỔNG HỢP</title>
-    <icon src="https://vnepg.site/logos/124.png" />
-  </programme>
   <programme channel="tayninhradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH THỜI SỰ 9H (PL TS 5G30)</title>
     <icon src="https://vnepg.site/logos/124.png" />
@@ -48894,16 +48208,6 @@
     <display-name>Thái Nguyên</display-name>
     <icon src="https://vnepg.site/logos/126.png" />
   </channel>
-  <programme channel="thainguyen" start="20260128084400 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THI ĐUA YÊU NƯỚC</title>
-    <desc lang="vi">Thi đua dạy tốt ở các trường vùng cao</desc>
-    <icon src="https://vnepg.site/logos/126.png" />
-  </programme>
-  <programme channel="thainguyen" start="20260128085500 +0700" stop="20260128090600 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">QUẢN LÝ BẢO VỆ RỪNG</title>
-    <desc lang="vi">Tăng cường quản lý, bảo vệ từng trong dịp Tết Nguyên đán</desc>
-    <icon src="https://vnepg.site/logos/126.png" />
-  </programme>
   <programme channel="thainguyen" start="20260128090600 +0700" stop="20260128091600 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">HỘP THƯ TRUYỀN HÌNH</title>
     <desc lang="vi">Quy định về việc công khai bản án, quyết định trên Cổng thông tin điện tử Tòa án</desc>
@@ -49122,15 +48426,6 @@
     <display-name>Thái Nguyên Radio</display-name>
     <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
   </channel>
-  <programme channel="thainguyenradio" start="20260128082000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DÂN CA TIẾNG TÀY</title>
-    <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
-  </programme>
-  <programme channel="thainguyenradio" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">LUẬT SƯ CỦA BẠN</title>
-    <desc lang="vi">Tiền lì xì có được xem là tài sản riêng của con không?</desc>
-    <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
-  </programme>
   <programme channel="thainguyenradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BT THỜI SỰ</title>
     <icon src="https://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg" />
@@ -49353,19 +48648,6 @@
     <display-name>Thanh Hóa</display-name>
     <icon src="https://vnepg.site/logos/127.png" />
   </channel>
-  <programme channel="thanhhoa" start="20260128083500 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THẾ GIỚI ĐIỆN ẢNH</title>
-    <icon src="https://vnepg.site/logos/127.png" />
-  </programme>
-  <programme channel="thanhhoa" start="20260128085000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHÀ NƯỚC VÀ PHÁP LUẬT</title>
-    <desc lang="vi">Cao điểm phòng chống buôn lậu, gian lận thương mại, hàng giả trước trong và sau Tết</desc>
-    <icon src="https://vnepg.site/logos/127.png" />
-  </programme>
-  <programme channel="thanhhoa" start="20260128090000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BẢN TIN THỜI SỰ 9H</title>
-    <icon src="https://vnepg.site/logos/127.png" />
-  </programme>
   <programme channel="thanhhoa" start="20260128091000 +0700" stop="20260128093500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM KHOA HỌC</title>
     <desc lang="vi">Năm đầu đời của trẻ (Phần 1)</desc>
@@ -49557,10 +48839,6 @@
     <display-name>Thanh Hoá Radio</display-name>
     <icon src="https://c.baothanhhoa.vn/static/ptth/bth-radio.webp" />
   </channel>
-  <programme channel="thanhhoaradio" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KINH TẾ THẾ GIỚI 24/7</title>
-    <icon src="https://c.baothanhhoa.vn/static/ptth/bth-radio.webp" />
-  </programme>
   <programme channel="thanhhoaradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">TIẾP SÓNG THỜI SỰ CỦA ĐÀI TNVN</title>
     <icon src="https://c.baothanhhoa.vn/static/ptth/bth-radio.webp" />
@@ -49763,13 +49041,6 @@
     <display-name>Travel Living</display-name>
     <icon src="https://vnepg.site/logos/168.png" />
   </channel>
-  <programme channel="tlchd" start="20260128083500 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">FAMILY DINNER (S1)</title>
-    <desc lang="vi">Ở Stowe, Vermont, gia đình von Trapp, được biết đến từ bộ phim 'The Sound of Music', chia sẻ với Andrew cách họ tôn vinh di sản Áo của mình. Mô tả có sử dụng Google Translate.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000372X637733.jpg" />
-    <category lang="vi">Phong cách sống, Giải trí, Sở thích</category>
-    <category lang="vi">Sở thích đặc biệt</category>
-  </programme>
   <programme channel="tlchd" start="20260128090500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">KHÁCH SẠN BỮA ĂN CUỐI CÙNG</title>
     <desc lang="vi">Tituss Burgess yêu cầu các đầu bếp còn lại tạo ra món mì cho Iron Chef Michael Symon. Hai đầu bếp cuối bảng đối đầu trong một vòng đấu đột tử. Mô tả có sử dụng Google Translate.</desc>
@@ -50155,11 +49426,6 @@
     <display-name>Tuyên Quang</display-name>
     <icon src="https://vnepg.site/logos/128.png" />
   </channel>
-  <programme channel="tuyenquang" start="20260128080200 +0700" stop="20260128084900 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Gia đình sô bít - Tập 3</desc>
-    <icon src="https://vnepg.site/logos/128.png" />
-  </programme>
   <programme channel="tuyenquang" start="20260128084900 +0700" stop="20260128091800 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH TRUYỀN HÌNH TIẾNG TÀY</title>
     <icon src="https://vnepg.site/logos/128.png" />
@@ -51409,6 +50675,15 @@
     <previously-shown />
     <new />
   </programme>
+  <programme start="20260130230000 +1500" stop="20260131003000 +1500" channel="tvbvn" source="TVBVN">
+    <title lang="vi">Phim tập (2 tập) : Nghịch Duyên</title>
+    <desc lang="vi">Phim tập (2 tập) : Nghịch Duyên (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2026-01-30</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
   <channel id="tvnasia" source="EPGVN (PRIMARY)">
     <display-name>tvN</display-name>
     <icon src="https://linear-poster.astro.com.my/prod/poster/tvN_2021_IVP_LAND_586x330.jpg" />
@@ -51792,11 +51067,6 @@
     <display-name>Vietnam Today</display-name>
     <icon src="https://vnepg.site/logos/176.png" />
   </channel>
-  <programme channel="vietnamtoday" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">FLAVOURS &amp;amp; BEYOND</title>
-    <desc lang="vi">Tương – from a traditional condiment to fine dining table</desc>
-    <icon src="https://vnepg.site/logos/176.png" />
-  </programme>
   <programme channel="vietnamtoday" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NEWSLINE</title>
     <icon src="https://vnepg.site/thumbnail/vietnamtoday/newsline.jpg" />
@@ -52000,11 +51270,6 @@
     <display-name>Vĩnh Long 1</display-name>
     <icon src="https://vnepg.site/logos/75.png" />
   </channel>
-  <programme channel="vinhlong1hd" start="20260128081552 +0700" stop="20260128090155 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUNG QUỐC</title>
-    <desc lang="vi">Khuynh thành tuyết - Tập 39</desc>
-    <icon src="https://vnepg.site/logos/75.png" />
-  </programme>
   <programme channel="vinhlong1hd" start="20260128090155 +0700" stop="20260128094521 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUNG QUỐC</title>
     <desc lang="vi">Bóng tùng quân - Tập 14</desc>
@@ -52178,10 +51443,6 @@
     <display-name>Vĩnh Long 2</display-name>
     <icon src="https://vnepg.site/logos/76.png" />
   </channel>
-  <programme channel="vinhlong2hd" start="20260128084513 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐỜI SỐNG PHÁP LUẬT</title>
-    <icon src="https://vnepg.site/logos/76.png" />
-  </programme>
   <programme channel="vinhlong2hd" start="20260128090000 +0700" stop="20260128110056 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM VIỆT NAM</title>
     <desc lang="vi">Tình mẫu tử - Tập 22-23</desc>
@@ -52423,15 +51684,6 @@
     <display-name>Vĩnh Long 4</display-name>
     <icon src="https://vnepg.site/logos/78.png" />
   </channel>
-  <programme channel="vinhlong4hd" start="20260128075959 +0700" stop="20260128084632 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM VIỆT NAM</title>
-    <desc lang="vi">Không cần soái ca - T.16</desc>
-    <icon src="https://vnepg.site/logos/78.png" />
-  </programme>
-  <programme channel="vinhlong4hd" start="20260128084632 +0700" stop="20260128090635 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KÝ SỰ TRUYỀN HÌNH</title>
-    <icon src="https://vnepg.site/logos/78.png" />
-  </programme>
   <programme channel="vinhlong4hd" start="20260128090635 +0700" stop="20260128092301 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NHÌN RA THẾ GIỚI</title>
     <icon src="https://vnepg.site/logos/78.png" />
@@ -52567,11 +51819,6 @@
     <display-name>Vĩnh Long 5</display-name>
     <icon src="https://vnepg.site/logos/175.png" />
   </channel>
-  <programme channel="vinhlong5hd" start="20260128080022 +0700" stop="20260128084626 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM VIỆT NAM</title>
-    <desc lang="vi">Tiếng sét trong mưa - Tập 45</desc>
-    <icon src="https://vnepg.site/logos/175.png" />
-  </programme>
   <programme channel="vinhlong5hd" start="20260128084626 +0700" stop="20260128093443 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM VIỆT NAM</title>
     <desc lang="vi">Sui gia khắc khẩu - Tập 18</desc>
@@ -52703,10 +51950,6 @@
     <display-name>Vĩnh Long Radio</display-name>
     <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
   </channel>
-  <programme channel="vinhlongradio" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ĐỒNG HÀNH CÙNG CON</title>
-    <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
-  </programme>
   <programme channel="vinhlongradio" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BẢN TIN 15 PHÚT</title>
     <icon src="https://1288820264.pop.vnptcdn.com/assets/3671422c/Thumbnail/2022/07/22/bp9k53sL_Logo-Radio.jpg" />
@@ -53003,18 +52246,6 @@
     <display-name>VOV1</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
   </channel>
-  <programme channel="vov1" start="20260128084000 +0700" stop="20260128085000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">10 PHÚT SỰ KIỆN LUẬN BÀN</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
-  </programme>
-  <programme channel="vov1" start="20260128085000 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">QUẢNG CÁO</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
-  </programme>
-  <programme channel="vov1" start="20260128085500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH ĐỆM</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
-  </programme>
   <programme channel="vov1" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">BẢN TIN THỜI SỰ</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/acd1e215540817c1eeef64d78f83f1fb.png" />
@@ -53571,14 +52802,6 @@
     <display-name>VOV2</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/44c6a88dd396d18672012a99cb50af6f.png" />
   </channel>
-  <programme channel="vov2" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIAO LƯU VĂN HÓA CÁC DÂN TỘC VIỆT NAM</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/44c6a88dd396d18672012a99cb50af6f.png" />
-  </programme>
-  <programme channel="vov2" start="20260128090000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHẠC LOGO, QUẢNG CÁO VOV AMS</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/44c6a88dd396d18672012a99cb50af6f.png" />
-  </programme>
   <programme channel="vov2" start="20260128090500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CA NHẠC VOV3</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/44c6a88dd396d18672012a99cb50af6f.png" />
@@ -54147,10 +53370,6 @@
     <display-name>VOV3</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/a10ec7d78b36fe4a5a3847c0a3bc9500.png" />
   </channel>
-  <programme channel="vov3" start="20260128083000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">IDOL TALK SHOW</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/a10ec7d78b36fe4a5a3847c0a3bc9500.png" />
-  </programme>
   <programme channel="vov3" start="20260128090500 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">MỘT THẾ GIỚI MÀU XANH</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/a10ec7d78b36fe4a5a3847c0a3bc9500.png" />
@@ -54487,10 +53706,6 @@
     <display-name>VOV4 Đồng bằng Sông Cửu Long</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
   </channel>
-  <programme channel="vov4scl" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">VĂN NGHỆ</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
-  </programme>
   <programme channel="vov4scl" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">LÀN SÓNG NGHỆ THUẬT</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/c58979042ac1c97d871468cfa24bc3ce.png" />
@@ -54791,10 +54006,6 @@
     <display-name>VOV4 Tây Nguyên</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/4f0ad5a01e0cb643307068cb15b98b37.png" />
   </channel>
-  <programme channel="vov4tn" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH TIẾNG BAHNAR</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/4f0ad5a01e0cb643307068cb15b98b37.png" />
-  </programme>
   <programme channel="vov4tn" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHƯƠNG TRÌNH TIẾNG SÊĐĂNG</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/4f0ad5a01e0cb643307068cb15b98b37.png" />
@@ -55211,22 +54422,6 @@
     <display-name>VOV Giao thông Duyên Hải</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
   </channel>
-  <programme channel="vovgtduyenhai" start="20260128084500 +0700" stop="20260128085500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHUYỆN HÔM NAY</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </programme>
-  <programme channel="vovgtduyenhai" start="20260128085500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">ÂM NHẠC VÀ CHÀO KẾT</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </programme>
-  <programme channel="vovgtduyenhai" start="20260128090000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHẠC HIỆU - RAO SÓNG</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </programme>
-  <programme channel="vovgtduyenhai" start="20260128090500 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">THỜI TIẾT</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
-  </programme>
   <programme channel="vovgtduyenhai" start="20260128091000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ÂM NHẠC</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/3805861b726c9dd60214ebace1577ee8.jpg" />
@@ -55739,10 +54934,6 @@
     <display-name>VOV Giao thông Hồ Chí Minh</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/99c779254838d395aa0ade3cdc5226c0.png" />
   </channel>
-  <programme channel="vovgthcm" start="20260128063000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">GIỜ CAO ĐIỂM</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/99c779254838d395aa0ade3cdc5226c0.png" />
-  </programme>
   <programme channel="vovgthcm" start="20260128090000 +0700" stop="20260128103000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐỜI SỐNG THỊ THÀNH</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/99c779254838d395aa0ade3cdc5226c0.png" />
@@ -56075,10 +55266,6 @@
     <display-name>VOV Giao thông Mekong</display-name>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/e402f4b01962e5ba21eecd8ad9ffde47.png" />
   </channel>
-  <programme channel="vovgtmekong" start="20260128060000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BÌNH MINH CHÂU THỔ</title>
-    <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/e402f4b01962e5ba21eecd8ad9ffde47.png" />
-  </programme>
   <programme channel="vovgtmekong" start="20260128090000 +0700" stop="20260128103000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NHẬP SÓNG FM91 TP HCM</title>
     <icon src="https://adminmedia.kythuatvov.vn/uploads/images/channels/e402f4b01962e5ba21eecd8ad9ffde47.png" />
@@ -56151,11 +55338,6 @@
     <display-name>VTV1</display-name>
     <icon src="https://vnepg.site/logos/1.png" />
   </channel>
-  <programme channel="vtv1hd" start="20260128081000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Lỡ hẹn với ngày xanh - Tập 22</desc>
-    <icon src="https://vnepg.site/thumbnail/vtv1/phimtruyen.jpg" />
-  </programme>
   <programme channel="vtv1hd" start="20260128090000 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">THỜI SỰ</title>
     <icon src="https://vnepg.site/thumbnail/vtv1/thoisu.jpg" />
@@ -56548,11 +55730,6 @@
     <display-name>VTV2</display-name>
     <icon src="https://vnepg.site/logos/2.png" />
   </channel>
-  <programme channel="vtv2hd" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">DÁM SỐNG</title>
-    <desc lang="vi">Cây sáng kiến ở nhà máy Z121</desc>
-    <icon src="https://vnepg.site/logos/2.png" />
-  </programme>
   <programme channel="vtv2hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">GIÁ MÀ BIẾT TRƯỚC</title>
     <icon src="https://vnepg.site/thumbnail/vtv2/giamabiettruoc.jpg" />
@@ -56940,11 +56117,6 @@
     <display-name>VTV3</display-name>
     <icon src="https://vnepg.site/logos/3.png" />
   </channel>
-  <programme channel="vtv3hd" start="20260128082000 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Yến Sơn phái và Bách Hoa môn - Tập 22</desc>
-    <icon src="https://vnepg.site/thumbnail/vtv3/phimtruyen.jpg" />
-  </programme>
   <programme channel="vtv3hd" start="20260128091000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">AI LÀ TRIỆU PHÚ</title>
     <icon src="https://vnepg.site/thumbnail/vtv3/ailatrieuphu.jpg" />
@@ -57338,11 +56510,6 @@
     <display-name>VTV4</display-name>
     <icon src="https://vnepg.site/logos/4.png" />
   </channel>
-  <programme channel="vtv4hd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">FINE CUISINE</title>
-    <desc lang="vi">Quà chiều, truyền thống và hiện đại</desc>
-    <icon src="https://vnepg.site/thumbnail/vtv4/finecuisine.jpg" />
-  </programme>
   <programme channel="vtv4hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">ĐI CÙNG CHÚNG TÔI</title>
     <icon src="https://vnepg.site/logos/4.png" />
@@ -57830,10 +56997,6 @@
     <display-name>VTV5</display-name>
     <icon src="https://vnepg.site/logos/5.png" />
   </channel>
-  <programme channel="vtv5hd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH TIẾNG TÀY</title>
-    <icon src="https://vnepg.site/thumbnail/vtv5/chuongtrinhtiengtay.jpg" />
-  </programme>
   <programme channel="vtv5hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">360 ĐỘ KHỎE ĐẸP</title>
     <desc lang="vi">AI hỗ trợ doanh nghiệp khởi nghiệp</desc>
@@ -57991,10 +57154,6 @@
     <display-name>VTV5 Tây Nguyên</display-name>
     <icon src="https://vnepg.site/logos/7.png" />
   </channel>
-  <programme channel="vtv5hdtn" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CHƯƠNG TRÌNH TIẾNG CHĂM</title>
-    <icon src="https://vnepg.site/thumbnail/vtv5taynguyen/chuongtrinhtiengcham.jpg" />
-  </programme>
   <programme channel="vtv5hdtn" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">CHO NGÀY HOÀN HẢO</title>
     <desc lang="vi">Nghệ sĩ ưu tú Thanh Tâm</desc>
@@ -58159,10 +57318,6 @@
     <display-name>VTV5 Tây Nam Bộ</display-name>
     <icon src="https://vnepg.site/logos/6.png" />
   </channel>
-  <programme channel="vtv5hdtnb" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KIẾN THỨC VÀ CUỘC SỐNG</title>
-    <icon src="https://vnepg.site/thumbnail/vtv5taynambo/kienthucvacuocsong.jpg" />
-  </programme>
   <programme channel="vtv5hdtnb" start="20260128090000 +0700" stop="20260128094500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Thiên thần bóng tối -Tập 1</desc>
@@ -58266,11 +57421,6 @@
     <display-name>VTV7</display-name>
     <icon src="https://vnepg.site/logos/9.png" />
   </channel>
-  <programme channel="vtv7hd" start="20260128083000 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">VĂN VUI VẺ</title>
-    <desc lang="vi">Số 18 - Thương vợ</desc>
-    <icon src="https://vnepg.site/thumbnail/vtv7/vanvuive.jpg" />
-  </programme>
   <programme channel="vtv7hd" start="20260128090000 +0700" stop="20260128092000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">HEO ĐẤT</title>
     <desc lang="vi">Số 6 - Tiết kiệm</desc>
@@ -58552,11 +57702,6 @@
     <display-name>VTV8</display-name>
     <icon src="https://vnepg.site/logos/10.png" />
   </channel>
-  <programme channel="vtv8hd" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">SỰ SỐNG DIỆU KỲ</title>
-    <desc lang="vi">Còn bàn tay để sẻ chia</desc>
-    <icon src="https://vnepg.site/thumbnail/vtv8/susongdieuky.jpg" />
-  </programme>
   <programme channel="vtv8hd" start="20260128090000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">HIỂU ĐÚNG - SỐNG KHỎE</title>
     <desc lang="vi">Đông trùng hạ thảo và cải thiện bệnh lý nền tuổi già</desc>
@@ -58714,10 +57859,6 @@
     <display-name>VTV9</display-name>
     <icon src="https://vnepg.site/logos/11.png" />
   </channel>
-  <programme channel="vtv9hd" start="20260128084500 +0700" stop="20260128090000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">CANH TÁC THÔNG MINH</title>
-    <icon src="https://vnepg.site/logos/11.png" />
-  </programme>
   <programme channel="vtv9hd" start="20260128090000 +0700" stop="20260128093000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">PHIM TÀI LIỆU</title>
     <desc lang="vi">Kinh tế tư nhân - Động lực quan trọng</desc>
@@ -58901,11 +58042,6 @@
     <display-name>VTV Cần Thơ</display-name>
     <icon src="https://vnepg.site/logos/8.png" />
   </channel>
-  <programme channel="vtvcantho" start="20260128083000 +0700" stop="20260128090500 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Tiến về phía trước - Tập 1</desc>
-    <icon src="https://vnepg.site/thumbnail/vtvcantho/phimtruyen.jpg" />
-  </programme>
   <programme channel="vtvcantho" start="20260128090500 +0700" stop="20260128091500 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">1001 CHUYỆN TÁM</title>
     <desc lang="vi">Số 141</desc>
@@ -59265,11 +58401,6 @@
     <display-name>Warner TV</display-name>
     <icon src="https://vnepg.site/logos/169.png" />
   </channel>
-  <programme channel="warnertvhd" start="20260128084500 +0700" stop="20260128091000 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">NHỮNG KẺ THÍCH ĐÙA DẠI DỘT</title>
-    <desc lang="vi">Impractical Jokers S8</desc>
-    <icon src="https://vnepg.site/logos/169.png" />
-  </programme>
   <programme channel="warnertvhd" start="20260128091000 +0700" stop="20260128100000 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">NGỐC NHẤT QUẢ ĐẤT (PHẦN 16)</title>
     <desc lang="vi">World's Dumbest S16</desc>
@@ -60058,16 +59189,6 @@
     <display-name>YouTV</display-name>
     <icon src="https://vnepg.site/logos/74.png" />
   </channel>
-  <programme channel="youtv" start="20260128083000 +0700" stop="20260128084800 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">KHÁM PHÁ BÍ ẨN</title>
-    <desc lang="vi">Những Vụ Án Hình Sự Kì Quái Ở Nhật Bản</desc>
-    <icon src="https://vnepg.site/logos/74.png" />
-  </programme>
-  <programme channel="youtv" start="20260128084800 +0700" stop="20260128090700 +0700" source="EPGVN (PRIMARY)">
-    <title lang="vi">BIẾT ĐỂ LÀM ĐÚNG</title>
-    <desc lang="vi">Đâu Bằng Hàng Xóm</desc>
-    <icon src="https://vnepg.site/logos/74.png" />
-  </programme>
   <programme channel="youtv" start="20260128090700 +0700" stop="20260128091700 +0700" source="EPGVN (PRIMARY)">
     <title lang="vi">SHOPPING 24H</title>
     <desc lang="vi">Máy Đo Huyết Áp</desc>
