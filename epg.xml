@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="epg.zaltv.gq" last-update="2026-01-28T07:08:22Z">
-  <channel id="abcaustralia" source="LICHPHATSONG">
+<tv generator-info-name="epg.zaltv.gq" last-update="2026-01-28T07:20:19Z">
+  <channel id="abcaustralia" source="TRADA (BACKUP)">
     <display-name lang="vi">ABC Australia</display-name>
-    <display-number>107</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/abcaustralia.jpg" />
+    <icon src="http://trada.info/tv/logos/abcaustralia.jpg" />
   </channel>
   <programme channel="abcaustralia" channel-number="107" start="20260128071000 +0700" stop="20260128101000 +0700" source="LICHPHATSONG">
     <title lang="vi">ABC NEWS MORNINGS - EPISODE 20</title>
@@ -95,10 +94,9 @@
     <title lang="vi">THE WORLD - EPISODE 15</title>
     <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc>
   </programme>
-  <channel id="afnhd" source="LICHPHATSONG">
-    <display-name lang="vi">AFN HD</display-name>
-    <display-number>89</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/afnhd.png" />
+  <channel id="afnhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Asian Food Network</display-name>
+    <icon src="http://trada.info/tv/logos/afnhd.jpg" />
   </channel>
   <programme channel="afnhd" channel-number="89" start="20260128080500 +0700" stop="20260128083500 +0700" source="LICHPHATSONG">
     <title lang="vi">THE COOK UP WITH ADAM LIAW - (S4) - NẤU ĂN ĐÀM ĐẠO CÙNG ADAM LIAW (MÙA 4)</title>
@@ -420,10 +418,6 @@
     <display-number>120</display-number>
     <icon src="https://image1.vnmedia.xyz/logo/angiang2.jpg" />
   </channel>
-  <programme channel="angiang2" channel-number="120" start="20260128080000 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">AN GIANG NGÀY MỚI</title>
-    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
-  </programme>
   <programme channel="angiang2" channel-number="120" start="20260128082000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">GIAI ĐIỆU VIỆT - KỲ 09</title>
     <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
@@ -580,10 +574,9 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY MAI</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ 5 phút.</desc>
   </programme>
-  <channel id="animalhd" source="LICHPHATSONG">
-    <display-name lang="vi">Animal Planet HD</display-name>
-    <display-number>76</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/animalhd.jpg" />
+  <channel id="animalhd" source="TRADA (BACKUP)">
+    <display-name lang="en">Animal Planet</display-name>
+    <icon src="http://trada.info/tv/logos/animalhd.jpg" />
   </channel>
   <programme channel="animalhd" channel-number="76" start="20260128075500 +0700" stop="20260128085000 +0700" source="LICHPHATSONG">
     <title lang="vi">MÊKÔNG: LINH HỒN CỦA MỘT CON SÔNG - MEKONG: SOUL OF A RIVER (S1)</title>
@@ -657,14 +650,10 @@
     <title lang="vi">ĐẠI CƯƠNG VỀ LOÀI MÈO - CATS 101 (S3)</title>
     <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc>
   </programme>
-  <channel id="antvhd" source="LICHPHATSONG">
-    <display-name lang="vi">ANTV HD</display-name>
-    <display-number>33</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/antv.png" />
+  <channel id="antvhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">ANTV</display-name>
+    <icon src="http://trada.info/tv/logos/antvhd.jpg" />
   </channel>
-  <programme start="20260128080000 +0700" stop="20260128081000 +0700" channel="antvhd" source="TRADA (BACKUP)">
-    <title lang="vi">Nhân Vật Sự Kiện: Thầm Lặng Nghề Pháp Y</title>
-  </programme>
   <programme start="20260128081000 +0700" stop="20260128084000 +0700" channel="antvhd" source="TRADA (BACKUP)">
     <title lang="vi">Hành Trình Phá Án: Lật Mặt Tội Phạm \</title>
   </programme>
@@ -905,10 +894,9 @@
     <title lang="vi">MIỀN ĐẤT PHẬT - ĐẤT PHẬT XỨ THUẬN HÓA - TẬP 9</title>
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
   </programme>
-  <channel id="arirang" source="LICHPHATSONG">
+  <channel id="arirang" source="TRADA (BACKUP)">
     <display-name lang="vi">Arirang</display-name>
-    <display-number>108</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/arirang.png" />
+    <icon src="http://trada.info/tv/logos/arirang.jpg" />
   </channel>
   <programme channel="arirang" channel-number="108" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">NEW DAY AT ARIRANG</title>
@@ -1050,10 +1038,9 @@
     <title lang="vi">PREMIUM COLLECTION</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="axnhd" source="LICHPHATSONG">
-    <display-name lang="vi">AXN HD</display-name>
-    <display-number>71</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/axn.png" />
+  <channel id="axnhd" source="TRADA (BACKUP)">
+    <display-name lang="en">AXN</display-name>
+    <icon src="http://trada.info/tv/logos/axnhd.jpg" />
   </channel>
   <programme start="20260128070000 +0700" stop="20260128090000 +0700" channel="axnhd" source="TRADA (BACKUP)">
     <title lang="en">Merangkai Kisah Indah</title>
@@ -1127,15 +1114,10 @@
   <programme start="20260129200000 +0700" stop="20260130000000 +0700" channel="axnhd" source="TRADA (BACKUP)">
     <title lang="en">D'Academy S7</title>
   </programme>
-  <channel id="bacninh" source="LICHPHATSONG">
+  <channel id="bacninh" source="TRADA (BACKUP)">
     <display-name lang="vi">Bắc Ninh</display-name>
-    <display-number>121</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/bacninh.png" />
+    <icon src="http://trada.info/tv/logos/bacninh.jpg" />
   </channel>
-  <programme channel="bacninh" channel-number="121" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">ĐBND VỚI CỬ TRI: CHUẨN BỊ CHO CUỘC BẦU CỬ QUỐC HỘI VÀ HĐND CÁC CẤP</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="bacninh" channel-number="121" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">TẠP CHÍ XÚC TIẾN CÔNG THƯƠNG: MÙA TÁO Ở LỤC NGẠN</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -1292,10 +1274,9 @@
     <title lang="vi">CA NHẠC: NEO ĐẬU BẾN QUÊ</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="bbcearth" source="LICHPHATSONG">
-    <display-name lang="vi">BBC Earth</display-name>
-    <display-number>77</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/bbcearth.jpg" />
+  <channel id="bbcearth" source="TRADA (BACKUP)">
+    <display-name lang="en">BBC Earth</display-name>
+    <icon src="http://trada.info/tv/logos/bbcearth.jpg" />
   </channel>
   <programme start="20260128075500 +0700" stop="20260128084500 +0700" channel="bbcearth" source="TRADA (BACKUP)">
     <title lang="en">Running Wild</title>
@@ -1473,20 +1454,10 @@
     <title lang="en">Japan With Sue Perkins</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <channel id="bbclifestyle" source="LICHPHATSONG">
-    <display-name lang="vi">BBC Life Style</display-name>
-    <display-number>78</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/bbclifestyle.jpg" />
+  <channel id="bbclifestyle" source="TRADA (BACKUP)">
+    <display-name lang="en">BBC Life Style</display-name>
+    <icon src="http://trada.info/tv/logos/bbclifestyle.jpg" />
   </channel>
-  <programme start="20260128075000 +0700" stop="20260128082000 +0700" channel="bbclifestyle" source="TRADA (BACKUP)">
-    <title lang="en">Rick Stein's Cornwall S2E9</title>
-    <desc lang="en">Rick's in Falmouth, seeing the seas around Cornwall which inspired author William Golding to write Lord of the Flies, and meets his daughter, Judy. And Rick gets to enjoy dishes prepared for him by an innovative young chef called Andy Tuck who cooks everything over wood - forget your BBQ, this is cooking with fire on a whole new level.</desc>
-    <credits>
-      <director>Matt Bennett</director>
-      <actor>Rick Stein</actor>
-    </credits>
-    <category lang="en">Entertainment</category>
-  </programme>
   <programme start="20260128082000 +0700" stop="20260128085000 +0700" channel="bbclifestyle" source="TRADA (BACKUP)">
     <title lang="en">Malaysia Gourmet With Justine Schofield S1E4</title>
     <desc lang="en">Justine travels to the Terengganu cultural village to experience the cultural heritage of Malaysia. She learns about interesting food and musical traditions before heading on a culinary adventure with chef Afiq Matkhir.</desc>
@@ -1696,10 +1667,9 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Lifestyle</category>
   </programme>
-  <channel id="bloomberg" source="LICHPHATSONG">
+  <channel id="bloomberg" source="TRADA (BACKUP)">
     <display-name lang="vi">Bloomberg</display-name>
-    <display-number>109</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/bloomberg.png" />
+    <icon src="http://trada.info/tv/logos/bloomberg.jpg" />
   </channel>
   <programme channel="bloomberg" channel-number="109" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">BLOOMBERG MARKETS: CHINA OPEN</title>
@@ -2005,10 +1975,9 @@
   <programme start="20260129220000 +0700" stop="20260129230000 +0700" channel="boomerang" source="TRADA (BACKUP)">
     <title lang="vi">Đội Thợ Xây Của Thỏ Bugs</title>
   </programme>
-  <channel id="boxhits" source="LICHPHATSONG">
-    <display-name lang="vi">Box Hits HD</display-name>
-    <display-number>98</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/boxhits.jpg" />
+  <channel id="boxhits" source="TRADA (BACKUP)">
+    <display-name lang="vi">Box Hits</display-name>
+    <icon src="http://trada.info/tv/logos/boxhits.jpg" />
   </channel>
   <programme channel="boxhits" channel-number="98" start="20260128064000 +0700" stop="20260128082800 +0700" source="LICHPHATSONG">
     <title lang="vi">MACHETE</title>
@@ -2054,10 +2023,8 @@
     <title lang="vi">CHIẾN TRANH - WARFARE</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="boxmovie1" source="LICHPHATSONG">
-    <display-name lang="vi">Box Movie 1</display-name>
-    <display-number>92</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/boxmovie1.jpg" />
+  <channel id="boxmovie1" source="TRADA (BACKUP)">
+    <display-name lang="vi">BOX Movie 1</display-name>
   </channel>
   <programme channel="boxmovie1" channel-number="92" start="20260128080800 +0700" stop="20260128100600 +0700" source="LICHPHATSONG">
     <title lang="vi">NGƯỜI ĐẸP VÀ THỦY QUÁI - THE SHAPE OF WATER</title>
@@ -2099,10 +2066,8 @@
     <title lang="vi">ĐÀN ÔNG ĐÍCH THỰC - THINK LIKE A MAN</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="camau" source="LICHPHATSONG">
+  <channel id="camau" source="TRADA (BACKUP)">
     <display-name lang="vi">Cà Mau</display-name>
-    <display-number>124</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/camau.png" />
   </channel>
   <programme channel="camau" channel-number="124" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">CHƯƠNG TRÌNH KHMER</title>
@@ -2261,10 +2226,6 @@
     <display-number>125</display-number>
     <icon src="https://image1.vnmedia.xyz/logo/cantho1.jpg" />
   </channel>
-  <programme channel="cantho1" channel-number="125" start="20260128073000 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM TRUYỆN VN</title>
-    <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc>
-  </programme>
   <programme channel="cantho1" channel-number="125" start="20260128082000 +0700" stop="20260128082500 +0700" source="LICHPHATSONG">
     <title lang="vi">DỰ BÁO THỜI TIẾT</title>
     <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc>
@@ -2394,10 +2355,6 @@
     <display-number>126</display-number>
     <icon src="https://image4.vnmedia.xyz/logo/cantho2.png" />
   </channel>
-  <programme channel="cantho2" channel-number="126" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">ALO BÁC SĨ ƠI</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="cantho2" channel-number="126" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">KÝ SỰ</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -2499,10 +2456,6 @@
     <display-number>127</display-number>
     <icon src="https://image4.vnmedia.xyz/logo/cantho3.png" />
   </channel>
-  <programme channel="cantho3" channel-number="127" start="20260128072500 +0700" stop="20260128081000 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
-  </programme>
   <programme channel="cantho3" channel-number="127" start="20260128081000 +0700" stop="20260128084000 +0700" source="LICHPHATSONG">
     <title lang="vi">CHƯƠNG TRÌNH THỜI SỰ</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
@@ -2599,15 +2552,9 @@
     <title lang="vi">SÂN KHẤU CẢI LƯƠNG</title>
     <desc lang="vi">Chương trình này có thời lượng là 59 phút.</desc>
   </programme>
-  <channel id="caobang" source="LICHPHATSONG">
+  <channel id="caobang" source="TRADA (BACKUP)">
     <display-name lang="vi">Cao Bằng</display-name>
-    <display-number>128</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/caobang.png" />
   </channel>
-  <programme channel="caobang" channel-number="128" start="20260128074000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">CA NHẠC</title>
-    <desc lang="vi">Chương trình này có thời lượng là 35 phút.</desc>
-  </programme>
   <programme channel="caobang" channel-number="128" start="20260128081500 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN NƯỚC NGOÀI: NGƯỜI ĐIỀU TRA THƯƠNG NGHIỆP</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
@@ -2760,14 +2707,9 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY HÔM SAU:</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ 30 phút.</desc>
   </programme>
-  <channel id="cartoonhd" source="LICHPHATSONG">
-    <display-name lang="vi">Cartoon Network HD</display-name>
-    <display-number>86</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/cartoonhd.jpg" />
+  <channel id="cartoonhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Cartoon Network</display-name>
   </channel>
-  <programme start="20260128071500 +0700" stop="20260128081500 +0700" channel="cartoonhd" source="TRADA (BACKUP)">
-    <title lang="vi">Ngài Bean</title>
-  </programme>
   <programme start="20260128081500 +0700" stop="20260128091500 +0700" channel="cartoonhd" source="TRADA (BACKUP)">
     <title lang="vi">Phim Hoạt Hình Những Giai Điệu Ngốc Nghếch</title>
   </programme>
@@ -2909,14 +2851,9 @@
   <programme start="20260129221500 +0700" stop="20260129231500 +0700" channel="cartoonhd" source="TRADA (BACKUP)">
     <title lang="vi">Giờ Phiêu Lưu</title>
   </programme>
-  <channel id="cbeebies" source="LICHPHATSONG">
-    <display-name lang="vi">Cbeebies</display-name>
-    <display-number>84</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/cbeebies.jpg" />
+  <channel id="cbeebies" source="TRADA (BACKUP)">
+    <display-name lang="vi">CBeebies</display-name>
   </channel>
-  <programme start="20260128080000 +0700" stop="20260128081500 +0700" channel="cbeebies" source="TRADA (BACKUP)">
-    <title lang="vi">Phiêu Lưu Khắp Thế Giới Cùng Andy</title>
-  </programme>
   <programme start="20260128081500 +0700" stop="20260128082500 +0700" channel="cbeebies" source="TRADA (BACKUP)">
     <title lang="vi">Biệt Đội Cún</title>
   </programme>
@@ -3761,10 +3698,8 @@
     <title lang="vi">NGÔI NHÀ Ở JERUSALEM - A HOUSE IN JERUSALEM</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
   </programme>
-  <channel id="cinemaxhd" source="LICHPHATSONG">
-    <display-name lang="vi">Cinemax HD</display-name>
-    <display-number>73</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/cinemaxhd.png" />
+  <channel id="cinemaxhd" source="TRADA (BACKUP)">
+    <display-name lang="en">Cinemax</display-name>
   </channel>
   <programme start="20260128065600 +0700" stop="20260128082800 +0700" channel="cinemaxhd" source="TRADA (BACKUP)">
     <title lang="en">Cosmic Sin</title>
@@ -4109,10 +4044,8 @@
     <category lang="vi">Tin tức: Kinh doanh</category>
     <icon src="https://image2.vnmedia.xyz/abf03fc63f3b74b52ddbffdcf5179a76/1769451586/schedule/cnbc/moneymoversmoneymovers.webp" />
   </programme>
-  <channel id="cnn" source="LICHPHATSONG">
+  <channel id="cnn" source="TRADA (BACKUP)">
     <display-name lang="vi">CNN</display-name>
-    <display-number>110</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/cnn.png" />
   </channel>
   <programme channel="cnn" channel-number="110" start="20260128080200 +0700" stop="20260128090200 +0700" source="LICHPHATSONG">
     <title lang="vi">ANDERSON COOPER 360</title>
@@ -4198,10 +4131,8 @@
     <category lang="vi">Tin tức: Thời sự / Tổng hợp</category>
     <icon src="https://image1.vnmedia.xyz/9fb9076f7152ca0d5be9f96f0b4d47a8/1769447703/schedule/cnn/worldsport.webp" />
   </programme>
-  <channel id="daklak" source="LICHPHATSONG">
-    <display-name lang="vi">Đắk Lắk</display-name>
-    <display-number>131</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/daklak.png" />
+  <channel id="daklak" source="TRADA (BACKUP)">
+    <display-name lang="vi">Đăk Lăk</display-name>
   </channel>
   <programme channel="daklak" channel-number="131" start="20260128074500 +0700" stop="20260128082500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TÀI LIỆU: TƯ DUY MỚI, CÁCH LÀM ĐỘT PHÁ</title>
@@ -4355,15 +4286,9 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH CUỐI TỐI</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 phút.</desc>
   </programme>
-  <channel id="danang1" source="LICHPHATSONG">
+  <channel id="danang1" source="TRADA (BACKUP)">
     <display-name lang="vi">Đà Nẵng 1</display-name>
-    <display-number>129</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/danang1.png" />
   </channel>
-  <programme channel="danang1" channel-number="129" start="20260128073000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM TRUYỆN VN: LẮNG NGHE TIẾNG LÒNG - TẬP 37</title>
-    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
-  </programme>
   <programme channel="danang1" channel-number="129" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">BẢN TIN TIẾNG ANH</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -4540,15 +4465,9 @@
     <title lang="vi">PHIM TÀI LIỆU - VĂN HÓA BIỂN TẬP 3</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="danang2" source="LICHPHATSONG">
+  <channel id="danang2" source="TRADA (BACKUP)">
     <display-name lang="vi">Đà Nẵng 2</display-name>
-    <display-number>130</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/danang2.png" />
   </channel>
-  <programme channel="danang2" channel-number="130" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM HOẠT HÌNH QUYẾT ĐẤU BAKUGAN TẬP 3</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="danang2" channel-number="130" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">BẢN TIN TIẾNG ANH</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -4713,19 +4632,9 @@
     <title lang="vi">GIAI ĐIỆU BOLERO</title>
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
   </programme>
-  <channel id="davinci" source="LICHPHATSONG">
-    <display-name lang="vi">DaVinci HD</display-name>
-    <display-number>85</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/davinci.png" />
+  <channel id="davinci" source="TRADA (BACKUP)">
+    <display-name lang="vi">DaVinci</display-name>
   </channel>
-  <programme channel="davinci" channel-number="85" start="20260128080600 +0700" stop="20260128080900 +0700" source="LICHPHATSONG">
-    <title lang="vi">SIÊU NHÂN SPRINTER GALORE: NGÂN HÀNG BHILKA</title>
-    <desc lang="vi">Chương trình này có thời lượng là 3 phút.</desc>
-  </programme>
-  <programme channel="davinci" channel-number="85" start="20260128080900 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">VŨ TRỤ KÌ THÚ: CERES VÀ VÀNH ĐAI TIỂU HÀNH TINH</title>
-    <desc lang="vi">Chương trình này có thời lượng là 6 phút.</desc>
-  </programme>
   <programme channel="davinci" channel-number="85" start="20260128081500 +0700" stop="20260128082100 +0700" source="LICHPHATSONG">
     <title lang="vi">VŨ TRỤ KÌ THÚ: SAO CHỔI</title>
     <desc lang="vi">Chương trình này có thời lượng là 6 phút.</desc>
@@ -4998,10 +4907,8 @@
     <title lang="vi">KHOA HỌC BẤT NGỜ: HỐ TRŨNG KHÓ TIN</title>
     <desc lang="vi">Chương trình này có thời lượng là 6 phút.</desc>
   </programme>
-  <channel id="dienbien" source="LICHPHATSONG">
+  <channel id="dienbien" source="TRADA (BACKUP)">
     <display-name lang="vi">Điện Biên</display-name>
-    <display-number>132</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/dienbien.png" />
   </channel>
   <programme channel="dienbien" channel-number="132" start="20260128074000 +0700" stop="20260128082500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN</title>
@@ -5179,10 +5086,8 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY HÔM SAU</title>
     <desc lang="vi">Chương trình này có thời lượng là 4 phút.</desc>
   </programme>
-  <channel id="discoveryasiahd" source="LICHPHATSONG">
-    <display-name lang="vi">Discovery Asia HD</display-name>
-    <display-number>81</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/discoveryasiahd.jpg" />
+  <channel id="discoveryasiahd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Discovery Asia</display-name>
   </channel>
   <programme start="20260128074000 +0700" stop="20260128083000 +0700" channel="discoveryasiahd" source="TRADA (BACKUP)">
     <title lang="vi">Giáo Dục Không Biên Giới</title>
@@ -5331,10 +5236,8 @@
   <programme start="20260129224000 +0700" stop="20260129233000 +0700" channel="discoveryasiahd" source="TRADA (BACKUP)">
     <title lang="vi">Phượt Thủ Đẳng Cấp</title>
   </programme>
-  <channel id="discoveryhd" source="LICHPHATSONG">
-    <display-name lang="vi">Discovery Channel HD</display-name>
-    <display-number>82</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/discoveryhd.jpg" />
+  <channel id="discoveryhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Discovery Channel</display-name>
   </channel>
   <programme channel="discoveryhd" channel-number="82" start="20260128075000 +0700" stop="20260128084000 +0700" source="LICHPHATSONG">
     <title lang="vi">ĐÀO VÀNG: DÒNG NƯỚC BẠC - GOLD RUSH: WHITE WATER (S8)</title>
@@ -5450,10 +5353,8 @@
     <category lang="vi">Sự thật &amp; Tài liệu: Phim tài liệu</category>
     <icon src="https://image2.vnmedia.xyz/6aad06fcdb53184be712da223882a784/1769447572/schedule/discoveryhd/harpoonhunterss1.webp" />
   </programme>
-  <channel id="dmax" source="LICHPHATSONG">
-    <display-name lang="vi">Dmax</display-name>
-    <display-number>80</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/dmax.jpg" />
+  <channel id="dmax" source="TRADA (BACKUP)">
+    <display-name lang="en">DMAX</display-name>
   </channel>
   <programme start="20260128075400 +0700" stop="20260128083900 +0700" channel="dmax" source="TRADA (BACKUP)">
     <title lang="en">Trans Am S1E4</title>
@@ -5635,10 +5536,8 @@
     <desc lang="en">John Andrade Jr. from Street Outlaws joins the guys in a messy battle, when a '75 dirt-track Camaro goes head-to-head with a big-block-powered Toyota mud truck.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <channel id="dongnai1" source="LICHPHATSONG">
+  <channel id="dongnai1" source="TRADA (BACKUP)">
     <display-name lang="vi">Đồng Nai 1</display-name>
-    <display-number>133</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/dongnai1.png" />
   </channel>
   <programme channel="dongnai1" channel-number="133" start="20260128080500 +0700" stop="20260128084000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHÍA SAU MÀN ẢNH</title>
@@ -5832,10 +5731,8 @@
     <title lang="vi">NHỮNG CUNG BẬC QUÊ HƯƠNG</title>
     <desc lang="vi">Chương trình này có thời lượng là 29 phút.</desc>
   </programme>
-  <channel id="dongnai2" source="LICHPHATSONG">
+  <channel id="dongnai2" source="TRADA (BACKUP)">
     <display-name lang="vi">Đồng Nai 2</display-name>
-    <display-number>134</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/dongnai2.png" />
   </channel>
   <channel id="dongthap1" source="LICHPHATSONG">
     <display-name lang="vi">Đồng Tháp 1</display-name>
@@ -5959,10 +5856,6 @@
     <display-number>136</display-number>
     <icon src="https://image3.vnmedia.xyz/logo/dongthap2.jpg" />
   </channel>
-  <programme channel="dongthap2" channel-number="136" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">TOÀN CẢNH NÔNG NGHIỆP</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="dongthap2" channel-number="136" start="20260128081500 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">CA CỔ</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
@@ -6079,10 +5972,8 @@
     <title lang="vi">CA NHẠC</title>
     <desc lang="vi">Chương trình này có thời lượng là 44 phút.</desc>
   </programme>
-  <channel id="dreamworks" source="LICHPHATSONG">
-    <display-name lang="vi">Dreamworks HD</display-name>
-    <display-number>102</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/dreamworks.jpg" />
+  <channel id="dreamworks" source="TRADA (BACKUP)">
+    <display-name lang="vi">DreamWorks</display-name>
   </channel>
   <programme start="20260128080500 +0700" stop="20260128083000 +0700" channel="dreamworks" source="TRADA (BACKUP)">
     <title lang="vi">Home: Những Chuyến Phiêu Lưu Cùng Tip Và Oh</title>
@@ -6378,15 +6269,9 @@
   <programme start="20260129233000 +0700" stop="20260129235500 +0700" channel="dreamworks" source="TRADA (BACKUP)">
     <title lang="vi">Kungfu Panda: Hiệp Sĩ Rồng</title>
   </programme>
-  <channel id="drfithd" source="LICHPHATSONG">
-    <display-name lang="vi">Dr.Fit HD</display-name>
-    <display-number>95</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/drfithd.jpg" />
+  <channel id="drfithd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Dr.Fit</display-name>
   </channel>
-  <programme channel="drfithd" channel-number="95" start="20260128073400 +0700" stop="20260128081200 +0700" source="LICHPHATSONG">
-    <title lang="vi">MY ZEN TRENDY S02</title>
-    <desc lang="vi">Chương trình này có thời lượng là 38 phút.</desc>
-  </programme>
   <programme channel="drfithd" channel-number="95" start="20260128081200 +0700" stop="20260128084400 +0700" source="LICHPHATSONG">
     <title lang="vi">THỂ DỤC CHO GOLF - GOLF FITNESS FOR EVERYONE S01</title>
     <desc lang="vi">Chương trình này có thời lượng là 32 phút.</desc>
@@ -6479,17 +6364,9 @@
     <title lang="vi">NGƯỜI GIẢM CÂN THÀNH CÔNG NHẤT USA - P17 - THE BIGGEST LOSER USA S17</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="dw" source="LICHPHATSONG">
-    <display-name lang="vi">DW HD</display-name>
-    <display-number>106</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/dw.jpg" />
+  <channel id="dw" source="TRADA (BACKUP)">
+    <display-name lang="vi">DW</display-name>
   </channel>
-  <programme channel="dw" channel-number="106" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">DW NEWS</title>
-    <desc lang="vi">Tin tức, thông tin và phân tích các chủ đề của Đức và châu Âu.</desc>
-    <category lang="vi">Tin tức: Thời sự / Tổng hợp</category>
-    <icon src="https://image1.vnmedia.xyz/4efc841796916b80f4999d3a42b1f656/1769447675/schedule/dw/dwnews.webp" />
-  </programme>
   <programme channel="dw" channel-number="106" start="20260128081500 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">DOCFILM</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
@@ -6724,14 +6601,9 @@
     <category lang="vi">Tin tức: Tạp chí</category>
     <icon src="https://image2.vnmedia.xyz/b781b1189218c1aabd5cedf64539f5c9/1769447681/schedule/dw/focusoneurope.webp" />
   </programme>
-  <channel id="fashionhd" source="LICHPHATSONG">
-    <display-name lang="vi">Fashion TV HD</display-name>
-    <display-number>88</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/fashionhd.png" />
+  <channel id="fashionhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Fashion TV</display-name>
   </channel>
-  <programme start="20260128074000 +0700" stop="20260128081000 +0700" channel="fashionhd" source="TRADA (BACKUP)">
-    <title lang="vi">Thời Trang Anh</title>
-  </programme>
   <programme start="20260128081000 +0700" stop="20260128084000 +0700" channel="fashionhd" source="TRADA (BACKUP)">
     <title lang="vi">Dior</title>
   </programme>
@@ -6969,17 +6841,9 @@
   <programme start="20260129231000 +0700" stop="20260129234000 +0700" channel="fashionhd" source="TRADA (BACKUP)">
     <title lang="vi">Nội Y</title>
   </programme>
-  <channel id="france24eng" source="LICHPHATSONG">
+  <channel id="france24eng" source="TRADA (BACKUP)">
     <display-name lang="vi">France 24 English</display-name>
-    <display-number>114</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/france24eng.png" />
   </channel>
-  <programme channel="france24eng" channel-number="114" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">NEWS</title>
-    <desc lang="vi">Một bản tin thời sự quốc tế, được trình bày trực tiếp từ phòng tin tức.</desc>
-    <category lang="vi">Tin tức: Thời sự / Tổng hợp</category>
-    <icon src="https://image1.vnmedia.xyz/50b78eb3e397c49e086f2f241f713897/1769447740/schedule/france24eng/news.webp" />
-  </programme>
   <programme channel="france24eng" channel-number="114" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">A PROPOS</title>
     <desc lang="vi">Ngoài các tiêu đề đến trung tâm của tin tức trong ngày. Tại Apropos, chúng tôi cung cấp cái nhìn toàn diện về một câu chuyện đang gây xôn xao khắp thế giới.</desc>
@@ -7358,10 +7222,8 @@
     <category lang="vi">Tin tức: Thời sự / Tổng hợp</category>
     <icon src="https://image1.vnmedia.xyz/62d96a25549ed69e7fe58e78130df958/1769447750/schedule/france24eng/news.webp" />
   </programme>
-  <channel id="gialai" source="LICHPHATSONG">
+  <channel id="gialai" source="TRADA (BACKUP)">
     <display-name lang="vi">Gia Lai</display-name>
-    <display-number>137</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/gialai.png" />
   </channel>
   <programme channel="gialai" channel-number="137" start="20260128075000 +0700" stop="20260128083500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN VIỆT NAM: KIẾM CHỒNG CHO MẸ CHỒNG - TẬP 20</title>
@@ -7487,10 +7349,8 @@
     <title lang="vi">BẢN TIN GTV NEWS</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ 15 phút.</desc>
   </programme>
-  <channel id="haiphong" source="LICHPHATSONG">
+  <channel id="haiphong" source="TRADA (BACKUP)">
     <display-name lang="vi">Hải Phòng</display-name>
-    <display-number>141</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/haiphong.png" />
   </channel>
   <programme channel="haiphong" channel-number="141" start="20260128080500 +0700" stop="20260128083500 +0700" source="LICHPHATSONG">
     <title lang="vi">VITAMIN TUỔI HỒNG</title>
@@ -7761,10 +7621,8 @@
     <title lang="vi">CA NHẠC QUỐC TẾ: ÔNG VUA NHẠC POP LATIN ENRIQUE IGLESIAS</title>
     <desc lang="vi">Chương trình này có thời lượng là 29 phút.</desc>
   </programme>
-  <channel id="hanoi1" source="LICHPHATSONG">
+  <channel id="hanoi1" source="TRADA (BACKUP)">
     <display-name lang="vi">Hà Nội 1</display-name>
-    <display-number>138</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/hanoi1.png" />
   </channel>
   <programme channel="hanoi1" channel-number="138" start="20260128074500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">CHỮA BỆNH CÙNG CHUYÊN GIA</title>
@@ -7934,10 +7792,8 @@
     <title lang="vi">CHUYỆN ĐÔ THỊ - HOÀN THIỆN HẠ TẦNG, TỔ CHỨC GIAO THÔNG ĐỂ GIẢM ÙN TẮC</title>
     <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
   </programme>
-  <channel id="hanoi2" source="LICHPHATSONG">
+  <channel id="hanoi2" source="TRADA (BACKUP)">
     <display-name lang="vi">Hà Nội 2</display-name>
-    <display-number>139</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/hanoi2.png" />
   </channel>
   <programme channel="hanoi2" channel-number="139" start="20260128080500 +0700" stop="20260128084000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TÀI LIỆU: CHÂN TRÊN ĐÁ, NHÀ TRÊN NÚI</title>
@@ -8103,15 +7959,9 @@
     <title lang="vi">CHUYỆN TUỔI GIÀ: CHO VAY TIỀN: NÊN HAY KHÔNG NÊN? ./.</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 phút.</desc>
   </programme>
-  <channel id="happykids" source="LICHPHATSONG">
-    <display-name lang="vi">Happy Kids HD</display-name>
-    <display-number>97</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/happykids.jpg" />
+  <channel id="happykids" source="TRADA (BACKUP)">
+    <display-name lang="vi">Happy Kids</display-name>
   </channel>
-  <programme channel="happykids" channel-number="97" start="20260128080500 +0700" stop="20260128081700 +0700" source="LICHPHATSONG">
-    <title lang="vi">YOKO - MÙA 1 - YOKO S01</title>
-    <desc lang="vi">Chương trình này có thời lượng là 12 phút.</desc>
-  </programme>
   <programme channel="happykids" channel-number="97" start="20260128081700 +0700" stop="20260128082900 +0700" source="LICHPHATSONG">
     <title lang="vi">YOKO - MÙA 1 - YOKO S01</title>
     <desc lang="vi">Chương trình này có thời lượng là 12 phút.</desc>
@@ -8256,15 +8106,9 @@
     <title lang="vi">PHI HÀNH ĐOÀN FLOOGAL - FLOOGALS</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="hatinh" source="LICHPHATSONG">
+  <channel id="hatinh" source="TRADA (BACKUP)">
     <display-name lang="vi">Hà Tĩnh</display-name>
-    <display-number>140</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/hatinh.jpg" />
   </channel>
-  <programme channel="hatinh" channel-number="140" start="20260128080500 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">AN TOÀN GIAO THÔNG: SÁT HẠCH LÁI XE TRÊN SÂN TRƯỜNG HỌC</title>
-    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc>
-  </programme>
   <programme channel="hatinh" channel-number="140" start="20260128081500 +0700" stop="20260128085900 +0700" source="LICHPHATSONG">
     <title lang="vi">KHÁM PHÁ THẾ GIỚI: NHỮNG ANH HÙNG ĐỜI THƯỜNG - TẬP 5&amp;6</title>
     <desc lang="vi">Chương trình này có thời lượng là 44 phút.</desc>
@@ -8524,10 +8368,8 @@
   <programme start="20260129232800 +0700" stop="20260130005800 +0700" channel="hbofamily" source="TRADA (BACKUP)">
     <title lang="en">Mees Kees Op De Planken</title>
   </programme>
-  <channel id="hbohd" source="LICHPHATSONG">
-    <display-name lang="vi">HBO HD</display-name>
-    <display-number>72</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/hbohd.png" />
+  <channel id="hbohd" source="TRADA (BACKUP)">
+    <display-name lang="en">HBO</display-name>
   </channel>
   <programme start="20260128072900 +0700" stop="20260128091900 +0700" channel="hbohd" source="TRADA (BACKUP)">
     <title lang="en">The Major</title>
@@ -8658,15 +8500,9 @@
   <programme start="20260129230600 +0700" stop="20260130010700 +0700" channel="hbohits" source="TRADA (BACKUP)">
     <title lang="en">Elsewhere</title>
   </programme>
-  <channel id="hgtv" source="LICHPHATSONG">
+  <channel id="hgtv" source="TRADA (BACKUP)">
     <display-name lang="vi">HGTV</display-name>
-    <display-number>105</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/hgtv.jpg" />
   </channel>
-  <programme channel="hgtv" channel-number="105" start="20260128075500 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">CHUYÊN GIA SĂN NHÀ (MÙA 124)</title>
-    <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
-  </programme>
   <programme channel="hgtv" channel-number="105" start="20260128082000 +0700" stop="20260128091000 +0700" source="LICHPHATSONG">
     <title lang="vi">SỬA NHÀ CÙNG NGƯỜI NỔI TIẾNG (MÙA 6)</title>
     <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc>
@@ -8767,10 +8603,9 @@
     <title lang="vi">SỬA NHÀ CÙNG NGƯỜI NỔI TIẾNG (MÙA 6)</title>
     <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc>
   </programme>
-  <channel id="historyhd" source="LICHPHATSONG">
-    <display-name lang="vi">History HD</display-name>
-    <display-number>103</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/historyhd.jpg" />
+  <channel id="historyhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">History</display-name>
+    <url>http://www.dichvu.vtvcab.vn</url>
   </channel>
   <programme channel="historyhd" channel-number="103" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">LOST U-BOATS OF WWII EP05</title>
@@ -8871,10 +8706,8 @@
   <channel id="hitv" source="TRADA (BACKUP)">
     <display-name lang="vi">HITV</display-name>
   </channel>
-  <channel id="hollywoodclassics" source="LICHPHATSONG">
+  <channel id="hollywoodclassics" source="TRADA (BACKUP)">
     <display-name lang="vi">Hollywood Classics</display-name>
-    <display-number>93</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/hollywoodclassics.jpg" />
   </channel>
   <programme channel="hollywoodclassics" channel-number="93" start="20260128080800 +0700" stop="20260128094100 +0700" source="LICHPHATSONG">
     <title lang="vi">CHÂN MẠNG THIÊN TỬ 2 - IN THE NAME OF THE KING: TWO WORLDS</title>
@@ -8916,10 +8749,8 @@
     <title lang="vi">QUÁN BÊN ĐƯỜNG - ROAD HOUSE</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="htv1" source="LICHPHATSONG">
+  <channel id="htv1" source="TRADA (BACKUP)">
     <display-name lang="vi">HTV1</display-name>
-    <display-number>35</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/htv1.jpg" />
   </channel>
   <programme channel="htv1" channel-number="35" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">CHƯƠNG TRÌNH 60 GIÂY SÁNG</title>
@@ -9061,10 +8892,8 @@
     <title lang="vi">VƯỜN SAO MAI</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
   </programme>
-  <channel id="htv2hd" source="LICHPHATSONG">
-    <display-name lang="vi">HTV2 HD</display-name>
-    <display-number>36</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/htv2hd.jpg" />
+  <channel id="htv2hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTV2</display-name>
   </channel>
   <programme channel="htv2hd" channel-number="36" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">VITAMIN CƯỜI 2018 - TẬP 4</title>
@@ -9138,10 +8967,8 @@
     <title lang="vi">PHIM TRUYỆN: CÂY TÁO NỞ HOA - TẬP 68</title>
     <desc lang="vi">Chương trình này có thời lượng là 29 phút.</desc>
   </programme>
-  <channel id="htv3" source="LICHPHATSONG">
+  <channel id="htv3" source="TRADA (BACKUP)">
     <display-name lang="vi">HTV3</display-name>
-    <display-number>37</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/htv3.png" />
   </channel>
   <programme channel="htv3" channel-number="37" start="20260128080500 +0700" stop="20260128082500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM HH: GIA ĐÌNH SIÊU NHÂN</title>
@@ -9291,10 +9118,8 @@
     <title lang="vi">CHUYỆN 4 MÙA</title>
     <desc lang="vi">Chương trình này có thời lượng là 59 phút.</desc>
   </programme>
-  <channel id="htv7hd" source="LICHPHATSONG">
-    <display-name lang="vi">HTV7 HD</display-name>
-    <display-number>39</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/htv7hd.jpg" />
+  <channel id="htv7hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTV7</display-name>
   </channel>
   <programme channel="htv7hd" channel-number="39" start="20260128075000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">LẰN RANH CẢM XÚC</title>
@@ -9412,15 +9237,9 @@
     <title lang="vi">MUÔN MÀU THỂ THAO</title>
     <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
   </programme>
-  <channel id="htv9hd" source="LICHPHATSONG">
-    <display-name lang="vi">HTV9 HD</display-name>
-    <display-number>40</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/htv9hd.jpg" />
+  <channel id="htv9hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTV9</display-name>
   </channel>
-  <programme channel="htv9hd" channel-number="40" start="20260128080000 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM TÀI LIỆU: CA TRÙ</title>
-    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
-  </programme>
   <programme channel="htv9hd" channel-number="40" start="20260128082000 +0700" stop="20260128083500 +0700" source="LICHPHATSONG">
     <title lang="vi">TẠP CHÍ GIÁO DỤC</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -9541,10 +9360,8 @@
     <title lang="vi">CA NHẠC: MIỀN KÝ ỨC</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="htvccanhachd" source="LICHPHATSONG">
-    <display-name lang="vi">HTVC Ca Nhạc HD</display-name>
-    <display-number>47</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/htvccanhachd.jpg" />
+  <channel id="htvccanhachd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTVC Ca Nhạc</display-name>
   </channel>
   <programme channel="htvccanhachd" channel-number="47" start="20260128070200 +0700" stop="20260128082700 +0700" source="LICHPHATSONG">
     <title lang="vi">GIẢI TRÍ: SÀN ĐẤU VŨ ĐẠO - TẬP 4 KM HARIWON - KPOP</title>
@@ -9706,10 +9523,8 @@
     <title lang="vi">CA NHẠC - GIAI ĐIỆU TỪ NHỮNG VẦN THƠ 26 - NT LÊ MINH QUỐC</title>
     <desc lang="vi">Chương trình này có thời lượng là 19 phút.</desc>
   </programme>
-  <channel id="htvcdulichhd" source="LICHPHATSONG">
-    <display-name lang="vi">HTVC Du Lịch HD</display-name>
-    <display-number>46</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/htvcdulichhd.jpg" />
+  <channel id="htvcdulichhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTVC Du Lịch</display-name>
   </channel>
   <programme channel="htvcdulichhd" channel-number="46" start="20260128080100 +0700" stop="20260128082200 +0700" source="LICHPHATSONG">
     <title lang="vi">NHỮNG CUỘC PHIÊU LƯU KỲ THÚ: NÚI POCONO</title>
@@ -9907,10 +9722,8 @@
     <title lang="vi">HÀNH TRÌNH TRẢI NGHIỆM: BEIJING</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="htvcgiadinhhd" source="LICHPHATSONG">
-    <display-name lang="vi">HTVC Gia Đình HD</display-name>
-    <display-number>44</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/htvcphunuhd.jpg" />
+  <channel id="htvcgiadinhhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTVC Gia Đình</display-name>
   </channel>
   <programme channel="htvcgiadinhhd" channel-number="44" start="20260128075800 +0700" stop="20260128082100 +0700" source="LICHPHATSONG">
     <title lang="vi">CHUYÊN ĐỀ: BÁC SĨ NHI KHOA - NHỮNG ĐIỀU CẦN BIẾT VỀ TẬT NÓI LẮP Ở TRẺ EM</title>
@@ -10109,15 +9922,9 @@
     <title lang="vi">CÓ VÀ KHÔNG</title>
     <desc lang="vi">Chương trình này có thời lượng là 55 phút.</desc>
   </programme>
-  <channel id="htvcphunuhd" source="LICHPHATSONG">
-    <display-name lang="vi">HTVC Phụ Nữ HD</display-name>
-    <display-number>45</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/htvcphunuhd.jpg" />
+  <channel id="htvcphunuhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTVC Phụ Nữ</display-name>
   </channel>
-  <programme channel="htvcphunuhd" channel-number="45" start="20260128080600 +0700" stop="20260128081200 +0700" source="LICHPHATSONG">
-    <title lang="vi">CHUYÊN ĐỀ: BẾP NHÀ MÌNH - NƯỚC ÉP ĐỎ LUNG LINH - KM CA SĨ ĐÀO KỲ ANH</title>
-    <desc lang="vi">Chương trình này có thời lượng là 6 phút.</desc>
-  </programme>
   <programme channel="htvcphunuhd" channel-number="45" start="20260128081200 +0700" stop="20260128084000 +0700" source="LICHPHATSONG">
     <title lang="vi">CHUYÊN ĐỀ CS: BOX THƯ GIÃN - DV TẤT DIỆU HẰNG/ MC BÁ NIÊN</title>
     <desc lang="vi">Chương trình này có thời lượng là 28 phút.</desc>
@@ -10254,10 +10061,8 @@
     <title lang="vi">CA NHẠC: TRÒ CHUYỆN CÙNG THỜI GIAN - 12/2024 - TIẾN BƯỚC DƯỚI QUÂN KỲ TUYỂN CHỌN</title>
     <desc lang="vi">Chương trình này có thời lượng là 16 phút.</desc>
   </programme>
-  <channel id="htvcplushd" source="LICHPHATSONG">
-    <display-name lang="vi">HTVC Plus HD</display-name>
-    <display-number>48</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/htvcplushd.jpg" />
+  <channel id="htvcplushd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTVC Plus</display-name>
   </channel>
   <programme channel="htvcplushd" channel-number="48" start="20260128075700 +0700" stop="20260128083300 +0700" source="LICHPHATSONG">
     <title lang="vi">CHUYÊN ĐỀ: CƠM NHÀ VIỆT NAM - CHỊ ANH THƯ - GÒ VẤP (CÁ DIÊU HỒNG CHƯNG TƯƠNG, RAU CÀNG CUA TRỘN THỊT BÒ, CANH RAU NGÓT NẤU TÔM)</title>
@@ -10503,10 +10308,8 @@
     <title lang="vi">PHIM TRUYỆN VIỆT NAM: HÃY NÓI VỀ TÌNH YÊU</title>
     <desc lang="vi">Chương trình này có thời lượng là 6 giờ 30 phút.</desc>
   </programme>
-  <channel id="htvthethaohd" source="LICHPHATSONG">
-    <display-name lang="vi">HTV Thể Thao HD</display-name>
-    <display-number>41</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/htvthethaohd.jpg" />
+  <channel id="htvthethaohd" source="TRADA (BACKUP)">
+    <display-name lang="vi">HTV Thể Thao</display-name>
   </channel>
   <programme channel="htvthethaohd" channel-number="41" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">ỐNG KÍNH THỂ THAO</title>
@@ -10713,10 +10516,8 @@
     <title lang="vi">PHIM TRUYỆN: CHUYỆN TÌNH LÀNG GIẢI TRÍ - TẬP 21</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ 55 phút.</desc>
   </programme>
-  <channel id="hungyen" source="LICHPHATSONG">
+  <channel id="hungyen" source="TRADA (BACKUP)">
     <display-name lang="vi">Hưng Yên</display-name>
-    <display-number>145</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/hungyen.png" />
   </channel>
   <programme channel="hungyen" channel-number="145" start="20260128070000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN : CHUYỆN SUI GIA -TẬP 7, 8</title>
@@ -10834,10 +10635,8 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY MAI</title>
     <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc>
   </programme>
-  <channel id="inthebox" source="LICHPHATSONG">
-    <display-name lang="vi">In The Box HD</display-name>
-    <display-number>99</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/inthebox.jpg" />
+  <channel id="inthebox" source="TRADA (BACKUP)">
+    <display-name lang="vi">InTheBox Channel</display-name>
   </channel>
   <programme channel="inthebox" channel-number="99" start="20260128075900 +0700" stop="20260128084800 +0700" source="LICHPHATSONG">
     <title lang="vi">TRÍ LỰC SIÊU PHÀM (PHẦN 1) - LIMITLESS S01</title>
@@ -10923,10 +10722,8 @@
     <title lang="vi">BẦU TRỜI SỤP ĐỔ - FALLING SKIES S04</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="kbsworld" source="LICHPHATSONG">
+  <channel id="kbsworld" source="TRADA (BACKUP)">
     <display-name lang="vi">KBS World</display-name>
-    <display-number>90</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/kbsworld.jpg" />
   </channel>
   <programme channel="kbsworld" channel-number="90" start="20260128080500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">A GRACEFUL LIAR EP80</title>
@@ -11024,10 +10821,8 @@
     <category lang="vi">Chương trình truyền hình: Giải trí</category>
     <icon src="https://image2.vnmedia.xyz/8c3c809da204f9c67ff519b23e0cd690/1769447653/schedule/kbsworld/theseasonsw.webp" />
   </programme>
-  <channel id="khanhhoa" source="LICHPHATSONG">
+  <channel id="khanhhoa" source="TRADA (BACKUP)">
     <display-name lang="vi">Khánh Hòa</display-name>
-    <display-number>147</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/khanhhoa.png" />
   </channel>
   <programme channel="khanhhoa" channel-number="147" start="20260128075000 +0700" stop="20260128083500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN</title>
@@ -11306,10 +11101,8 @@
     <title lang="vi">DÂN CA NHẠC CỔ</title>
     <desc lang="vi">Chương trình này có thời lượng là 29 phút.</desc>
   </programme>
-  <channel id="kix" source="LICHPHATSONG">
-    <display-name lang="vi">Kix HD</display-name>
-    <display-number>104</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/kix.png" />
+  <channel id="kix" source="TRADA (BACKUP)">
+    <display-name lang="en">KIX</display-name>
   </channel>
   <programme start="20260128074000 +0700" stop="20260128083000 +0700" channel="kix" source="TRADA (BACKUP)">
     <title lang="en">The Ultimate BROcation</title>
@@ -11422,15 +11215,9 @@
   <programme start="20260129225500 +0700" stop="20260130002000 +0700" channel="kix" source="TRADA (BACKUP)">
     <title lang="en">Bangkok Storm</title>
   </programme>
-  <channel id="laichau" source="LICHPHATSONG">
+  <channel id="laichau" source="TRADA (BACKUP)">
     <display-name lang="vi">Lai Châu</display-name>
-    <display-number>149</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/laichau.png" />
   </channel>
-  <programme channel="laichau" channel-number="149" start="20260128073500 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM TRUYỆN</title>
-    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
-  </programme>
   <programme channel="laichau" channel-number="149" start="20260128082000 +0700" stop="20260128085000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TÀI LIỆU</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
@@ -11612,10 +11399,6 @@
     <display-number>151</display-number>
     <icon src="https://image4.vnmedia.xyz/logo/lamdong1.jpg" />
   </channel>
-  <programme channel="lamdong1" channel-number="151" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">CHUYÊN MỤC: TÀI CHÍNH NGÂN HÀNG - LÂM ĐỒNG THU NGÂN SÁCH ĐẠT 66% DỰ TOÁN NĂM</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="lamdong1" channel-number="151" start="20260128081500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">CHƯƠNG TRÌNH QUÂN KHU 7</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
@@ -11926,10 +11709,6 @@
     <display-number>153</display-number>
     <icon src="https://image3.vnmedia.xyz/logo/lamdong3.jpg" />
   </channel>
-  <programme channel="lamdong3" channel-number="153" start="20260128073000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM TÀI LIỆU: NGƯỜI CÔNG AN CÁCH MẠNG (TẬP 35/35)</title>
-    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
-  </programme>
   <programme channel="lamdong3" channel-number="153" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">TỪ BIỂN XANH ĐẾN ĐẠI NGÀN</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -12106,15 +11885,9 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY MAI</title>
     <desc lang="vi">Chương trình này có thời lượng là 14 phút.</desc>
   </programme>
-  <channel id="langson" source="LICHPHATSONG">
+  <channel id="langson" source="TRADA (BACKUP)">
     <display-name lang="vi">Lạng Sơn</display-name>
-    <display-number>154</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/langson.png" />
   </channel>
-  <programme channel="langson" channel-number="154" start="20260128080000 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">LỊCH SỬ VIỆT</title>
-    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
-  </programme>
   <programme channel="langson" channel-number="154" start="20260128082000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHÓNG SỰ THƯƠNG MẠI ĐIỆN TỬ</title>
     <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc>
@@ -12343,10 +12116,8 @@
     <title lang="vi">KẾT THÚC CHƯƠNG TRÌNH</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 phút.</desc>
   </programme>
-  <channel id="laocai" source="LICHPHATSONG">
+  <channel id="laocai" source="TRADA (BACKUP)">
     <display-name lang="vi">Lào Cai</display-name>
-    <display-number>150</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/laocai.png" />
   </channel>
   <programme channel="laocai" channel-number="150" start="20260128080000 +0700" stop="20260128085000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN</title>
@@ -12596,10 +12367,8 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY MAI.</title>
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
   </programme>
-  <channel id="man" source="LICHPHATSONG">
-    <display-name lang="vi">Man HD</display-name>
-    <display-number>101</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/man.jpg" />
+  <channel id="man" source="TRADA (BACKUP)">
+    <display-name lang="vi">MAN</display-name>
   </channel>
   <programme channel="man" channel-number="101" start="20260128074600 +0700" stop="20260128084400 +0700" source="LICHPHATSONG">
     <title lang="vi">TRUY ĐUỔI - P2 - HUNTED AUS S02</title>
@@ -12685,10 +12454,8 @@
     <title lang="vi">ĐỊCH THỦ WWE - WWE RIVALS S01</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="musicbox" source="LICHPHATSONG">
-    <display-name lang="vi">Music Box HD</display-name>
-    <display-number>100</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/musicbox.jpg" />
+  <channel id="musicbox" source="TRADA (BACKUP)">
+    <display-name lang="vi">Music Box</display-name>
   </channel>
   <programme channel="musicbox" channel-number="100" start="20260128080000 +0700" stop="20260128082900 +0700" source="LICHPHATSONG">
     <title lang="vi">POP HITS</title>
@@ -12802,10 +12569,8 @@
     <title lang="vi">LATINO</title>
     <desc lang="vi">Chương trình này có thời lượng là 31 phút.</desc>
   </programme>
-  <channel id="nghean" source="LICHPHATSONG">
+  <channel id="nghean" source="TRADA (BACKUP)">
     <display-name lang="vi">Nghệ An</display-name>
-    <display-number>155</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/nghean.png" />
   </channel>
   <programme channel="nghean" channel-number="155" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">CA NHẠC</title>
@@ -13116,10 +12881,8 @@
     <title lang="vi">KABUKI KOOL</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="ninhbinh" source="LICHPHATSONG">
+  <channel id="ninhbinh" source="TRADA (BACKUP)">
     <display-name lang="vi">Ninh Bình</display-name>
-    <display-number>156</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/ninhbinh.png" />
   </channel>
   <programme channel="ninhbinh" channel-number="156" start="20260128074900 +0700" stop="20260128083200 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN - NGƯỜI VỢ HOÀN HẢO - TẬP 73</title>
@@ -13282,10 +13045,6 @@
     <display-number>19</display-number>
     <icon src="https://image4.vnmedia.xyz/logo/on-bibi.jpg" />
   </channel>
-  <programme channel="onbibi" channel-number="19" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">(26T) CẢNH SÁT LIÊN HÀNH TINH - TẬP 20</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="onbibi" channel-number="19" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">(26T) CẢNH SÁT LIÊN HÀNH TINH - TẬP 20</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -13519,10 +13278,6 @@
     <display-number>21</display-number>
     <icon src="https://image3.vnmedia.xyz/logo/on-cine.jpg" />
   </channel>
-  <programme channel="oncine" channel-number="21" start="20260128073000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">THỜI VÀNG SON(ĐL_327T) - TẬP 158</title>
-    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
-  </programme>
   <programme channel="oncine" channel-number="21" start="20260128081500 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">NHẬT KÝ CÔNG SỞ(ĐL_50T) - TẬP 48</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
@@ -13887,10 +13642,6 @@
     <display-number>20</display-number>
     <icon src="https://image1.vnmedia.xyz/logo/on-infotv.jpg" />
   </channel>
-  <programme channel="oninfotv" channel-number="20" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">TRUYỀN HÌNH CÔNG THƯƠNG_ SỐ 108</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="oninfotv" channel-number="20" start="20260128081500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">CHUYỆN ĐỜI CHUYỆN NGHỀ - SỐ 04</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
@@ -14036,10 +13787,6 @@
     <display-number>29</display-number>
     <icon src="https://image1.vnmedia.xyz/logo/on-kids.jpg" />
   </channel>
-  <programme channel="onkids" channel-number="29" start="20260128074500 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">TÂM LÝ HỌC ĐƯỜNG (50) - TẬP 36</title>
-    <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
-  </programme>
   <programme channel="onkids" channel-number="29" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">TẦM LONG KÝ (26) - TẬP 20</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -15619,10 +15366,8 @@
     <title lang="vi">VITAMIN CƯỜI 2015 - TẬP 3</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="outdoorhd" source="LICHPHATSONG">
-    <display-name lang="vi">Outdoor Channel HD</display-name>
-    <display-number>91</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/outdoorhd.jpg" />
+  <channel id="outdoorhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Outdoor Channel</display-name>
   </channel>
   <programme channel="outdoorhd" channel-number="91" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">GIÁM SÁT VIÊN</title>
@@ -15716,15 +15461,9 @@
     <title lang="vi">BEAR GRYLLS: NHIỆM VỤ SINH TỒN</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="phutho" source="LICHPHATSONG">
+  <channel id="phutho" source="TRADA (BACKUP)">
     <display-name lang="vi">Phú Thọ</display-name>
-    <display-number>157</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/phutho.png" />
   </channel>
-  <programme channel="phutho" channel-number="157" start="20260128075500 +0700" stop="20260128081000 +0700" source="LICHPHATSONG">
-    <title lang="vi">TÁC GIẢ - TÁC PHẨM</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="phutho" channel-number="157" start="20260128081000 +0700" stop="20260128085500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
@@ -15941,10 +15680,8 @@
     <title lang="vi">BÁO CHÍ TRONG NGÀY</title>
     <desc lang="vi">Chương trình này có thời lượng là 9 phút.</desc>
   </programme>
-  <channel id="planetearthhd" source="LICHPHATSONG">
-    <display-name lang="vi">Planet Earth HD</display-name>
-    <display-number>96</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/planetearthhd.jpg" />
+  <channel id="planetearthhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Planet Earth</display-name>
   </channel>
   <programme channel="planetearthhd" channel-number="96" start="20260128080500 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">VĨ ĐẠI NHẤT MỌI THỜI ĐẠI CÙNG PEYTON MANNING - MÙA 1 - GREATEST OF ALL TIME WITH PEYTON MANNING S01</title>
@@ -16022,10 +15759,8 @@
     <title lang="vi">VĨ ĐẠI NHẤT MỌI THỜI ĐẠI CÙNG PEYTON MANNING - MÙA 1 - GREATEST OF ALL TIME WITH PEYTON MANNING S01</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="qpvnhd" source="LICHPHATSONG">
-    <display-name lang="vi">QPVN HD</display-name>
-    <display-number>32</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/qpvnhd.jpg" />
+  <channel id="qpvnhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">QPVN</display-name>
   </channel>
   <programme channel="qpvnhd" channel-number="32" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">BIỂN ĐẢO TỔ QUỐC: ĐÓN ÁNH BÌNH MINH</title>
@@ -16171,15 +15906,9 @@
     <title lang="vi">BẢN TIN THỜI SỰ QUỐC PHÒNG</title>
     <desc lang="vi">Chương trình này có thời lượng là 44 phút.</desc>
   </programme>
-  <channel id="quangngai" source="LICHPHATSONG">
+  <channel id="quangngai" source="TRADA (BACKUP)">
     <display-name lang="vi">Quảng Ngãi</display-name>
-    <display-number>158</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/quangngai.jpg" />
   </channel>
-  <programme channel="quangngai" channel-number="158" start="20260128080000 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">BẢN TIN</title>
-    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
-  </programme>
   <programme channel="quangngai" channel-number="158" start="20260128082000 +0700" stop="20260128085000 +0700" source="LICHPHATSONG">
     <title lang="vi">CÔNG NGHỆ KIẾN TẠO: XÂY DỰNG CHƯƠNG TRÌNH QUỐC GIA VỀ AI</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
@@ -16324,10 +16053,8 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY MAI</title>
     <desc lang="vi">Chương trình này có thời lượng là 5 phút.</desc>
   </programme>
-  <channel id="quangninh1" source="LICHPHATSONG">
+  <channel id="quangninh1" source="TRADA (BACKUP)">
     <display-name lang="vi">Quảng Ninh 1</display-name>
-    <display-number>159</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/quangninh1.png" />
   </channel>
   <programme channel="quangninh1" channel-number="159" start="20260128080000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN</title>
@@ -16513,10 +16240,8 @@
     <title lang="vi">HÀNH TRÌNH AN TOÀN</title>
     <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc>
   </programme>
-  <channel id="quangninh3" source="LICHPHATSONG">
+  <channel id="quangninh3" source="TRADA (BACKUP)">
     <display-name lang="vi">Quảng Ninh 3</display-name>
-    <display-number>160</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/quangninh3.png" />
   </channel>
   <programme channel="quangninh3" channel-number="160" start="20260128075900 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN</title>
@@ -16698,15 +16423,9 @@
     <title lang="vi">KINH TẾ BIỂN</title>
     <desc lang="vi">Chương trình này có thời lượng là 12 phút.</desc>
   </programme>
-  <channel id="quangtri" source="LICHPHATSONG">
+  <channel id="quangtri" source="TRADA (BACKUP)">
     <display-name lang="vi">Quảng Trị</display-name>
-    <display-number>161</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/quangtri.webp" />
   </channel>
-  <programme channel="quangtri" channel-number="161" start="20260128075500 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">HUẾ KHÁT VỌNG VƯƠN MÌNH: HUẾ XANH</title>
-    <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
-  </programme>
   <programme channel="quangtri" channel-number="161" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHÓNG SỰ: QUỸ TÍN DỤNG NHÂN DÂN VẠN TRẠCH - 30 NĂM ĐỒNG HÀNH PHÁT TRIỂN KINH TẾ NÔNG THÔN</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -16843,10 +16562,9 @@
     <title lang="vi">CUỘC SỐNG MUÔN LOÀI: HỆ SINH THÁI HOANG DÃ YELLOWSTONE - PHẦN 1</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ 34 phút.</desc>
   </programme>
-  <channel id="sctv11hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV11 HD</display-name>
-    <display-number>57</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/sctv11hd.png" />
+  <channel id="sctv11hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV11</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv11hd" channel-number="57" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN: NƠI NGỌN GIÓ DỪNG CHÂN - TẬP 30</title>
@@ -16912,10 +16630,9 @@
     <title lang="vi">SZ BOLERO - NHỮNG NỐT NHẠC NGÂN - SỐ 392</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="sctv12hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV12 HD</display-name>
-    <display-number>58</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/sctv12hd.png" />
+  <channel id="sctv12hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV12</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv12hd" channel-number="58" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">THẾ GIỚI ĐỘNG VẬT 1 - AMAZON CỦA CHÂU Á - HÀNH TRÌNH VÀO VÙNG ĐẤT HUYỀN BÍ</title>
@@ -17029,15 +16746,13 @@
     <title lang="vi">KHÁM PHÁ - THẢM SÁT TRONG GIA ĐÌNH-KELSEY GRAMMER-TẬP 2</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="sctv13hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV13 HD</display-name>
-    <display-number>59</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/sctv13hd.png" />
+  <channel id="sctv13hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV13</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
-  <channel id="sctv14hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV14 HD</display-name>
-    <display-number>60</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv14hd.png" />
+  <channel id="sctv14hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV14</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv14hd" channel-number="60" start="20260128074500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">DUYÊN TIÊN TIỀN ĐỊNH - TẬP 6</title>
@@ -17119,10 +16834,9 @@
     <title lang="vi">GIẢI CỨU HẠNH PHÚC - TẬP 1</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
   </programme>
-  <channel id="sctv15hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV15 HD</display-name>
-    <display-number>61</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv15hd.png" />
+  <channel id="sctv15hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV15</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv15hd" channel-number="61" start="20260128080000 +0700" stop="20260128100000 +0700" source="LICHPHATSONG">
     <title lang="vi">AEW DYNAMITE - 2602</title>
@@ -17164,10 +16878,9 @@
     <title lang="vi">CARABAO CUP- 2025/26 BK LƯỢT ĐI NEWCASTLE UNITED - MANCHESTER CITY</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ 30 phút.</desc>
   </programme>
-  <channel id="sctv16hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV16 HD</display-name>
-    <display-number>62</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/sctv16hd.png" />
+  <channel id="sctv16hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV16</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv16hd" channel-number="62" start="20260128080000 +0700" stop="20260128095000 +0700" source="LICHPHATSONG">
     <title lang="vi">WILDLING - QUÁI THÚ RỪNG SÂU</title>
@@ -17205,10 +16918,9 @@
     <title lang="vi">10 MINUTES GONE - 10 PHÚT SỐNG CÒN</title>
     <desc lang="vi">Chương trình này có thời lượng là 3 giờ.</desc>
   </programme>
-  <channel id="sctv17hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV17 HD</display-name>
-    <display-number>63</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/sctv17hd.png" />
+  <channel id="sctv17hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV17</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv17hd" channel-number="63" start="20260128080000 +0700" stop="20260128100000 +0700" source="LICHPHATSONG">
     <title lang="vi">LALIGA 2025/26 -R20 REAL MADRID - LEVANTE</title>
@@ -17254,10 +16966,9 @@
     <title lang="vi">LALIGA HIGHLIGHTS</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="sctv18hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV18 HD</display-name>
-    <display-number>64</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/sctv18hd.png" />
+  <channel id="sctv18hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV18</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv18hd" channel-number="64" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">BAY LÊN GIAI ĐIỆU SỐNG - TẬP 9SÁCH VÀ CUỘC SỐNG P3 - TẬP 310</title>
@@ -17359,10 +17070,9 @@
     <title lang="vi">PHIÊU LƯU CÙNG GULLIVER - TẬP 16</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="sctv19hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV19 HD</display-name>
-    <display-number>65</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv19hd.png" />
+  <channel id="sctv19hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV19</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv19hd" channel-number="65" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">GIẢI TRÍ: MỸ NHÂN VÀO BẾP - TẬP 59, 60</title>
@@ -17492,10 +17202,9 @@
     <title lang="vi">KHOA GIÁO: KHOA HỌC CÙNG BRAIN CAFÉ - TẬP 48</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="sctv1hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV1 HD</display-name>
-    <display-number>49</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv1hd.png" />
+  <channel id="sctv1hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV1</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv1hd" channel-number="49" start="20260128080000 +0700" stop="20260128083100 +0700" source="LICHPHATSONG">
     <title lang="vi">GIA ĐÌNH LÀ SỐ 1-P2-TẬP 99</title>
@@ -17617,10 +17326,9 @@
     <title lang="vi">MẠC GIA KÝ - PHẦN 3 - TẬP 48</title>
     <desc lang="vi">Chương trình này có thời lượng là 35 phút.</desc>
   </programme>
-  <channel id="sctv20hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV20 HD</display-name>
-    <display-number>66</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv20hd.png" />
+  <channel id="sctv20hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV20</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv20hd" channel-number="66" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">BỨC TRANH ÂM NHẠC - DUYÊN</title>
@@ -17795,10 +17503,9 @@
     <title lang="vi">NSDB 21: TRĂM NĂM LÀNG CHIẾU ĐỊNH YÊN</title>
     <desc lang="vi">Chương trình này có thời lượng là 40 phút.</desc>
   </programme>
-  <channel id="sctv22hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV22 HD</display-name>
-    <display-number>68</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/sctv22hd.png" />
+  <channel id="sctv22hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV22</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv22hd" channel-number="68" start="20260128080000 +0700" stop="20260128100000 +0700" source="LICHPHATSONG">
     <title lang="vi">VÕ THUẬT</title>
@@ -17840,10 +17547,9 @@
     <title lang="vi">LALIGA HIGHLIGHTS</title>
     <desc lang="vi">Chương trình này có thời lượng là 2 giờ.</desc>
   </programme>
-  <channel id="sctv2hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV2 HD</display-name>
-    <display-number>50</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/sctv2hd.png" />
+  <channel id="sctv2hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV2</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv2hd" channel-number="50" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">ĐỨA CHÁU NHÀ TÀI PHIỆT - TẬP 96</title>
@@ -17925,10 +17631,9 @@
     <title lang="vi">NHỮNG KHÚC VỌNG XƯA - SỐ 201</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="sctv3hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV3 HD</display-name>
-    <display-number>51</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/sctv3hd.png" />
+  <channel id="sctv3hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV3</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv3hd" channel-number="51" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">NHÂN TÀI ĐẠI VIỆT - P2 TẬP 93, 94</title>
@@ -18058,10 +17763,9 @@
     <title lang="vi">WIKI BIẾT TUỐT - WIKI DU HÀNH THẾ GIỚI TẬP 19, 20</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="sctv4hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV4 HD</display-name>
-    <display-number>52</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/sctv4hd.png" />
+  <channel id="sctv4hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV4</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv4hd" channel-number="52" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN: KHÔNG LỐI THOÁT - TẬP 13</title>
@@ -18268,10 +17972,9 @@
     <title lang="vi">THIẾU NHI: 100% SÓI - TẬP 12</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="sctv6hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV6 HD</display-name>
-    <display-number>53</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv6hd.png" />
+  <channel id="sctv6hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV6</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv6hd" channel-number="53" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM ẤN ĐỘ: ALIBABA TRUYỀN KỲ - TẬP 14</title>
@@ -18353,10 +18056,9 @@
     <title lang="vi">PHIM CHIẾU RẠP: HOÀNG PHI HỒNG - THIẾT KÊ ĐẤU NGÔ CÔNG</title>
     <desc lang="vi">Chương trình này có thời lượng là 2 giờ.</desc>
   </programme>
-  <channel id="sctv7hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV7 HD</display-name>
-    <display-number>54</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv7hd.png" />
+  <channel id="sctv7hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV7</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv7hd" channel-number="54" start="20260128080000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN: ẢI MỸ NHÂN - TẬP 25</title>
@@ -18422,10 +18124,9 @@
     <title lang="vi">PHIM TRUYỆN: MAI ANH ĐÀO - TẬP 38</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="sctv8hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV8 HD</display-name>
-    <display-number>55</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctv8hd.png" />
+  <channel id="sctv8hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV8</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv8hd" channel-number="55" start="20260128073000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">ĐỐI THOẠI - PHÁT LẠI SỐ NGÀY 14/12</title>
@@ -18583,10 +18284,9 @@
     <title lang="vi">GIỜ THỨ 9</title>
     <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
   </programme>
-  <channel id="sctv9hd" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV9 HD</display-name>
-    <display-number>56</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/sctv9hd.png" />
+  <channel id="sctv9hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV9</display-name>
+    <url>http://www.tv24.vn</url>
   </channel>
   <programme channel="sctv9hd" channel-number="56" start="20260128073000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">VÔ GIAN ĐẠO - TẬP 19</title>
@@ -18656,10 +18356,8 @@
     <title lang="vi">VÔ GIAN ĐẠO - TẬP 20</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="sctvhdpth" source="LICHPHATSONG">
-    <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name>
-    <display-number>69</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/sctvhdpth.png" />
+  <channel id="sctvhdpth" source="TRADA (BACKUP)">
+    <display-name lang="vi">SCTV Phim Tổng Hợp</display-name>
   </channel>
   <programme channel="sctvhdpth" channel-number="69" start="20260128080000 +0700" stop="20260128094500 +0700" source="LICHPHATSONG">
     <title lang="vi">VẠN DẶM NHÂN SINH - TẬP 14 (VIỆT NAM)</title>
@@ -18725,10 +18423,8 @@
     <title lang="vi">NƯƠNG TỰA VÀO ANH - TẬP 18 (THÁI LAN)</title>
     <desc lang="vi">Chương trình này có thời lượng là 1 giờ.</desc>
   </programme>
-  <channel id="sonla" source="LICHPHATSONG">
+  <channel id="sonla" source="TRADA (BACKUP)">
     <display-name lang="vi">Sơn La</display-name>
-    <display-number>162</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/sonla.png" />
   </channel>
   <programme channel="sonla" channel-number="162" start="20260128080000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN: LỜI NGUYỀN DOMINO - TẬP 6 (40 TẬP)</title>
@@ -19045,10 +18741,6 @@
     <display-number>163</display-number>
     <icon src="https://image4.vnmedia.xyz/logo/tayninh1.jpg" />
   </channel>
-  <programme channel="tayninh1" channel-number="163" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">BÁC SĨ VÀ MẸ - SỐ 6</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="tayninh1" channel-number="163" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">CHUYỆN BÁC BA PHI XƯA VÀ NAY - SỐ 55</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -19213,10 +18905,8 @@
     <title lang="vi">BẢN TIN TIẾNG ANH</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
   </programme>
-  <channel id="thainguyen" source="LICHPHATSONG">
+  <channel id="thainguyen" source="TRADA (BACKUP)">
     <display-name lang="vi">Thái Nguyên</display-name>
-    <display-number>165</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/thainguyen.png" />
   </channel>
   <programme channel="thainguyen" channel-number="165" start="20260128080000 +0700" stop="20260128113000 +0700" source="LICHPHATSONG">
     <title lang="vi">TRUYỀN HÌNH TRỰC TIẾP</title>
@@ -19334,15 +19024,9 @@
     <title lang="vi">THỂ THAO TUẦN QUA</title>
     <desc lang="vi">Chương trình này có thời lượng là 14 phút.</desc>
   </programme>
-  <channel id="thanhhoa" source="LICHPHATSONG">
+  <channel id="thanhhoa" source="TRADA (BACKUP)">
     <display-name lang="vi">Thanh Hóa</display-name>
-    <display-number>166</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/thanhhoa.png" />
   </channel>
-  <programme channel="thanhhoa" channel-number="166" start="20260128080000 +0700" stop="20260128081000 +0700" source="LICHPHATSONG">
-    <title lang="vi">BẢN TIN SỐ VÀ CÔNG NGHỆ: GẶP GỠ NHÓM TÁC GIẢ TRẺ ĐOẠT GIẢI NHÌ SÁNG TẠO TOÀN QUỐC</title>
-    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc>
-  </programme>
   <programme channel="thanhhoa" channel-number="166" start="20260128081000 +0700" stop="20260128083500 +0700" source="LICHPHATSONG">
     <title lang="vi">CA NHẠC: VỀ THANH HÓA ĐI ANH</title>
     <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
@@ -19527,17 +19211,9 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH PT &amp; TH NGÀY MAI</title>
     <desc lang="vi">Chương trình này có thời lượng là 4 giờ 10 phút.</desc>
   </programme>
-  <channel id="tlchd" source="LICHPHATSONG">
-    <display-name lang="vi">Travel &amp; Living HD</display-name>
-    <display-number>83</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/tlc.jpg" />
+  <channel id="tlchd" source="TRADA (BACKUP)">
+    <display-name lang="vi">TLC</display-name>
   </channel>
-  <programme channel="tlchd" channel-number="83" start="20260128074500 +0700" stop="20260128081000 +0700" source="LICHPHATSONG">
-    <title lang="vi">HƯƠNG VỊ HỒNG KÔNG - A TASTE OF HONG KONG (S4)</title>
-    <desc lang="vi">Josie cùng Kryz và Daphne gặp nhau để thưởng thức bữa trưa mì kiểu HK và bánh mì nướng kiểu Pháp tại một địa điểm mang tính biểu tượng ở Lan Fong Yuen của Trung tâm Phố cổ.</desc>
-    <category lang="vi">Lối sống, Giải trí, Sở thích: Sở thích đặc biệt</category>
-    <icon src="https://image3.vnmedia.xyz/68510ca4e47701fa02b86b59d80cf868/1769447579/schedule/tlchd/atasteofhongkongs4.webp" />
-  </programme>
   <programme channel="tlchd" channel-number="83" start="20260128081000 +0700" stop="20260128083500 +0700" source="LICHPHATSONG">
     <title lang="vi">FAMILY DINNER (S1)</title>
     <desc lang="vi">Các biegels đã phát triển cranberries trên đầm lầy của họ ở Wisconsin Rapids, WI, trong năm thế hệ.</desc>
@@ -19674,10 +19350,8 @@
     <category lang="vi">Lối sống, Giải trí, Sở thích: Sở thích đặc biệt</category>
     <icon src="https://image2.vnmedia.xyz/9fff0ec03a6a2c87ec9e9b126bc5c25b/1769447583/schedule/tlchd/everydaycookings1.webp" />
   </programme>
-  <channel id="tuyenquang" source="LICHPHATSONG">
+  <channel id="tuyenquang" source="TRADA (BACKUP)">
     <display-name lang="vi">Tuyên Quang</display-name>
-    <display-number>146</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/tuyenquang.png" />
   </channel>
   <programme channel="tuyenquang" channel-number="146" start="20260128080000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN</title>
@@ -19819,10 +19493,8 @@
     <title lang="vi">GIỚI THIỆU CHƯƠNG TRÌNH NGÀY MAI</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 phút.</desc>
   </programme>
-  <channel id="tv5monde" source="LICHPHATSONG">
+  <channel id="tv5monde" source="TRADA (BACKUP)">
     <display-name lang="vi">TV5 Monde</display-name>
-    <display-number>115</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/tv5monde.png" />
   </channel>
   <programme channel="tv5monde" channel-number="115" start="20260128075720 +0700" stop="20260128082050 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIÊN BẢN NGÀY 27/01/26 - EDITION DU 27/01/26</title>
@@ -20545,15 +20217,20 @@
     <previously-shown />
     <new />
   </programme>
+  <programme start="20260130142000 +1500" stop="20260130155000 +1500" channel="tvbvn" source="TVBVN">
+    <title lang="vi">Phim tập (2 tập) : Người Hùng Blouse Trắng 2</title>
+    <desc lang="vi">Phim tập (2 tập) : Người Hùng Blouse Trắng 2 (chiếu lại)</desc>
+    <category lang="en">Drama</category>
+    <date>2026-01-29</date>
+    <language>vi</language>
+    <previously-shown />
+    <new />
+  </programme>
   <channel id="vietnamtoday" source="LICHPHATSONG">
     <display-name lang="vi">VIETNAM TODAY</display-name>
     <display-number>34</display-number>
     <icon src="https://image1.vnmedia.xyz/logo/vietnamtoday.jpg" />
   </channel>
-  <programme channel="vietnamtoday" channel-number="34" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">DAILY BIZ</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="vietnamtoday" channel-number="34" start="20260128081500 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">VIBES OF VIETNAM: A VISIT TO TRÀ QUẾ VEGETABLE VILLAGE</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
@@ -20734,15 +20411,9 @@
     <title lang="vi">DAILY BIZ</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
   </programme>
-  <channel id="vinhlong1hd" source="LICHPHATSONG">
-    <display-name lang="vi">Vĩnh Long 1 HD</display-name>
-    <display-number>167</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/vinhlong1hd.jpg" />
+  <channel id="vinhlong1hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Vĩnh Long 1</display-name>
   </channel>
-  <programme channel="vinhlong1hd" channel-number="167" start="20260128073000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">PHIM TRUYỆN VIỆT NAM: HỒNG NHAN - TẬP 34</title>
-    <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
-  </programme>
   <programme channel="vinhlong1hd" channel-number="167" start="20260128081500 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM TRUYỆN TRUNG QUỐC: KHUYNH THÀNH TUYẾT - TẬP 39</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
@@ -20883,10 +20554,8 @@
     <title lang="vi">SỐNG XANH</title>
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
   </programme>
-  <channel id="vinhlong2hd" source="LICHPHATSONG">
-    <display-name lang="vi">Vĩnh Long 2 HD</display-name>
-    <display-number>168</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/vinhlong2hd.jpg" />
+  <channel id="vinhlong2hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Vĩnh Long 2</display-name>
   </channel>
   <programme channel="vinhlong2hd" channel-number="168" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">THẾ GIỚI CỔ TÍCH - CHÀNG TRAI CHÁNH TRỰC TẬP CUỐI</title>
@@ -20984,10 +20653,8 @@
     <title lang="vi">PHIM VIỆT NAM: ÔNG BỐ ĐEO TẠP DỀ - TẬP 27</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
   </programme>
-  <channel id="vinhlong3hd" source="LICHPHATSONG">
-    <display-name lang="vi">Vĩnh Long 3 HD</display-name>
-    <display-number>169</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/vinhlong3hd.jpg" />
+  <channel id="vinhlong3hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Vĩnh Long 3</display-name>
   </channel>
   <programme channel="vinhlong3hd" channel-number="169" start="20260128080000 +0700" stop="20260128093000 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM VIỆT NAM: TÌNH YÊU BẤT TỬ - T.22-23</title>
@@ -21073,10 +20740,8 @@
     <title lang="vi">THẦN TÀI GÕ CỬA</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
   </programme>
-  <channel id="vinhlong4hd" source="LICHPHATSONG">
-    <display-name lang="vi">Vĩnh Long 4 HD</display-name>
-    <display-number>170</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/vinhlong4hd.png" />
+  <channel id="vinhlong4hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Vĩnh Long 4</display-name>
   </channel>
   <programme channel="vinhlong4hd" channel-number="170" start="20260128080000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">PHIM VIỆT NAM: KHÔNG CẦN SOÁI CA-T.16</title>
@@ -21323,16 +20988,9 @@
     <title lang="vi">PHIM VIỆT NAM: SUI GIA KHẮC KHẨU - TẬP 19</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
   </programme>
-  <channel id="vtv1hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV1 HD</display-name>
-    <display-number>1</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/vtv1hd.jpg" />
+  <channel id="vtv1hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV1</display-name>
   </channel>
-  <programme channel="vtv1hd" channel-number="1" start="20260128080000 +0700" stop="20260128081000 +0700" source="LICHPHATSONG">
-    <title lang="vi">CUỘC SỐNG NHIỆM MÀU</title>
-    <desc lang="vi">Chương trình này có thời lượng là 10 phút.</desc>
-    <icon src="https://image4.vnmedia.xyz/8891ae0e3fda6842ac5ed2cdcd4b6be5/1769447450/schedule/vtv1hd/cuocsongnhiemmau.webp" />
-  </programme>
   <programme channel="vtv1hd" channel-number="1" start="20260128081000 +0700" stop="20260128090000 +0700" source="LICHPHATSONG">
     <title lang="vi">LỠ HẸN VỚI NGÀY XANH - TẬP 22</title>
     <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc>
@@ -21513,10 +21171,8 @@
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
     <icon src="https://image1.vnmedia.xyz/234599b8ab639c6edcb433745dfe6fda/1769447455/schedule/vtv1hd/khonggianvanhoanghethuat.webp" />
   </programme>
-  <channel id="vtv2hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV2 HD</display-name>
-    <display-number>2</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/vtv2hd.jpg" />
+  <channel id="vtv2hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV2</display-name>
   </channel>
   <programme channel="vtv2hd" channel-number="2" start="20260128080000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">VTV SỐNG KHỎE - KIỂM SOÁT BỆNH LÝ TIM MẠCH TRONG MÙA LẠNH</title>
@@ -21693,16 +21349,9 @@
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
     <icon src="https://image3.vnmedia.xyz/3398b3f190abf57c8b1ec87d579e7ee2/1769447464/schedule/vtv2hd/chuyennhathoinay.webp" />
   </programme>
-  <channel id="vtv3hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV3 HD</display-name>
-    <display-number>3</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/vtv3hd.jpg" />
+  <channel id="vtv3hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV3</display-name>
   </channel>
-  <programme channel="vtv3hd" channel-number="3" start="20260128080500 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">CÙNG EM ĐẾN TRƯỜNG</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-    <icon src="https://image2.vnmedia.xyz/6087faeac1450540531fad4badfb8c35/1769447467/schedule/vtv3hd/cungemdentruong.webp" />
-  </programme>
   <programme channel="vtv3hd" channel-number="3" start="20260128082000 +0700" stop="20260128091000 +0700" source="LICHPHATSONG">
     <title lang="vi">YẾN SƠN PHÁI VÀ BÁCH HOA MÔN - TẬP 22</title>
     <desc lang="vi">Chương trình này có thời lượng là 50 phút.</desc>
@@ -21883,10 +21532,8 @@
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
     <icon src="https://image2.vnmedia.xyz/5e863c20f4953b023f68143809bfaa23/1769447472/schedule/vtv3hd/loitusu.webp" />
   </programme>
-  <channel id="vtv4hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV4 HD</display-name>
-    <display-number>4</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/vtv4hd.jpg" />
+  <channel id="vtv4hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV4</display-name>
   </channel>
   <programme channel="vtv4hd" channel-number="4" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">HƯỚNG VỀ TỔ QUỐC</title>
@@ -22056,10 +21703,8 @@
     <title lang="vi">THẾ GIỚI TUỔI THƠ - VẦNG TRĂNG CỦA EM</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="vtv5hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV5 HD</display-name>
-    <display-number>5</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/vtv5hd.jpg" />
+  <channel id="vtv5hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV5</display-name>
   </channel>
   <programme channel="vtv5hd" channel-number="5" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">CHƯƠNG TRÌNH TIẾNG THÁI</title>
@@ -22185,10 +21830,8 @@
     <title lang="vi">PHÓNG SỰ</title>
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
   </programme>
-  <channel id="vtv5hdtn" source="LICHPHATSONG">
-    <display-name lang="vi">VTV5 HD - Tây Nguyên</display-name>
-    <display-number>11</display-number>
-    <icon src="https://image4.vnmedia.xyz/logo/vtv5hdtn.jpg" />
+  <channel id="vtv5hdtn" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV5 - Tây Nguyên</display-name>
   </channel>
   <programme channel="vtv5hdtn" channel-number="11" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">CHƯƠNG TRÌNH TIẾNG BAHNAR</title>
@@ -22310,10 +21953,8 @@
     <title lang="vi">PHIM TRUYỆN</title>
     <desc lang="vi">Chương trình này có thời lượng là 45 phút.</desc>
   </programme>
-  <channel id="vtv5hdtnb" source="LICHPHATSONG">
-    <display-name lang="vi">VTV5 HD - Tây Nam Bộ</display-name>
-    <display-number>10</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/vtv5hdtnb.jpg" />
+  <channel id="vtv5hdtnb" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV5 - Tây Nam Bộ</display-name>
   </channel>
   <programme channel="vtv5hdtnb" channel-number="10" start="20260128080000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">CHO NGÀY HOÀN HẢO</title>
@@ -22407,10 +22048,8 @@
     <title lang="vi">THÔNG TIN CHÍNH SÁCH PHÁP LUẬT</title>
     <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
   </programme>
-  <channel id="vtv7hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV7 HD</display-name>
-    <display-number>7</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/vtv7hd.jpg" />
+  <channel id="vtv7hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV7</display-name>
   </channel>
   <programme channel="vtv7hd" channel-number="7" start="20260128080000 +0700" stop="20260128083000 +0700" source="LICHPHATSONG">
     <title lang="vi">KHÁM PHÁ KHOA HỌC: SỐ 38 - ĐIỀN KINH TRÊN MẶT NƯỚC</title>
@@ -22512,10 +22151,8 @@
     <title lang="vi">KHÔNG THÌ THẦM: SỐ 5 - ÁP ĐẶT</title>
     <desc lang="vi">Chương trình này có thời lượng là 19 phút.</desc>
   </programme>
-  <channel id="vtv8hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV8 HD</display-name>
-    <display-number>8</display-number>
-    <icon src="https://image2.vnmedia.xyz/logo/vtv8hd.jpg" />
+  <channel id="vtv8hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV8</display-name>
   </channel>
   <programme channel="vtv8hd" channel-number="8" start="20260128074500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">GIẢI MÃ SỨC KHỎE - GIẢI PHÁP HỖ TRỢ NGƯỜI CAO TUỔI SỐNG KHỎE, SỐNG THỌ VÀ TRẺ LÂU HƠN</title>
@@ -22677,15 +22314,9 @@
     <title lang="vi">KHÁM PHÁ THẾ GIỚI - BÍ QUYẾT TRONG KINH DOANH - TẬP 1</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
   </programme>
-  <channel id="vtv9hd" source="LICHPHATSONG">
-    <display-name lang="vi">VTV9 HD</display-name>
-    <display-number>9</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/vtv9hd.jpg" />
+  <channel id="vtv9hd" source="TRADA (BACKUP)">
+    <display-name lang="vi">VTV9</display-name>
   </channel>
-  <programme channel="vtv9hd" channel-number="9" start="20260128080000 +0700" stop="20260128081500 +0700" source="LICHPHATSONG">
-    <title lang="vi">KÝ SỰ</title>
-    <desc lang="vi">Chương trình này có thời lượng là 15 phút.</desc>
-  </programme>
   <programme channel="vtv9hd" channel-number="9" start="20260128081500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">CÂU CHUYỆN NHÂN VẬT</title>
     <desc lang="vi">Chương trình này có thời lượng là 30 phút.</desc>
@@ -22991,15 +22622,9 @@
     <title lang="vi">THỂ THAO - GIỜ VÀNG THỂ THAO</title>
     <desc lang="vi">Chương trình này có thời lượng là 24 giờ 5 phút.</desc>
   </programme>
-  <channel id="warnertvhd" source="LICHPHATSONG">
-    <display-name lang="vi">Warner TV HD</display-name>
-    <display-number>74</display-number>
-    <icon src="https://image3.vnmedia.xyz/logo/warnertvhd.jpg" />
+  <channel id="warnertvhd" source="TRADA (BACKUP)">
+    <display-name lang="vi">Warner TV</display-name>
   </channel>
-  <programme channel="warnertvhd" channel-number="74" start="20260128075500 +0700" stop="20260128082000 +0700" source="LICHPHATSONG">
-    <title lang="vi">MẸO VẶT CUỘC SỐNG (PHẦN 3) - HACK MY LIFE S3</title>
-    <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
-  </programme>
   <programme channel="warnertvhd" channel-number="74" start="20260128082000 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">NHỮNG KẺ THÍCH ĐÙA DẠI DỘT - IMPRACTICAL JOKERS S8</title>
     <desc lang="vi">Chương trình này có thời lượng là 25 phút.</desc>
@@ -23124,10 +22749,8 @@
     <title lang="vi">HOÀNG TỬ VÙNG BEL-AIR - THE FRESH PRINCE OF BEL-AIR S1</title>
     <desc lang="vi">Chương trình này có thời lượng là 20 phút.</desc>
   </programme>
-  <channel id="woman" source="LICHPHATSONG">
-    <display-name lang="vi">Woman HD</display-name>
-    <display-number>94</display-number>
-    <icon src="https://image1.vnmedia.xyz/logo/woman.jpg" />
+  <channel id="woman" source="TRADA (BACKUP)">
+    <display-name lang="vi">Woman</display-name>
   </channel>
   <programme channel="woman" channel-number="94" start="20260128075500 +0700" stop="20260128084500 +0700" source="LICHPHATSONG">
     <title lang="vi">VUA ĐẦU BẾP MỸ - P14 - MASTERCHEF USA S14</title>
