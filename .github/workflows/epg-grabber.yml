@@ -5,7 +5,7 @@ on:
     # Giờ UTC = Giờ VN + 7
     - cron: "15 16 * * *" # ~23:15 VN
     - cron: "11 02 * * *" # ~09:11 VN
-    - cron: "21 07 * * *" # ~14:21 VN 
+    - cron: "29 07 * * *" # ~14:29 VN 
     - cron: "15 14 * * *" # ~21:15 VN
   workflow_dispatch: {}
 
