@@ -2,10 +2,10 @@ name: ▶️ EPG Grabber
 
 on:
   schedule:
-    # Giờ VN = Giờ UTC + 7
-    - cron: "09 16 * * *" # ~23:09 VN
-    - cron: "07 02 * * *" # ~09:08 VN
-    - cron: "11 07 * * *" # ~14:08 VN 
+    # Giờ UTC = Giờ VN + 7
+    - cron: "15 16 * * *" # ~23:15 VN
+    - cron: "11 02 * * *" # ~09:11 VN
+    - cron: "11 07 * * *" # ~14:11 VN 
     - cron: "15 14 * * *" # ~21:15 VN
   workflow_dispatch: {}
 
