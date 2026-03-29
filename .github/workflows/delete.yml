@@ -1,0 +1,22 @@
+name: Delete old workflow runs
+on:
+  # Chạy hàng ngày vào lúc 02:37 UTC (09:37 sáng GMT+7). 
+  # Giờ lẻ giúp tránh bị GitHub bỏ qua khi server quá tải.
+  schedule:
+    - cron: '37 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  del_runs:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - name: Delete workflow runs for remote repo
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: 'zaltvvn/live'
+          retain_days: 1
+          keep_minimum_runs: 3
