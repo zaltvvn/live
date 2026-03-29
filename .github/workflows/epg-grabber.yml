@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "15 16 * * *" # ~23:15 VN
     - cron: "11 02 * * *" # ~09:11 VN
-    - cron: "29 07 * * *" # ~14:29 VN 
+    - cron: "35 07 * * *" # ~14:35 VN 
     - cron: "25 14 * * *" # ~21:25 VN
   workflow_dispatch: {}
 
