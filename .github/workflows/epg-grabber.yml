@@ -3,7 +3,7 @@ name: ▶️ EPG Grabber
 on:
   schedule:
     - cron: "25 16 * * *" # ~23:25 VN
-    - cron: "21 02 * * *" # ~09:21 VN
+    - cron: "17 02 * * *" # ~09:17 VN
     - cron: "35 07 * * *" # ~14:35 VN 
     - cron: "25 14 * * *" # ~21:25 VN
   workflow_dispatch: {}
