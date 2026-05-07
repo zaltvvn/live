@@ -49,22 +49,28 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
-          # Xóa thư mục mã nguồn private
+          # Bước đột phá: Di chuyển file m3u vừa tạo ra ngoài thư mục làm việc để Git không cản đường
+          mv sports_mac.m3u ../sports_mac_temp.m3u
+          
+          # Xóa thư mục mã nguồn private (engine)
           rm -rf engine
           
           # Kéo thông tin nhánh m3u từ server về (nếu nhánh đã tồn tại)
           git fetch origin m3u || true
           
-          # Thử chuyển sang nhánh m3u. Nếu nhánh chưa có, tự động tạo mới (-b)
+          # Chuyển sang nhánh m3u một cách an toàn. Nếu chưa có thì tự tạo mới (-b)
           git checkout m3u || git checkout -b m3u
           
-          # Cập nhật file m3u
+          # Chép file m3u mới (đang giấu) đè lên lại thư mục hiện tại của nhánh m3u
+          mv ../sports_mac_temp.m3u sports_mac.m3u
+          
+          # Cập nhật Git
           git add sports_mac.m3u
           
+          # Kiểm tra nếu có thay đổi thì commit và push
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto update playlist"
-            # Lệnh push -u sẽ tự động thiết lập liên kết cho nhánh mới tạo
-            git push -u origin m3u
+            git push origin m3u
           fi
