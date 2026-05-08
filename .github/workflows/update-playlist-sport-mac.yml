@@ -2,23 +2,23 @@ name: Sync M3U Sports Mac Playlist
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
+    - cron: '0 */2 * * *' # Chạy mỗi 2 tiếng
+  workflow_dispatch: # Cho phép bấm chạy thủ công
 
 jobs:
   generate-m3u:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Cấp quyền ghi để push nhánh mới
+      contents: write
 
     steps:
-      # 1. Checkout repo (không fix cứng nhánh nữa)
+      # 1. Checkout repo chứa playlist công khai
       - name: Checkout live repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Quan trọng: Kéo toàn bộ lịch sử nhánh về để rẽ nhánh không bị lỗi
+          fetch-depth: 0
 
-      # 2. Checkout repo private chứa script
+      # 2. Checkout repo private chứa script (Dùng ENGINE_TOKEN)
       - name: Checkout engine repo
         uses: actions/checkout@v4
         with:
@@ -32,39 +32,42 @@ jobs:
         with:
           python-version: "3.x"
 
-      # 4. Cài đặt thư viện
+      # 4. Cài đặt FFmpeg (BẮT BUỘC để dùng ffprobe đo chất lượng video)
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      # 5. Cài đặt thư viện Python cần thiết
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests aiohttp
 
-      # 5. Chạy script (Nó sẽ tạo ra file playlist.m3u)
+      # 6. Chạy script (Quét chất lượng thật bằng ffprobe)
       - name: Run playlist Sports Mac engine
         run: |
           python engine/sports_mac.py
 
-      # 6. Xử lý Git: Tự tạo nhánh và Push
+      # 7. Xử lý Git: Đẩy file sports_mac.m3u lên nhánh m3u
       - name: Commit and push generated playlist Sports Mac
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
-          # Xóa thư mục mã nguồn private
+          # Xóa thư mục engine để bảo mật mã nguồn private trước khi commit
           rm -rf engine
           
-          # Kéo thông tin nhánh m3u từ server về (nếu nhánh đã tồn tại)
+          # Cấu hình nhánh
           git fetch origin m3u || true
-          
-          # Thử chuyển sang nhánh m3u. Nếu nhánh chưa có, tự động tạo mới (-b)
           git checkout m3u || git checkout -b m3u
           
-          # Cập nhật file m3u
+          # Chỉ add file kết quả
           git add sports_mac.m3u
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto update playlist"
-            # Lệnh push -u sẽ tự động thiết lập liên kết cho nhánh mới tạo
+            git commit -m "Auto update quality playlist with ffprobe"
             git push -u origin m3u
           fi
