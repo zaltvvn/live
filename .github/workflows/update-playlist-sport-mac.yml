@@ -3,7 +3,7 @@ name: Sync M3U Sports Mac Playlist
 on:
   schedule:
     - cron: '0 */2 * * *' # Chạy mỗi 2 tiếng
-  workflow_dispatch: # Cho phép bấm chạy thủ công
+  workflow_dispatch:
 
 jobs:
   generate-m3u:
@@ -12,13 +12,11 @@ jobs:
       contents: write
 
     steps:
-      # 1. Checkout repo chứa playlist công khai
       - name: Checkout live repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. Checkout repo private chứa script (Dùng ENGINE_TOKEN)
       - name: Checkout engine repo
         uses: actions/checkout@v4
         with:
@@ -26,45 +24,34 @@ jobs:
           path: engine
           token: ${{ secrets.ENGINE_TOKEN }}
 
-      # 3. Cài đặt Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      # 4. Cài đặt FFmpeg (BẮT BUỘC để dùng ffprobe đo chất lượng video)
+      # QUAN TRỌNG: Cài FFmpeg để đo chất lượng UHD/FHD/HD
       - name: Install FFmpeg
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      # 5. Cài đặt thư viện Python cần thiết
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests aiohttp
+          pip install aiohttp
 
-      # 6. Chạy script (Quét chất lượng thật bằng ffprobe)
       - name: Run playlist Sports Mac engine
         run: |
           python engine/sports_mac.py
 
-      # 7. Xử lý Git: Đẩy file sports_mac.m3u lên nhánh m3u
       - name: Commit and push generated playlist Sports Mac
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          
-          # Xóa thư mục engine để bảo mật mã nguồn private trước khi commit
           rm -rf engine
-          
-          # Cấu hình nhánh
           git fetch origin m3u || true
           git checkout m3u || git checkout -b m3u
-          
-          # Chỉ add file kết quả
           git add sports_mac.m3u
-          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
