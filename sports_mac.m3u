@@ -1,38 +1,32 @@
 #=================================
 # 📡 IPTV Sports Mac Channels
-# 🕒 Last Updated: 2026-05-22 04:17:13 AM
-# 📺 Channels Count : 117
+# 🕒 Last Updated: 2026-05-22 09:42:12 AM
+# 📺 Channels Count : 107
 #==================================
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="[FHD] Sky Sport Basket" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTNBA.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Sky Sport Basket
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136916.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="[FHD] Sky Sport F1" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTF1.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Sky Sport F1
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136927.ts
-#EXTINF:-1 tvg-id="SkySportLegend.it" tvg-name="[FHD] Sky Sport Legend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Legend_-_Logo_2025.svg/1024px-Sky_Sport_Legend_-_Logo_2025.svg.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Sky Sport Legend
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/285791.ts
-#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="[FHD] Sky Sport Max" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTMAX.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Sky Sport Max
+#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="[HD] Sky Sport Max" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTMAX.png" group-title="🇮🇹 ITALY | SPORTS",[HD] Sky Sport Max
 http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136924.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="[FHD] Sky Sport Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Sky Sport Mix
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/285792.ts
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="[FHD] Sky Sport Uno" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTUNO.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Sky Sport Uno
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="[HD] Sky Sport Uno" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTUNO.png" group-title="🇮🇹 ITALY | SPORTS",[HD] Sky Sport Uno
 http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136910.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport.it" tvg-name="[HD] |IT|  SKY SPORT BAR DUE ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHD.png" group-title="🇮🇹 ITALY | SPORTS",[HD] |IT|  SKY SPORT BAR DUE ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661356
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportnba.it" tvg-name="[FHD] |IT| SKY SPORT NBA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTNBA.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] |IT| SKY SPORT NBA ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661335
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsTennis.uk" tvg-name="[FHD] |IT| SKY SPORT TENNIS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SUPERTENNIS.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] |IT| SKY SPORT TENNIS ᵁᴴᴰ
-http://lordstreams.live:80/9857855271/8369553594/661346
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportuno.it" tvg-name="[FHD] |IT| SKY SPORT UNO 1ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5020.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] |IT| SKY SPORT UNO 1ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsArena.uk" tvg-name="[FHD] |IT| SKY SPORT ARENA ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTARENA.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] |IT| SKY SPORT ARENA ᵁᴴᴰ
+http://lordstreams.live:80/9857855271/8369553594/661348
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="[FHD] |IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYCALCIOINFO.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] |IT| SKY SPORT CALCIO ᵁᴴᴰ
+http://lordstreams.live:80/9857855271/8369553594/661332
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsF1.uk" tvg-name="[HD] |IT| SKY SPORT F1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTHDF1.png" group-title="🇮🇹 ITALY | SPORTS",[HD] |IT| SKY SPORT F1 ᴴᴰ
+http://lordstreams.live:80/9857855271/8369553594/661342
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportuno.it" tvg-name="[HD] |IT| SKY SPORT UNO 1ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5020.png" group-title="🇮🇹 ITALY | SPORTS",[HD] |IT| SKY SPORT UNO 1ᴴᴰ
 http://lordstreams.live:80/9857855271/8369553594/661328
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportuno.it" tvg-name="[HD] |IT| SKY SPORT UNO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5020.png" group-title="🇮🇹 ITALY | SPORTS",[HD] |IT| SKY SPORT UNO ᴴᴰ
+http://lordstreams.live:80/9857855271/8369553594/661349
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SkySportsGolf.uk" tvg-name="[FHD] |IT|SKY SPORT GOLF ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTGOLF.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] |IT|SKY SPORT GOLF ᵁᴴᴰ
 http://lordstreams.live:80/9857855271/8369553594/661353
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="[FHD] TNT Sports 1[UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_1.png" group-title="🇬🇧 UK | SPORTS" catchup-days="0",[FHD] TNT Sports 1[UK]
 #EXTGRP:🇬🇧 UK | SPORTS
 http://ronaldo.tvfor.pro/Z6V9d48eGz/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2[UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_2.png" group-title="🇬🇧 UK | SPORTS" catchup-days="0",TNT Sports 2[UK]
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="[FHD] TNT Sports 2[UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_2.png" group-title="🇬🇧 UK | SPORTS" catchup-days="0",[FHD] TNT Sports 2[UK]
 #EXTGRP:🇬🇧 UK | SPORTS
 http://ronaldo.tvfor.pro/3Z76Abnp8N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="[FHD] TNT Sports 3[UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_3.png" group-title="🇬🇧 UK | SPORTS" catchup-days="0",[FHD] TNT Sports 3[UK]
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3[UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_3.png" group-title="🇬🇧 UK | SPORTS" catchup-days="0",TNT Sports 3[UK]
 #EXTGRP:🇬🇧 UK | SPORTS
 http://ronaldo.tvfor.pro/r25HTg8Sx7/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4[UK]" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_4.png" group-title="🇬🇧 UK | SPORTS" catchup-days="0",TNT Sports 4[UK]
@@ -48,6 +42,8 @@ http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102180
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102181
 #EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR|  Ligue 1 +5" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR|  Ligue 1 +5
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102182
+#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR|  Ligue 1 +6" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR|  Ligue 1 +6
+http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102183
 #EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR|  Ligue 1 +7" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR|  Ligue 1 +7
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1102184
 #EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR|  Ligue 1 +8" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR|  Ligue 1 +8
@@ -62,8 +58,6 @@ http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1567323
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1609306
 #EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR| Ligue 1+ 2 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR| Ligue 1+ 2 ʜᴅ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1567322
-#EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR| Ligue 1+ 3 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR| Ligue 1+ 3 ʜᴅ
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1567324
 #EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR| Ligue 1+ 4 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR| Ligue 1+ 4 ʜᴅ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1567325
 #EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR| Ligue 1+ 5 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR| Ligue 1+ 5 ʜᴅ
@@ -76,38 +70,28 @@ http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1609303
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1609304
 #EXTINF:-1 tvg-id="LiguePlus.fr" tvg-ID="" tvg-name="[HD] FR| Ligue 1+ 9 ʜᴅ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/08/14122528/Ligue1-900x600.jpg" group-title="🇫🇷 FRANCE | SPORTS",[HD] FR| Ligue 1+ 9 ʜᴅ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/1609305
-#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-ID="canalpluspremierleague.fr" tvg-name="[FHD] |FR|  CANAL+ PREMIER LEAGUE ᵁᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR|  CANAL+ PREMIER LEAGUE ᵁᴴᴰ
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/115870
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-ID="canalplussport360.fr" tvg-name="[HD] |FR|  CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="🇫🇷 FRANCE | SPORTS",[HD] |FR|  CANAL+ SPORT 360 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-ID="canalplussport360.fr" tvg-name="[FHD] |FR|  CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR|  CANAL+ SPORT 360 ᵁᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256628
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-ID="canalplussport.fr" tvg-name="[FHD] |FR|  CANAL+ SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR|  CANAL+ SPORT ᵁᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/32774
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-ID="canalplusfoot.fr" tvg-name="[HD] |FR| CANAL FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="🇫🇷 FRANCE | SPORTS",[HD] |FR| CANAL FOOT ᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-ID="canalplusfoot.fr" tvg-name="[FHD] |FR| CANAL FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR| CANAL FOOT ᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256631
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-ID="canalplusfoot.fr" tvg-name="[HD] |FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="🇫🇷 FRANCE | SPORTS",[HD] |FR| CANAL+ FOOT ᵁᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-ID="canalplusfoot.fr" tvg-name="[FHD] |FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR| CANAL+ FOOT ᵁᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256123
 #EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-ID="canalpluspremierleague.fr" tvg-name="[FHD] |FR| CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR| CANAL+ PREMIER LEAGUE ᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/114146
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-ID="canalplussport360.fr" tvg-name="[HD] |FR| CANAL+ Sport 360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="🇫🇷 FRANCE | SPORTS",[HD] |FR| CANAL+ Sport 360 ᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256122
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-ID="canalplussport360.fr" tvg-name="[HD] |FR| CANAL+ Sport 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="🇫🇷 FRANCE | SPORTS",[HD] |FR| CANAL+ Sport 360 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-ID="canalplussport360.fr" tvg-name="[FHD] |FR| CANAL+ Sport 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR| CANAL+ Sport 360 ᵁᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256124
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-ID="canalplussport.fr" tvg-name="[FHD] |FR| Canal+ Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="🇫🇷 FRANCE | SPORTS",[FHD] |FR| Canal+ Sport ᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/250
-#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="[HD] |FR| CANAL+ SPORT360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="🇫🇷 FRANCE | SPORTS",[HD] |FR| CANAL+ SPORT360 ᴴᴰ
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256630
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-ID="canalplussport.fr" tvg-name="[HD] |FR| CANAL+ SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="🇫🇷 FRANCE | SPORTS",[HD] |FR| CANAL+ SPORT ᵁᴴᴰ
+http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/250679
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="[FHD] Eurosport 1" tvg-logo="http://103.240.148.55:8080/files/Picon/EUROSPORT1.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Eurosport 1
 http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137237.ts
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="[FHD] Eurosport 2" tvg-logo="http://103.240.148.55:8080/files/Picon/EUROSPORT2.png" group-title="🇮🇹 ITALY | SPORTS",[FHD] Eurosport 2
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137240.ts
-#EXTINF:-1 tvg-id="beINSports1.es" tvg-name="[FHD] BEIN SPORT SP" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="🇪🇸 SPAIN | SPORTS",[FHD] BEIN SPORT SP
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="[HD] ESPN 2 MX HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70997_logo_espn_2.png" group-title="🇲🇽 MEXICO | SPORTS",[HD] ESPN 2 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11989
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="[FHD] ESPN 3 MX HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png" group-title="🇲🇽 MEXICO | SPORTS",[FHD] ESPN 3 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11990
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="[FHD] ESPNMX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="🇲🇽 MEXICO | SPORTS",[FHD] ESPNMX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11991
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="[HD] Rai sport 1" tvg-logo="http://103.240.148.55:8080/files/Picon/RAISPORT.png" group-title="🇮🇹 ITALY | SPORTS",[HD] Rai sport 1
+http://antman1.giize.com/live/valeri1./T9KJ65fzceats/137233.ts
 #EXTINF:-1 group-title="🇵🇹 PORTUGAL | SPORTS" tvg-logo="http://i120.fastpic.org/big/2022/1002/c9/1fd69b23165beb5dffff35db90aa3bc9.png",[FHD] ELEVEN SPORTS 1 HD
 http://bocian.io:8880/NL753811/552284900/105525
 #EXTINF:-1 group-title="🇵🇹 PORTUGAL | SPORTS" tvg-logo="http://i120.fastpic.org/big/2022/1002/97/f64619a7536f43d291f14fde0670c297.png",[FHD] ELEVEN SPORTS 2 HD
@@ -116,38 +100,30 @@ http://bocian.io:8880/NL753811/552284900/105526
 http://bocian.io:8880/NL753811/552284900/105527
 #EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="[FHD] PT : ELEVEN SPORTS 4" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jA7wwxHBQ5oQMqflHAslyTkZ2fPC0Xm4XqpNzUzqrhzGw.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : ELEVEN SPORTS 4
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412213.ts
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="[FHD] PT : ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jB-z0w0t8WBVKOdiEtyPwqwYw6PXheWsnGn7_9L0Hsblw.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : ELEVEN SPORTS 3ᶠᴴᴰ
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="[HD] PT : ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jB-z0w0t8WBVKOdiEtyPwqwYw6PXheWsnGn7_9L0Hsblw.png" group-title="🇵🇹 PORTUGAL | SPORTS",[HD] PT : ELEVEN SPORTS 3ᶠᴴᴰ
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412212.ts
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[FHD] PT : SPORT TV 3" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV 3
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412251.ts
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="[FHD] PT : SPORT TV 4" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBFoQrbeelLMY8-Txy1a3ac.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV 4
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412258.ts
-#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="[FHD] PT : SPORT TV +" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV +
+#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="[HD] PT : SPORT TV +" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="🇵🇹 PORTUGAL | SPORTS",[HD] PT : SPORT TV +
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412231.ts
-#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="[FHD] PT : SPORT TV + ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV + ᶠᴴᴰ
+#EXTINF:-1 tvg-id="SportTVMais.pt" tvg-name="[HD] PT : SPORT TV + ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="🇵🇹 PORTUGAL | SPORTS",[HD] PT : SPORT TV + ᶠᴴᴰ
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412234.ts
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="[HD] PT : SPORT TV 1UHD HEVC" tvg-logo="" group-title="🇵🇹 PORTUGAL | SPORTS",[HD] PT : SPORT TV 1UHD HEVC
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412236.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="[FHD] PT : SPORT TV 1 ᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/145ab6f9e5c19d2bfa60ec2bcedf6195.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV 1 ᴴᴰ
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412242.ts
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[FHD] PT : SPORT TV 3 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV 3 ᶠᴴᴰ
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412257.ts
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="[FHD] PT : SPORT TV 4 LOW" tvg-logo="" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV 4 LOW
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412262.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="[HD] PT : SPORT TV 4 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAR3vv3CG5FAvTYKy5wfCRcfEixv6mklokxEnzgukgtmg.png" group-title="🇵🇹 PORTUGAL | SPORTS",[HD] PT : SPORT TV 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="[FHD] PT : SPORT TV 4 ᶠᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAR3vv3CG5FAvTYKy5wfCRcfEixv6mklokxEnzgukgtmg.png" group-title="🇵🇹 PORTUGAL | SPORTS",[FHD] PT : SPORT TV 4 ᶠᴴᴰ
 http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412263.ts
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="[HD] PT : SPORTV 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/145ab6f9e5c19d2bfa60ec2bcedf6195.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] PT : SPORTV 1 HD
-http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412282.ts
-#EXTINF:-1 tvg-id="" tvg-name="[HD] FOX SPORTMEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="🇲🇽 MEXICO | SPORTS",[HD] FOX SPORTMEX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12008
-#EXTINF:-1 tvg-id="" tvg-name="[FHD] FOX SPORT 2MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="🇲🇽 MEXICO | SPORTS",[FHD] FOX SPORT 2MEX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12009
-#EXTINF:-1 tvg-id="" tvg-name="[FHD] FOX SPORT 3MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="🇲🇽 MEXICO | SPORTS",[FHD] FOX SPORT 3MEX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12010
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT : SPORT TV 6 HD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCwe_syK6zUHwcQfySMZGeH.png" group-title="🇵🇹 PORTUGAL | SPORTS",PT : SPORT TV 6 HD
+http://totalplay.site:80/KanDPaUl22/G4utUQvc6M/412273.ts
+#EXTINF:-1 tvg-id="ESPN1.nl" tvg-name="[FHD] |NL| ESPN 1 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| ESPN 1 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580801
 #EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="[FHD] |NL| ESPN 2 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| ESPN 2 4K
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580802
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="[FHD] |NL| ESPN 3 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| ESPN 3 4K
-http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580803
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="[FHD] |NL| ESPN 4 4K" tvg-logo="http://logo.ottcst.info/ESPN.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| ESPN 4 4K
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580804
 #EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="[FHD] |NL| EUROSPORT 1 4K" tvg-logo="http://logo.ottcst.info/EUROSPORT1.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| EUROSPORT 1 4K
@@ -162,32 +138,36 @@ http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580811
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580808
 #EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="[FHD] |NL| ZIGGO SPORT 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORT.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| ZIGGO SPORT 4K
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580805
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-ID="arenasport1.hr" tvg-name="[FHD] |EXYU| ARENA SPORT 1 HKURD: (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_1_HD.png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| ARENA SPORT 1 HKURD: (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79789
+#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-name="[FHD] |NL| ZIGGO SPORT 5 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTDOCU.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| ZIGGO SPORT 5 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580809
+#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="[FHD] |NL| ZIGGO SPORT 6 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTTENNIS.png" group-title="🇳🇱 NETHERLANDS | SPORTS",[FHD] |NL| ZIGGO SPORT 6 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580810
+#EXTINF:-1 tvg-ID="" tvg-name="[FHD] |EXYU| ARENA PREMIUM 1" tvg-logo="" group-title="🌍 EX-YU TỔNG HỢP",[FHD] |EXYU| ARENA PREMIUM 1
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/678197
+#EXTINF:-1 tvg-ID="" tvg-name="[FHD] |EXYU| ARENA PREMIUM 2" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_2_HD.png" group-title="🌍 EX-YU TỔNG HỢP",[FHD] |EXYU| ARENA PREMIUM 2
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192159
+#EXTINF:-1 tvg-id="ArenaSport1BiH.bh" tvg-ID="" tvg-name="[HD] |EXYU| ARENA SPORT 1 BIH" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_1_HD.png" group-title="🇧🇦 BOSNIA | SPORTS",[HD] |EXYU| ARENA SPORT 1 BIH
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79784
+#EXTINF:-1 tvg-ID="" tvg-name="[FHD] |EXYU| ARENA SPORT 1 HKURD: (SR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_1_HD.png" group-title="🌍 EX-YU TỔNG HỢP",[FHD] |EXYU| ARENA SPORT 1 HKURD: (SR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79785
 #EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-ID="arenasport10.hr" tvg-name="[FHD] |EXYU| ARENA SPORT 10|HR|" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_10_HD.png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| ARENA SPORT 10|HR|
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192165
-#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-ID="arenasport2.hr" tvg-name="[FHD] |EXYU| ARENA SPORT 2 HKURD: (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_2_HD.png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| ARENA SPORT 2 HKURD: (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79790
-#EXTINF:-1 tvg-ID="" tvg-name="[FHD] |EXYU| ARENA SPORT 2 HKURD: (SR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_2_HD.png" group-title="🌍 EX-YU TỔNG HỢP",[FHD] |EXYU| ARENA SPORT 2 HKURD: (SR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79786
-#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-ID="arenasport3.hr" tvg-name="[FHD] |EXYU| ARENA SPORT 3 HKURD: (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_3_HD..png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| ARENA SPORT 3 HKURD: (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79791
 #EXTINF:-1 tvg-ID="" tvg-name="[FHD] |EXYU| ARENA SPORT 3 HKURD: (SR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_3_HD..png" group-title="🌍 EX-YU TỔNG HỢP",[FHD] |EXYU| ARENA SPORT 3 HKURD: (SR)
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79787
 #EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-ID="arenasport4.hr" tvg-name="[HD] |EXYU| ARENA SPORT 4 HKURD: (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_4_HD.png" group-title="🇭🇷 CROATIA | SPORTS",[HD] |EXYU| ARENA SPORT 4 HKURD: (HR)
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79792
 #EXTINF:-1 tvg-id="ArenaSport6.hr" tvg-ID="arenasport6.hr" tvg-name="[FHD] |EXYU| ARENA SPORT 6|HR|" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_6_HD.png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| ARENA SPORT 6|HR|
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192161
+#EXTINF:-1 tvg-id="ArenaSport7.hr" tvg-ID="arenasport7.hr" tvg-name="[FHD] |EXYU| ARENA SPORT 7|HR|" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_7_HD..png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| ARENA SPORT 7|HR|
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192162
+#EXTINF:-1 tvg-id="ArenaSport9.hr" tvg-ID="arenasport9.hr" tvg-name="[FHD] |EXYU| ARENA SPORT 9|HR|" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_9_HD..png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| ARENA SPORT 9|HR|
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192164
 #EXTINF:-1 tvg-id="ArenaSportPremium2.bh" tvg-ID="" tvg-name="[FHD] |EXYU| ARENA SPORT PREMIUM 2[BACKUP]" tvg-logo="" group-title="🇧🇦 BOSNIA | SPORTS",[FHD] |EXYU| ARENA SPORT PREMIUM 2[BACKUP]
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/678199
 #EXTINF:-1 tvg-id="ArenaSportPremium3.bh" tvg-ID="" tvg-name="[FHD] |EXYU| ARENA SPORT PREMIUM 3[BACKUP]" tvg-logo="" group-title="🇧🇦 BOSNIA | SPORTS",[FHD] |EXYU| ARENA SPORT PREMIUM 3[BACKUP]
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/678200
-#EXTINF:-1 tvg-ID="" tvg-name="[FHD] |EXYU| EUROSPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/EUROSPORT_2_HD.png" group-title="🌍 EX-YU TỔNG HỢP",[FHD] |EXYU| EUROSPORT 2 HD
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79795
-#EXTINF:-1 tvg-id="SportKlub1.hr" tvg-ID="" tvg-name="|EXYU| SPORT KLUB 1(HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/Sport_Klub_1_HD_HR.png" group-title="🇭🇷 CROATIA | SPORTS",|EXYU| SPORT KLUB 1(HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79774
-#EXTINF:-1 tvg-id="SportKlub4.hr" tvg-ID="" tvg-name="[FHD] |EXYU| SPORT KLUB 4 (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/Sport_Klub_4_HD_HR.png" group-title="🇭🇷 CROATIA | SPORTS",[FHD] |EXYU| SPORT KLUB 4 (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79777
+#EXTINF:-1 tvg-id="SportKlub5.hr" tvg-ID="" tvg-name="[HD] |EXYU| SPORT KLUB 5 (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/Sport_Klub_5_HD_HR.png" group-title="🇭🇷 CROATIA | SPORTS",[HD] |EXYU| SPORT KLUB 5 (HR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79778
 #EXTINF:0,[HD] Setanta Sport Moldova
 http://rr2.vip2ip.com/~301736870633659706B394B427A6F/63395/hls/pl.m3u8
 #EXTINF:0,[HD] Setanta Sport Premium UA
@@ -224,21 +204,21 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20096/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20097/index.m3u8
 #EXTINF:-1 tvg-id="PimpleTV5.vn" group-title="🌍 GLOBAL | SPORTS",[HD] Pimple TV 5
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20098/index.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="[FHD] SPORTV 2 FHD²" tvg-logo="https://i.postimg.cc/RVZHbCNB/SporTV2FHD².png" group-title="🇧🇷 BRAZIL | SPORTS",[FHD] SPORTV 2 FHD²
-http://ssrv88.com:80/7897442120/8964203798/205564.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="[HD] SPORTV 2 FHD¹" tvg-logo="https://i.postimg.cc/gcDhDLcs/SporTV2FHD.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV 2 FHD¹
-http://ssrv88.com:80/7897442120/8964203798/205563.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="[HD] SPORTV 2 H265" tvg-logo="https://i.postimg.cc/g0FrdGkr/SporTV2265.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV 2 H265
+http://ssrv88.com:80/7897442120/8964203798/205561.ts
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="[FHD] SPORTV 2 H264²" tvg-logo="https://i.postimg.cc/kgtDk2Ck/SporTV2264.png" group-title="🇧🇷 BRAZIL | SPORTS",[FHD] SPORTV 2 H264²
 http://ssrv88.com:80/7897442120/8964203798/205562.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="[HD] SPORTV 2 HD¹" tvg-logo="https://i.postimg.cc/zX2gmmgR/SporTV2HD.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV 2 HD¹
-http://ssrv88.com:80/7897442120/8964203798/205565.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[FHD] SPORTV 3 FHD²" tvg-logo="https://i.postimg.cc/MHKv4tZD/SporTV3FHD².png" group-title="🇧🇷 BRAZIL | SPORTS",[FHD] SPORTV 3 FHD²
+http://ssrv88.com:80/7897442120/8964203798/205572.ts
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[HD] SPORTV 3 FHD¹" tvg-logo="https://i.postimg.cc/zBky04Nv/SporTV3FHD.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV 3 FHD¹
 http://ssrv88.com:80/7897442120/8964203798/205571.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[HD] SPORTV 3 H265" tvg-logo="https://i.postimg.cc/9McMR19h/SporTV3265.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV 3 H265
-http://ssrv88.com:80/7897442120/8964203798/205569.ts
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="[HD] SPORTV 4k" tvg-logo="https://i.postimg.cc/L5X8vXvQ/SporTV-ESPN.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV 4k
-http://ssrv88.com:80/7897442120/8964203798/205552.ts
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="[HD] SPORTV H264²" tvg-logo="https://i.postimg.cc/WbNGL6Yx/SporTV_264.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV H264²
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[FHD] SPORTV 3 H264²" tvg-logo="https://i.postimg.cc/VNqvk2dg/SporTV3264.png" group-title="🇧🇷 BRAZIL | SPORTS",[FHD] SPORTV 3 H264²
+http://ssrv88.com:80/7897442120/8964203798/205570.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[HD] SPORTV 3 HD²" tvg-logo="https://i.postimg.cc/h4pJxFM3/SporTV3HD².png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV 3 HD²
+http://ssrv88.com:80/7897442120/8964203798/205574.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="[FHD] SPORTV FHD¹" tvg-logo="https://i.postimg.cc/bNmQzDKr/SporTV_FHD.png" group-title="🇧🇷 BRAZIL | SPORTS",[FHD] SPORTV FHD¹
+http://ssrv88.com:80/7897442120/8964203798/205555.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="[FHD] SPORTV H264²" tvg-logo="https://i.postimg.cc/WbNGL6Yx/SporTV_264.png" group-title="🇧🇷 BRAZIL | SPORTS",[FHD] SPORTV H264²
 http://ssrv88.com:80/7897442120/8964203798/205554.ts
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="[HD] SPORTV HD¹" tvg-logo="https://i.postimg.cc/HkKXMGWC/SporTV_HD.png" group-title="🇧🇷 BRAZIL | SPORTS",[HD] SPORTV HD¹
 http://ssrv88.com:80/7897442120/8964203798/205557.ts
