@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Tải repo engine (Sử dụng cấu hình bạn cung cấp)
+      # 1. Tải repo engine chứa mã nguồn
       - name: Checkout repo engine
         uses: actions/checkout@v4
         with:
@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 3. Chạy script (Cần trỏ vào thư mục engine/)
+      # 3. Chạy script
       - name: Chạy Script xử lý M3U
         run: |
           pip install requests
@@ -35,8 +35,8 @@ jobs:
           # Tạo thư mục rỗng làm kho lưu trữ ảo
           mkdir temp_deploy
           
-          # Đưa file m3u vừa tạo từ thư mục engine vào temp_deploy, đổi tên thành index.m3u
-          cp engine/iptv_processed.m3u temp_deploy/index.m3u
+          # Đưa file m3u vừa tạo vào temp_deploy (SỬA LỖI Ở ĐÂY: bỏ chữ engine/)
+          cp iptv_processed.m3u temp_deploy/index.m3u
           
           cd temp_deploy
           
