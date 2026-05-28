@@ -1,0 +1,54 @@
+name: Xuất Playlist IPTV-ORG
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  export-playlist-virtual:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Tải repo engine (Sử dụng cấu hình bạn cung cấp)
+      - name: Checkout repo engine
+        uses: actions/checkout@v4
+        with:
+          repository: zaltvvn/engine
+          path: engine
+          token: ${{ secrets.ENGINE_TOKEN }}
+
+      # 2. Cài đặt Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Chạy script (Cần trỏ vào thư mục engine/)
+      - name: Chạy Script xử lý M3U
+        run: |
+          pip install requests
+          python engine/playlist_iptv_org.py
+
+      # 4. Tạo nhánh ảo và Force Push sang zaltvvn/live
+      - name: Deploy lên nhánh ảo live/playlist
+        run: |
+          # Tạo thư mục rỗng làm kho lưu trữ ảo
+          mkdir temp_deploy
+          
+          # Đưa file m3u vừa tạo từ thư mục engine vào temp_deploy, đổi tên thành index.m3u
+          cp engine/iptv_processed.m3u temp_deploy/index.m3u
+          
+          cd temp_deploy
+          
+          # Khởi tạo nhánh ảo
+          git init -b live/playlist
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Commit file
+          git add index.m3u
+          git commit -m "🔄 Tự động cập nhật playlist mới nhất"
+          
+          # Ghi đè sang repo zaltvvn/live
+          git remote add origin https://${{ secrets.ENGINE_TOKEN }}@github.com/zaltvvn/live.git
+          git push origin live/playlist --force
