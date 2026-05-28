@@ -1,7 +1,8 @@
 name: Xuất Playlist IPTV-ORG
+
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,19 +30,19 @@ jobs:
           pip install requests
           python engine/playlist_iptv_org.py
 
-      # 4. Tạo nhánh ảo và Force Push sang zaltvvn/live
-      - name: Deploy lên nhánh ảo live/playlist
+      # 4. Tạo nhánh ảo 'playlist' và Force Push sang zaltvvn/live
+      - name: Deploy lên nhánh ảo playlist
         run: |
           # Tạo thư mục rỗng làm kho lưu trữ ảo
           mkdir temp_deploy
           
-          # Đưa file m3u vừa tạo vào temp_deploy (SỬA LỖI Ở ĐÂY: bỏ chữ engine/)
+          # Đưa file m3u vừa tạo vào temp_deploy
           cp iptv_processed.m3u temp_deploy/index.m3u
           
           cd temp_deploy
           
-          # Khởi tạo nhánh ảo
-          git init -b live/playlist
+          # Khởi tạo nhánh ảo với tên mới là 'playlist'
+          git init -b playlist
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
@@ -49,6 +50,6 @@ jobs:
           git add index.m3u
           git commit -m "🔄 Tự động cập nhật playlist mới nhất"
           
-          # Ghi đè sang repo zaltvvn/live
+          # Ghi đè sang repo zaltvvn/live vào nhánh playlist
           git remote add origin https://${{ secrets.ENGINE_TOKEN }}@github.com/zaltvvn/live.git
-          git push origin live/playlist --force
+          git push origin playlist --force
