@@ -1,0 +1,49 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Public Repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Lấy toàn bộ lịch sử để có thể chuyển nhánh trơn tru
+
+    - name: Checkout Private Engine Repo
+      uses: actions/checkout@v3
+      with:
+        repository: zaltvvn/engine
+        token: ${{ secrets.ENGINE_TOKEN }}
+        path: engine
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: pip install aiohttp
+      
+    - name: Run checker
+      env:
+        TV_M3U_SOURCE_URL: ${{ secrets.TV_M3U_SOURCE_URL }}
+      run: python engine/playlist_iptv_org_check.py
+      
+    - name: Commit and push changes to iptv-org branch
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Kiểm tra và chuyển sang nhánh iptv-org (Tạo mới nếu chưa tồn tại)
+        git checkout iptv-org 2>/dev/null || git checkout -b iptv-org
+        
+        # Thêm các file .m3u vừa được tạo
+        git add *.m3u
+        
+        # Commit và Push thẳng lên nhánh iptv-org
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update IPTV channels via Async" && git push origin iptv-org)
