@@ -1,4 +1,4 @@
-name: Update M3U Playlist
+name: Update M3U Playlist IPTV-ORG
 
 on:
   schedule:
@@ -39,11 +39,23 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Checkout hoặc tạo nhánh
-        git checkout iptv-org 2>/dev/null || git checkout -b iptv-org
+        # 1. Tạm thời chuyển các file .m3u vừa tạo ra chỗ an toàn (để không bị xóa)
+        mkdir -p /tmp/m3u-output
+        mv *.m3u /tmp/m3u-output/ 2>/dev/null || true
         
-        # Thêm các file vừa được tạo
+        # 2. Tạo nhánh mồ côi (trống hoàn toàn) tên là iptv-org
+        git checkout --orphan iptv-org
+        
+        # 3. Xóa bỏ tất cả các file cũ đang được Git track (như .github, CNAME...)
+        git rm -rf .
+        
+        # Dọn dẹp cả những file không được track (nếu cần)
+        git clean -fdx
+        
+        # 4. Đưa các file .m3u trở lại thư mục hiện tại
+        mv /tmp/m3u-output/*.m3u ./
+        
+        # 5. Add, Commit và Force Push thẳng lên remote
         git add *.m3u
-        
-        # Commit và FORCE PUSH để ghi đè lịch sử trên remote
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update IPTV channels via Async" && git push -f origin iptv-org)
+        git commit -m "Auto-update IPTV channels via Async"
+        git push -f origin iptv-org
