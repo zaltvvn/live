@@ -39,11 +39,11 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Kiểm tra và chuyển sang nhánh iptv-org (Tạo mới nếu chưa tồn tại)
+        # Checkout hoặc tạo nhánh
         git checkout iptv-org 2>/dev/null || git checkout -b iptv-org
         
-        # Thêm các file .m3u vừa được tạo
+        # Thêm các file vừa được tạo
         git add *.m3u
         
-        # Commit và Push thẳng lên nhánh iptv-org
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update IPTV channels via Async" && git push origin iptv-org)
+        # Commit và FORCE PUSH để ghi đè lịch sử trên remote
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update IPTV channels via Async" && git push -f origin iptv-org)
