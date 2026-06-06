@@ -82,6 +82,9 @@ https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
 
+#EXTINF:-1 tvg-id="WarnerTVAsia.us@SD" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner TV
+https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
+
 #EXTINF:-1 tvg-id="VisionPrime.id@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
