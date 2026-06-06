@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Indonesia",AXN
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id@SD" tvg-logo="https://i.imgur.com/jjuKnYs.png" http-referrer="maxstream.tv/tv-channels" group-title="Indonesia",GTV
@@ -42,15 +43,20 @@ https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="Movies" tvg-logo="https://i.imgur.com/c8crJfA.png",CINEMAX
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png",HBO Family
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" group-title="Movies" tvg-logo="https://i.imgur.com/CTjmocc.png",HBO Hits
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@SD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png",HBO Signature
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-logo="https://i.imgur.com/l6lmlqG.png" http-referrer="maxstream.tv/tv-channels" group-title="International",ROCK Action (720p)
@@ -69,9 +75,11 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png",Indosiar
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
 https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="VisionPrime.id@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime
