@@ -1,0 +1,61 @@
+name: Update M3U Playlist Link IPTV-ORG
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Public Repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Lấy toàn bộ lịch sử để có thể chuyển nhánh trơn tru
+
+    - name: Checkout Private Engine Repo
+      uses: actions/checkout@v3
+      with:
+        repository: zaltvvn/engine
+        token: ${{ secrets.ENGINE_TOKEN }}
+        path: engine
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: pip install aiohttp
+      
+    - name: Run checker
+      env:
+        TV_M3U_SOURCE_URL: ${{ secrets.TV_M3U_SOURCE_URL }}
+      run: python engine/playlist_iptv_org_check_link.py
+      
+    - name: Commit and push changes to iptv-org branch
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # 1. Tạm thời chuyển các file .m3u vừa tạo ra chỗ an toàn (để không bị xóa)
+        mkdir -p /tmp/m3u-output
+        mv *.m3u /tmp/m3u-output/ 2>/dev/null || true
+        
+        # 2. Tạo nhánh mồ côi (trống hoàn toàn) tên là iptv-org-link
+        git checkout --orphan iptv-org-link
+        
+        # 3. Xóa bỏ tất cả các file cũ đang được Git track (như .github, CNAME...)
+        git rm -rf .
+        
+        # Dọn dẹp cả những file không được track (nếu cần)
+        git clean -fdx
+        
+        # 4. Đưa các file .m3u trở lại thư mục hiện tại
+        mv /tmp/m3u-output/*.m3u ./
+        
+        # 5. Add, Commit và Force Push thẳng lên remote
+        git add *.m3u
+        git commit -m "Auto-update IPTV channels via Async"
+        git push -f origin iptv-org
