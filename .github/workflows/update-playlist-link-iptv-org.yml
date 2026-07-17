@@ -58,4 +58,4 @@ jobs:
         # 5. Add, Commit và Force Push thẳng lên remote
         git add *.m3u
         git commit -m "Auto-update IPTV channels via Async"
-        git push -f origin iptv-org
+        git push -f origin iptv-org-link
