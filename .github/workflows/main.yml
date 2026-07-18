@@ -27,7 +27,7 @@ jobs:
       # 3. Chạy script
       - name: Chạy Script xử lý M3U
         run: |
-          pip install requests
+          pip install aiohttp requests
           python engine/playlist_iptv_org.py
 
       # 4. Tạo nhánh ảo 'playlist' và Force Push sang zaltvvn/live
@@ -37,7 +37,7 @@ jobs:
           mkdir temp_deploy
           
           # Đưa file m3u vừa tạo vào temp_deploy
-          cp iptv_processed.m3u temp_deploy/index.m3u
+          cp index.m3u temp_deploy/index.m3u
           
           cd temp_deploy
           
