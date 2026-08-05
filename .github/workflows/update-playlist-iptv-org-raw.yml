@@ -24,13 +24,26 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 3. Chạy script
+      # 3. Phục hồi và lưu trữ Cache JSON (BƯỚC THÊM MỚI)
+      - name: Cache JSON logos
+        uses: actions/cache@v4
+        with:
+          path: |
+            github_logos.json
+            iptv_logos.json
+          # Tạo key mới cho mỗi lần chạy để luôn cập nhật cache mới nhất
+          key: logos-json-${{ github.run_id }}
+          # Phục hồi cache từ lần chạy gần nhất có prefix này
+          restore-keys: |
+            logos-json-
+
+      # 4. Chạy script
       - name: Chạy Script xử lý M3U
         run: |
           pip install aiohttp requests
           python engine/playlist_iptv_orgv1.py
 
-      # 4. Tạo nhánh ảo 'playlist' và Force Push sang zaltvvn/live
+      # 5. Tạo nhánh ảo 'playlist' và Force Push sang zaltvvn/live
       - name: Deploy lên nhánh ảo playlist
         run: |
           # Tạo thư mục rỗng làm kho lưu trữ ảo
@@ -41,7 +54,7 @@ jobs:
           
           cd temp_deploy
           
-          # Khởi tạo nhánh ảo với tên mới là 'playlist'
+          # Khởi tạo nhánh ảo với tên mới là 'iptv-org-raw'
           git init -b iptv-org-raw
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -50,6 +63,6 @@ jobs:
           git add index.m3u
           git commit -m "🔄 Tự động cập nhật playlist mới nhất"
           
-          # Ghi đè sang repo zaltvvn/live vào nhánh playlist
+          # Ghi đè sang repo zaltvvn/live vào nhánh iptv-org-raw
           git remote add origin https://${{ secrets.ENGINE_TOKEN }}@github.com/zaltvvn/live.git
           git push origin iptv-org-raw --force
