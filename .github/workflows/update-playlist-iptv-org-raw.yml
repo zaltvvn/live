@@ -24,16 +24,14 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 3. Phục hồi và lưu trữ Cache JSON (BƯỚC THÊM MỚI)
+      # 3. Phục hồi và lưu trữ Cache JSON
       - name: Cache JSON logos
         uses: actions/cache@v4
         with:
           path: |
-            github_logos.json
-            iptv_logos.json
-          # Tạo key mới cho mỗi lần chạy để luôn cập nhật cache mới nhất
+            engine/github_logos.json
+            engine/iptv_logos.json
           key: logos-json-${{ github.run_id }}
-          # Phục hồi cache từ lần chạy gần nhất có prefix này
           restore-keys: |
             logos-json-
 
