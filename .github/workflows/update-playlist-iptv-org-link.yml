@@ -29,46 +29,47 @@ jobs:
     - name: Install dependencies
       run: pip install aiohttp requests
 
-    # BƯỚC THÊM MỚI: Phục hồi và lưu trữ Cache JSON (Dùng chung kho cache)
-    - name: Cache JSON logos
+    # Phục hồi và lưu trữ Cache JSON
+    - name: Cache JSON logos and data
       uses: actions/cache@v4
       with:
+        # Nhắm tới mọi file json sinh ra trong thư mục chạy script
         path: |
-          github_logos.json
-          iptv_logos.json
-          engine/github_logos.json
-          engine/iptv_logos.json
-        key: logos-json-${{ github.run_id }}
+          *.json
+        # Dùng key cố định kết hợp restore-keys để luôn tận dụng lại được cache cũ nhất có thể
+        key: iptv-logos-cache-${{ runner.os }}-${{ github.run_number }}
         restore-keys: |
-          logos-json-
-      
+          iptv-logos-cache-${{ runner.os }}-
+          iptv-logos-cache-
+       
     - name: Run checker
       env:
         TV_M3U_SOURCE_URL: ${{ secrets.TV_M3U_SOURCE_URL }}
       run: python engine/playlist_iptv_org_check_link.py
-      
+       
     - name: Commit and push changes to iptv-org branch
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # 1. Tạm thời chuyển các file .m3u vừa tạo ra chỗ an toàn (để không bị xóa)
-        mkdir -p /tmp/m3u-output
-        mv *.m3u /tmp/m3u-output/ 2>/dev/null || true
+        # 1. BẢO VỆ CACHE & M3U: Chuyển các file cần giữ lại ra thư mục tạm
+        mkdir -p /tmp/safe-output
+        mv *.m3u /tmp/safe-output/ 2>/dev/null || true
+        mv *.json /tmp/safe-output/ 2>/dev/null || true
         
-        # 2. Tạo nhánh mồ côi (trống hoàn toàn) tên là iptv-org-link
+        # 2. Tạo nhánh mồ côi (trống hoàn toàn)
         git checkout --orphan iptv-org-link
         
-        # 3. Xóa bỏ tất cả các file cũ đang được Git track (như .github, CNAME...)
+        # 3. Xóa bỏ tất cả các file cũ đang được Git track
         git rm -rf .
         
-        # Dọn dẹp cả những file không được track (nếu cần)
+        # Dọn dẹp cả những file không được track (Giờ thì an toàn vì file .json và .m3u đã ở /tmp)
         git clean -fdx
         
-        # 4. Đưa các file .m3u trở lại thư mục hiện tại
-        mv /tmp/m3u-output/*.m3u ./
+        # 4. Đưa các file .m3u và .json trở lại thư mục hiện tại
+        mv /tmp/safe-output/* ./ 2>/dev/null || true
         
-        # 5. Add, Commit và Force Push thẳng lên remote
+        # 5. Add, Commit và Force Push (Chỉ push file M3U lên Github Repo, JSON vẫn ở lại để Cache save ở Post-run)
         git add *.m3u
         git commit -m "Auto-update IPTV channels via Async"
         git push -f origin iptv-org-link
