@@ -1,0 +1,70 @@
+name: Update M3U Playlist Link IPTV-ORG-LINK
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout Private Engine Repo
+        uses: actions/checkout@v4
+        with:
+          repository: zaltvvn/engine
+          token: ${{ secrets.ENGINE_TOKEN }}
+          path: engine
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install aiohttp requests
+
+      - name: Cache JSON logos and data
+        uses: actions/cache@v4
+        with:
+          path: |
+            *.json
+          key: iptv-logos-cache-${{ runner.os }}-${{ github.run_number }}
+          restore-keys: |
+            iptv-logos-cache-${{ runner.os }}-
+            iptv-logos-cache-
+
+      - name: Run checker
+        env:
+          TV_M3U_SOURCE_URL: ${{ secrets.TV_M3U_SOURCE_URL }}
+        run: python engine/playlist_iptv_org.py
+
+      - name: Commit and push changes to iptv-org branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # 1. BẢO VỆ CACHE & M3U: Chuyển các file cần giữ lại ra thư mục tạm
+          mkdir -p /tmp/safe-output
+          mv *.m3u /tmp/safe-output/ 2>/dev/null || true
+          mv *.json /tmp/safe-output/ 2>/dev/null || true
+
+          # 2. Tạo nhánh mồ côi (trống hoàn toàn)
+          git checkout --orphan iptv-org
+
+          # 3. Xóa bỏ tất cả các file cũ đang được Git track
+          git rm -rf .
+          git clean -fdx
+
+          # 4. Đưa các file .m3u và .json trở lại thư mục hiện tại (Sẽ bao gồm cả 2 file m3u)
+          mv /tmp/safe-output/* ./ 2>/dev/null || true
+
+          # 5. Add, Commit và Force Push
+          git add *.m3u
+          git commit -m "🚀 Auto-update IPTV channels (Checked & Unchecked version)"
+          git push -f origin iptv-org
