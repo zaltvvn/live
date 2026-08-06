@@ -1,8 +1,8 @@
-name: Xuất Playlist IPTV-ORG
+name: Update M3U Playlist Link IPTV-ORG_RAW
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 jobs:
