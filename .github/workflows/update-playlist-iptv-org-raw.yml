@@ -1,0 +1,59 @@
+name: Xuất Playlist IPTV-ORG
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  export-playlist-virtual:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo engine
+        uses: actions/checkout@v4
+        with:
+          repository: zaltvvn/engine
+          path: engine
+          token: ${{ secrets.ENGINE_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Cache JSON logos
+        uses: actions/cache@v4
+        with:
+          path: |
+            *.json
+          key: iptv-logos-cache-${{ runner.os }}-${{ github.run_number }}
+          restore-keys: |
+            iptv-logos-cache-${{ runner.os }}-
+            iptv-logos-cache-
+
+      - name: Chạy Script xử lý M3U
+        run: |
+          pip install requests
+          python engine/playlist_iptv_org_raw.py
+
+      - name: Deploy lên nhánh ảo playlist
+        run: |
+          mkdir temp_deploy
+
+          # Copy CẢ 2 FILE vào thư mục rỗng
+          cp index.m3u temp_deploy/index.m3u
+          cp index_uncheck.m3u temp_deploy/index_uncheck.m3u
+
+          cd temp_deploy
+
+          git init -b iptv-org-raw
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add và Commit 2 file
+          git add index.m3u index_uncheck.m3u
+          git commit -m "🔄 Tự động cập nhật playlist (bản check link và không check)"
+
+          git remote add origin https://${{ secrets.ENGINE_TOKEN }}@github.com/zaltvvn/live.git
+          git push origin iptv-org-raw --force
