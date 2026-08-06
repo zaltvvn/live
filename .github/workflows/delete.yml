@@ -1,9 +1,9 @@
 name: Delete old workflow runs
+
 on:
-  # Chạy hàng ngày vào lúc 02:37 UTC (09:37 sáng GMT+7). 
-  # Giờ lẻ giúp tránh bị GitHub bỏ qua khi server quá tải.
+  # Chạy mỗi Chủ nhật lúc 02:37 UTC (09:37 GMT+7)
   schedule:
-    - cron: '37 2 * * *'
+    - cron: '37 2 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -12,8 +12,9 @@ jobs:
     permissions:
       actions: write
       contents: read
+
     steps:
-      - name: Delete workflow runs for remote repo
+      - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
           token: ${{ github.token }}
