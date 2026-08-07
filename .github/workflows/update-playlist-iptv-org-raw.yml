@@ -22,15 +22,20 @@ jobs:
         with:
           python-version: "3.10"
 
+      # 🟢 1. LẤY NGÀY HIỆN TẠI ĐỂ LÀM KEY CACHE
+      - name: Get Current Date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      # 🟢 2. CẤU HÌNH CACHE THEO NGÀY
       - name: Cache JSON logos
         uses: actions/cache@v4
         with:
           path: |
             *.json
-          key: iptv-logos-cache-${{ runner.os }}-${{ github.run_number }}
+          key: iptv-logos-cache-raw-${{ runner.os }}-${{ steps.date.outputs.date }}
           restore-keys: |
-            iptv-logos-cache-${{ runner.os }}-
-            iptv-logos-cache-
+            iptv-logos-cache-raw-${{ runner.os }}-
 
       - name: Chạy Script xử lý M3U
         run: |
