@@ -29,15 +29,19 @@ jobs:
       - name: Install dependencies
         run: pip install aiohttp requests
 
-      - name: Cache JSON logos and data
+      # 🟢 1. LẤY NGÀY HIỆN TẠI ĐỂ LÀM KEY CACHE (1 Cache / 1 Ngày)
+      - name: Get Current Date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      # 🟢 2. CẤU HÌNH CACHE THEO NGÀY (Chỉ cache file github_logos.json)
+      - name: Cache GitHub TV Logos
         uses: actions/cache@v4
         with:
-          path: |
-            *.json
-          key: iptv-logos-cache-${{ runner.os }}-${{ github.run_number }}
+          path: github_logos.json
+          key: iptv-logos-cache-${{ runner.os }}-${{ steps.date.outputs.date }}
           restore-keys: |
             iptv-logos-cache-${{ runner.os }}-
-            iptv-logos-cache-
 
       - name: Run checker
         env:
@@ -49,10 +53,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          # 1. BẢO VỆ CACHE & M3U: Chuyển các file cần giữ lại ra thư mục tạm
+          # 1. BẢO VỆ M3U: Chuyển các file M3U ra thư mục tạm
           mkdir -p /tmp/safe-output
           mv *.m3u /tmp/safe-output/ 2>/dev/null || true
-          mv *.json /tmp/safe-output/ 2>/dev/null || true
 
           # 2. Tạo nhánh mồ côi (trống hoàn toàn)
           git checkout --orphan iptv-org
@@ -61,7 +64,7 @@ jobs:
           git rm -rf .
           git clean -fdx
 
-          # 4. Đưa các file .m3u và .json trở lại thư mục hiện tại (Sẽ bao gồm cả 2 file m3u)
+          # 4. Đưa các file .m3u trở lại
           mv /tmp/safe-output/* ./ 2>/dev/null || true
 
           # 5. Add, Commit và Force Push
